@@ -6,13 +6,13 @@ url: https://senssiii.github.io
 # Active la recherche (optionnel)
 search_enabled: true
 
-# Pour que le layout personnalisé soit utilisé
-defaults:
-  - scope:
-      path: "regles.md"
-    values:
-      layout: regles
-
+# Navigation personnalisée
+nav:
+  - title: Virmian
+    url: /Virmian_base.html
+    children:
+      - title: Domaine Royal
+        url: /domaine_royal.html
 
 just_the_docs:
   custom_css:

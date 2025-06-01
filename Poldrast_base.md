@@ -1,6 +1,6 @@
 ---
 title: Poldras-Litarn
-layout: home
+layout: default
 ---
 
 ## Position géographique et caractère

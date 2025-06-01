@@ -1,8 +1,14 @@
 ---
 title: Emerance
 layout: home
+nav_exclude: true 
 ---
-L# Le Dauphiné d'Émerance
+# Le Dauphiné d'Émerance
+
+<div style="width: 50vw; height: 100vh; overflow: hidden;">
+  <img src="assets/armoiries/Emerance.png" alt="Emerance" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
+
 
 ## Statut particulier dans le royaume
 

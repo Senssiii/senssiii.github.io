@@ -1,6 +1,6 @@
 ---
 title: Dastaisme
-layout: Culte
+layout: default
 ---
 # Le Culte de Dast le Tout-Puissant
 
