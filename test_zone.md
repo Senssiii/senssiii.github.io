@@ -14,10 +14,10 @@ body {
 
 # image  côté
 
-<div style="display: flex; flex-wrap: wrap; height: 100vh;">
+<div style="display: flex; height: 100vh; align-items: center;">
 
-  <div style="flex: 1 1 50%;">
-    <img src="assets/armoiries/Emerance.png" alt="Image" style="width: 100%; height: 100%; object-fit: contain; object-position: center;">
+  <div style="flex: 1 1 50%; display: flex; align-items: center; justify-content: center; height: 100%;">
+    <img src="assets/armoiries/Emerance.png" alt="Image" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
 
   <div style="flex: 1 1 50%; padding: 2rem;">
