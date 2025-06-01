@@ -6,7 +6,7 @@ L# Le Dauphiné d'Émerance
 
 ## Statut particulier dans le royaume
 
-Le Dauphiné d'Émerance occupe une position particulière dans l'architecture politique de Virmian. Ancien royaume indépendant conquis et intégré de force, il conserve un statut privilégié qui en fait, selon la formule consacrée, "un royaume dans le royaume". Ce territoire à la fois montagneux et côtier jouit d'une administration distincte et de coutumes propres que les souverains virmiens, par pragmatisme autant que par nécessité, ont généralement respectées.
+Le Dauphiné d'Émerance occupe une position particulière dans l'architecture politique de [Virmian](Virmian_base.html). Ancien royaume indépendant conquis et intégré de force, il conserve un statut privilégié qui en fait, selon la formule consacrée, "un royaume dans le royaume". Ce territoire à la fois montagneux et côtier jouit d'une administration distincte et de coutumes propres que les souverains virmiens, par pragmatisme autant que par nécessité, ont généralement respectées.
 
 ## Géographie et caractère du peuple
 
@@ -32,7 +32,7 @@ Cette excellence artisanale s'accompagne d'une culture particulière, plus aust�
 
 ## Institutions politiques
 
-Sur le plan politique, Émerance conserve des institutions distinctes du reste du royaume, vestiges jalousement gardés de son ancienne indépendance. Les États d'Émerance, assemblée regroupant représentants de la noblesse locale, du clergé dastaïte et des communes urbaines, se réunissent annuellement dans la ville de Salzburry. Si leurs prérogatives sont officiellement limitées aux questions fiscales et administratives internes au dauphiné, leur influence réelle dépasse largement ce cadre, s'étendant jusqu'à la politique étrangère dans certaines circonstances.
+Sur le plan politique, Émerance conserve des institutions distinctes du reste du royaume, vestiges jalousement gardés de son ancienne indépendance. Les États d'Émerance, assemblée regroupant représentants de la noblesse locale, du clergé [dastaïte](Dastaisme.html) et des communes urbaines, se réunissent annuellement dans la ville de Salzburry. Si leurs prérogatives sont officiellement limitées aux questions fiscales et administratives internes au dauphiné, leur influence réelle dépasse largement ce cadre, s'étendant jusqu'à la politique étrangère dans certaines circonstances.
 
 ## La noblesse émerançoise
 
@@ -40,7 +40,7 @@ La noblesse émerançoise forme un groupe particulièrement cohérent et fier de
 
 ## L'Église dastaïte locale
 
-L'Église dastaïte en Émerance présente également des particularités notables. Si le culte suit naturellement les préceptes établis par le Sanctriarque, ses manifestations locales incorporent des éléments plus anciens, notamment un cycle de festivités liées aux solstices et équinoxes qui rappelle les croyances pré-dastaïtes. Les monastères émerançois, généralement construits sur des sites isolés battus par les vents marins, ont développé une tradition intellectuelle distincte, privilégiant les études astronomiques et naturelles aux côtés des textes théologiques classiques.
+L'Église [dastaïte](Dastaisme.html) en Émerance présente également des particularités notables. Si le culte suit naturellement les préceptes établis par le Sanctriarque, ses manifestations locales incorporent des éléments plus anciens, notamment un cycle de festivités liées aux solstices et équinoxes qui rappelle les croyances pré-dastaïtes. Les monastères émerançois, généralement construits sur des sites isolés battus par les vents marins, ont développé une tradition intellectuelle distincte, privilégiant les études astronomiques et naturelles aux côtés des textes théologiques classiques.
 
 ## Administration du Dauphiné
 

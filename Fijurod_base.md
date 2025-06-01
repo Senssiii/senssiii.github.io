@@ -5,7 +5,7 @@ layout: home
 
 ## Avant-poste face aux territoires Blarst
 
-Aux confins septentrionaux du monde dastaïte, le royaume de Fijurod occupe une position particulière comme avant-poste face aux territoires Blarst. Son histoire récente et dramatique commence en 1103, lorsque Saint Marc, chevalier d'origine virmienne, entreprit avec treize compagnons une expédition audacieuse pour conquérir ces terres alors dominées par les Blarst.
+Aux confins septentrionaux du monde [dastaïte](Dastaisme.html), le royaume de Fijurod occupe une position particulière comme avant-poste face aux territoires Blarst. Son histoire récente et dramatique commence en 1103, lorsque Saint Marc, chevalier d'origine virmienne, entreprit avec treize compagnons une expédition audacieuse pour conquérir ces terres alors dominées par les Blarst.
 
 ## La conquête de Saint Marc (1103-1108)
 

@@ -44,7 +44,7 @@ Au-dessus du passage, le corps de logis principal s'élève sur plusieurs niveau
 
 ### La Grande Cathédrale
 
-Au cœur de Valder s'élève la Grande Cathédrale, chef-d'œuvre d'architecture sacrée dont la construction s'étala sur plus d'un siècle (1170-1291). Les sept tours de cet édifice, représentant les sept vertus principales du culte dastaïte, peuvent être aperçues à plusieurs lieues de distance, guidant le voyageur vers la capitale comme les étoiles guident le marin en haute mer.
+Au cœur de Valder s'élève la Grande Cathédrale, chef-d'œuvre d'architecture sacrée dont la construction s'étala sur plus d'un siècle (1170-1291). Les sept tours de cet édifice, représentant les sept vertus principales du culte [dastaïte](Dastaisme.html), peuvent être aperçues à plusieurs lieues de distance, guidant le voyageur vers la capitale comme les étoiles guident le marin en haute mer.
 
 ### Le Palais Royal
 

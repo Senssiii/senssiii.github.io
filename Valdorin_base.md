@@ -1,6 +1,6 @@
 ---
 title: Valdorin
-layout: home
+layout: default
 ---
 # Le Duché de Valdorin
 

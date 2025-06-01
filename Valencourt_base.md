@@ -6,7 +6,7 @@ layout: home
 
 ## Position stratégique
 
-Occupant une position stratégique au cœur des routes commerciales qui traversent le royaume, le duché de Valencourt constitue un maillon essentiel reliant la capitale Valder à la cité-État indépendante de Vostrag. Ce territoire se distingue par un mélange unique de prospérité économique et de farouche esprit d'indépendance urbaine.
+Occupant une position stratégique au cœur des routes commerciales qui traversent le royaume, le duché de Valencourt constitue un maillon essentiel reliant la capitale [Valder](domaine_royal.html) à la cité-État indépendante de [Vostrag](Vostrag_base.html). Ce territoire se distingue par un mélange unique de prospérité économique et de farouche esprit d'indépendance urbaine.
 
 ## Géographie et agriculture
 
@@ -32,7 +32,7 @@ Cette prospérité économique a favorisé l'émergence de villes dynamiques où
 
 ### Le système communal
 
-La notion de "commune"s'est solidement implantée dans les grandes villes du duché. Ces structures d'auto-gouvernance urbaine, dirigées par des conseils d'échevins élus parmi les notables locaux, jouissent d'une large autonomie en matière de justice locale, fiscalité municipale et organisation des milices bourgeoises. Certaines, comme la puissante commune de Bréville, ont même obtenu le droit de battre leur propre monnaie pour les transactions internes, privilège qui illustre leur pouvoir économique considérable tout en restant techniquement compatible avec le monopole royal sur le vald, seule monnaie officiellement reconnue dans l'ensemble du royaume.
+La notion de "commune" s'est solidement implantée dans les grandes villes du duché. Ces structures d'auto-gouvernance urbaine, dirigées par des conseils d'échevins élus parmi les notables locaux, jouissent d'une large autonomie en matière de justice locale, fiscalité municipale et organisation des milices bourgeoises. Certaines, comme la puissante commune de Bréville, ont même obtenu le droit de battre leur propre monnaie pour les transactions internes, privilège qui illustre leur pouvoir économique considérable tout en restant techniquement compatible avec le monopole royal sur le vald, seule monnaie officiellement reconnue dans l'ensemble du royaume.
 
 ## Tensions et révoltes urbaines
 
@@ -56,14 +56,14 @@ Les milices communales constituent un élément particulièrement remarquable de
 
 ### Exploits militaires
 
-Ces troupes ont plusieurs fois prouvé leur valeur sur le champ de bataille, notamment lors de la campagne contre Autchburg en 1267. Alors que l'armée royale virmienne se trouvait menacée d'encerclement par des forces ennemies supérieures, les milices de trois villes valencourtoises, accourues sous la bannière de leurs communes respectives, parvinrent à tenir un défilé stratégique pendant près de deux jours. Cette action d'éclat, où des bouchers, drapiers et tanneurs transformés en soldats affrontèrent avec succès des troupes professionnelles, est commémorée annuellement dans les villes concernées par des processions et des représentations théâtrales glorifiant l'esprit civique local.
+Ces troupes ont plusieurs fois prouvé leur valeur sur le champ de bataille, notamment lors de la campagne contre [Autchburg](Autchburg_base.html) en 1267. Alors que l'armée royale [virmienne](Virmian_base.html) se trouvait menacée d'encerclement par des forces ennemies supérieures, les milices de trois villes valencourtoises, accourues sous la bannière de leurs communes respectives, parvinrent à tenir un défilé stratégique pendant près de deux jours. Cette action d'éclat, où des bouchers, drapiers et tanneurs transformés en soldats affrontèrent avec succès des troupes professionnelles, est commémorée annuellement dans les villes concernées par des processions et des représentations théâtrales glorifiant l'esprit civique local.
 
 ## Noblesse adaptée au commerce
 
-La noblesse de Valencourt, moins nombreuse et généralement moins opulente que celle des duchés voisins, a dû s'adapter à cette réalité urbaine prépondérante. De nombreuses familles seigneuriales ont progressivement réorienté leurs activités vers le commerce et la finance, investissant dans les entreprises drapières ou participant aux compagnies commerciales qui assurent les échanges avec Vostrag et au-delà. Cette évolution, si elle a parfois été perçue avec dédain par la noblesse plus traditionnelle d'autres provinces, a néanmoins permis à ces lignages de maintenir leur influence et leur prospérité dans un contexte social en mutation.
+La noblesse de Valencourt, moins nombreuse et généralement moins opulente que celle des duchés voisins, a dû s'adapter à cette réalité urbaine prépondérante. De nombreuses familles seigneuriales ont progressivement réorienté leurs activités vers le commerce et la finance, investissant dans les entreprises drapières ou participant aux compagnies commerciales qui assurent les échanges avec [Vostrag](Vostrag_base.html) et au-delà. Cette évolution, si elle a parfois été perçue avec dédain par la noblesse plus traditionnelle d'autres provinces, a néanmoins permis à ces lignages de maintenir leur influence et leur prospérité dans un contexte social en mutation.
 
 ## Relations avec le pouvoir royal
 
-Les relations entre Valencourt et le pouvoir royal sont complexes, marquées par une interdépendance économique et stratégique qui tempère les velléités d'indépendance excessive. La position du duché, directement sur la route reliant Valder à Vostrag, en fait un passage obligé pour une grande partie du commerce du royaume, situation dont les ducs successifs ont su tirer profit tout en évitant de provoquer une réaction trop vigoureuse de la couronne.
+Les relations entre Valencourt et le pouvoir royal sont complexes, marquées par une interdépendance économique et stratégique qui tempère les velléités d'indépendance excessive. La position du duché, directement sur la route reliant [Valder](domaine_royal.html) à [Vostrag](Vostrag_base.html), en fait un passage obligé pour une grande partie du commerce du royaume, situation dont les ducs successifs ont su tirer profit tout en évitant de provoquer une réaction trop vigoureuse de la couronne.
 
 Le duc actuel, Henri III, maintient un équilibre précaire entre ses obligations envers son suzerain, les revendications de ses sujets urbains, et ses propres ambitions. Fin diplomate et négociateur habile formé dans les subtilités juridiques des chartes urbaines, il a su jusqu'à présent naviguer dans ces eaux tumultueuses sans provoquer de crise majeure, politique qui lui a valu le surnom quelque peu ambigu de "duc-marchand" dans les cercles aristocratiques plus traditionalistes.

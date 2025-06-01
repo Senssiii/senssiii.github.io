@@ -1,6 +1,6 @@
 ---
 title: Les Provinces Désunies
-layout: home
+layout: default
 ---
 
 ## Une mosaïque politique complexe

@@ -1,6 +1,6 @@
 ---
 title: Les Royaumes de Mardenbourg et Lortburg
-layout: home
+layout: default
 ---
 
 ## Les "royaumes jumeaux"

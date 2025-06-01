@@ -51,7 +51,7 @@ L'architecture locale privilégie les constructions à colombages ornés de moti
 
 ### Pratiques religieuses
 
-Le culte dastaïte y est pratiqué avec une dévotion comparable à la nôtre, bien que certaines interprétations théologiques diffèrent sensiblement. Les Autchbourgeois accordent une importance particulière aux aspects guerriers de la doctrine, vénérant avec ferveur Saint Gontran le Valeureux et d'autres figures martiales. Leurs cathédrales, généralement moins élancées que les nôtres mais plus massives, reflètent cette spiritualité robuste et pragmatique.
+Le culte [dastaïte](Dastaisme.html) y est pratiqué avec une dévotion comparable à la nôtre, bien que certaines interprétations théologiques diffèrent sensiblement. Les Autchbourgeois accordent une importance particulière aux aspects guerriers de la doctrine, vénérant avec ferveur Saint Gontran le Valeureux et d'autres figures martiales. Leurs cathédrales, généralement moins élancées que les nôtres mais plus massives, reflètent cette spiritualité robuste et pragmatique.
 
 ## Conflits majeurs avec Virmian
 

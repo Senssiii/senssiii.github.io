@@ -1,6 +1,6 @@
 ---
 title: Mirst
-layout: home
+layout: default
 ---
 # Le Grand Royaume de Mirst
 
