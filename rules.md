@@ -1,5 +1,6 @@
 ---
 title: Index
+layout: home
 nav_order: 2
 ---
 # 📜 Règlement du serveur **Atald – Serveur de Quête**
