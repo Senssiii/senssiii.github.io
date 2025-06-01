@@ -1,3 +1,7 @@
+---
+title: Index
+nav_order: 1
+---
 # 🏰 Bienvenue sur Atald
 
 Bienvenue sur le serveur **Atald**, un monde médiéval de quêtes et de mystères.  
