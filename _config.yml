@@ -5,3 +5,6 @@ url: https://senssiii.github.io
 
 # Active la recherche (optionnel)
 search_enabled: true
+just_the_docs:
+  custom_css:
+    - "assets/css/custom.css"

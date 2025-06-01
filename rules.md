@@ -2,7 +2,9 @@
 title: Règlement
 layout: default
 nav_order: 2
+classes: pages-regles
 ---
+
 # 📜 Règlement du serveur **Atald – Serveur de Quête**
 
 Bienvenue sur **Atald**, un monde médiéval où quête, intrigue et coopération sont reines.  
