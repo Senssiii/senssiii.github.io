@@ -13,7 +13,7 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
 (Il est a prendre en compte que le Lore n'est pas encore complet, et que sa mise en forme n'est pas encore optimal, notamment a cause des fautes d'orthographe qui le parcours.)
 
 <p align="center">
-  <img src="assets/map/map_vu_Virmian.jpeg" alt="Map Atald" width="800"/>
+  <img src="assets/map/global_Virmian.jpeg" alt="Map Atald" width="800"/>
 </p>
 
 ---
