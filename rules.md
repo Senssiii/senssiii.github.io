@@ -4,7 +4,6 @@ layout: default
 nav_order: 2
 ---
 
-<div class="pages-regles">
 # 📜 Règlement du serveur **Atald – Serveur de Quête**
 
 Bienvenue sur **Atald**, un monde médiéval où quête, intrigue et coopération sont reines.  
@@ -74,4 +73,3 @@ Avant de rejoindre l’aventure, veuillez lire attentivement les règles suivant
 - Utilisez les salons appropriés pour chaque type de message.
 
 ---
-</div>
