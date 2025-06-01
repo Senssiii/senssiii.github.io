@@ -3,7 +3,7 @@ title: Virmian
 layout: default
 ---
 # ⚜ Le Grand Royaume de Virmian ⚜
-*Bastion de la Foi Dastaïte et Fleuron de la Chevalerie*
+*Bastion de la Foi [Dastaïte](Dastaisme.html) et Fleuron de la Chevalerie*
 
 ## Un Héritage Millénaire
 
@@ -19,19 +19,19 @@ Le royaume s'étend en une mosaïque de duchés aux caractères distinctifs :
 
 **[Emerance](Emerance_base.html)**, l'ancien royaume conquis et pacifié, traditionnellement gouverné par l'héritier du trône, déploie ses montagnes riches en minerais et ses côtes battues par les vents, où prospèrent salines et troupeaux à la laine réputée.
 
-**[Valencourt](Valencourt_base.md)**, carrefour commercial vers la cité-État de Vostrag, brille par ses riches communes drapières aux libertés chèrement acquises lors de sanglantes révoltes urbaines. Ses milices bourgeoises rivalisent en discipline avec les meilleures troupes du royaume.
+**[Valencourt](Valencourt_base.html)**, carrefour commercial vers la cité-État de Vostrag, brille par ses riches communes drapières aux libertés chèrement acquises lors de sanglantes révoltes urbaines. Ses milices bourgeoises rivalisent en discipline avec les meilleures troupes du royaume.
 
-**Valdorin**, terre d'opulence et de raffinement, produit les vins les plus prisés du monde connu. Ses seigneurs dorés cultivent un art de vivre somptuaire qui influence les cours jusqu'aux confins du continent.
+**[Valdorin](Valdorin_base.html)**, terre d'opulence et de raffinement, produit les vins les plus prisés du monde connu. Ses seigneurs dorés cultivent un art de vivre somptuaire qui influence les cours jusqu'aux confins du continent.
 
-**Gaucourt**, cœur spirituel de la chevalerie virmienne, résonne des exploits de ses preux et de la renommée de ses tournois. Ses forêts anciennes et ses terres fertiles nourrissent les plus pures traditions aristocratiques.
+**[Gaucourt](Gaucourt_base.html)**, cœur spirituel de la chevalerie virmienne, résonne des exploits de ses preux et de la renommée de ses tournois. Ses forêts anciennes et ses terres fertiles nourrissent les plus pures traditions aristocratiques.
 
-**Almar**, province méridionale aux influences mistraliennes, ouvre le royaume sur la mer Mistral. Ses cités cosmopolites et sa flotte aguerrie maintiennent les liens commerciaux avec l'Empire Aurien et les terres lointaines.
+**[Almar](Almar_base.html)**, province méridionale aux influences mistraliennes, ouvre le royaume sur la mer Mistral. Ses cités cosmopolites et sa flotte aguerrie maintiennent les liens commerciaux avec l'Empire Aurien et les terres lointaines.
 
-**Volmarn** Terre encore marquée par les cicatrices du "Roi des Bandits", demeure un territoire de vigilance face aux ambitions d'Autchburg et de ses pairs vassalique.
+**[Volmarn](Volmarn_base.html)** Terre encore marquée par les cicatrices du "Roi des Bandits", demeure un territoire de vigilance face aux ambitions d'Autchburg et de ses pairs vassalique.
 
-## Foi et Épée : Le Culte Dastaïte
+## Foi et Épée : Le Culte [Dastaïte](Dastaisme.html)
 
-La foi dastaïte imprègne chaque aspect de la vie virmienne. Introduit par Saint Arvélan le Purificateur, ce culte prône l'équilibre entre contemplation et action guerrière selon le précepte : "Par la foi et par l'épée, l'homme juste servira Dast." Les ordres monastiques se divisent entre Contemplateurs voués à l'étude et Défenseurs-soldats comme les célèbres Chevaliers de la Rose Blanche. Le Primat des Lanvain, depuis la Grande Cathédrale de Valder, représente l'autorité du Sanctriarque d'Ostia dans le royaume.
+La foi [Dastaïte](Dastaisme.html) imprègne chaque aspect de la vie virmienne. Introduit par Saint Arvélan le Purificateur, ce culte prône l'équilibre entre contemplation et action guerrière selon le précepte : "Par la foi et par l'épée, l'homme juste servira Dast." Les ordres monastiques se divisent entre Contemplateurs voués à l'étude et Défenseurs-soldats comme les célèbres Chevaliers de la Rose Blanche. Le Primat des Lanvain, depuis la Grande Cathédrale de Valder, représente l'autorité du Sanctriarque d'Ostia dans le royaume.
 
 ## Épreuves et Triomphes
 
