@@ -12,8 +12,9 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
 
 (Il est a prendre en compte que le Lore n'est pas encore complet, et que sa mise en forme n'est pas encore optimal, notamment a cause des fautes d'orthographe qui le parcours.)
 
-
-![armoiries](armoiries/image.png)
+<p align="center">
+  <img src="armoiries/image.png" alt="Logo Atald" width="300"/>
+</p>
 
 ---
 # Légende :
