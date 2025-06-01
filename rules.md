@@ -1,3 +1,7 @@
+---
+title: Index
+nav_order: 2
+---
 # 📜 Règlement du serveur **Atald – Serveur de Quête**
 
 Bienvenue sur **Atald**, un monde médiéval où quête, intrigue et coopération sont reines.  
