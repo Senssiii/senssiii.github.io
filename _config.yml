@@ -1,5 +1,6 @@
 title: Wiki Atald
+description: Documentation du serveur Minecraft RP
 theme: just-the-docs
 
-# Navigation automatique
-nav_order: 1
+# Active la recherche (optionnel)
+search_enabled: true
