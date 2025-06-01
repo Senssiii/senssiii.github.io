@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+<style>
+
+body {
+    background-color: rgb(196, 53, 53);
+} 
+
+</style>
+
 
 <img src="assets/armoiries/Emerance.png" alt="Emerance" style="width: 50%; height: 50%; object-fit: cover;">
 
