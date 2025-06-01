@@ -13,7 +13,7 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
 (Il est a prendre en compte que le Lore n'est pas encore complet, et que sa mise en forme n'est pas encore optimal, notamment a cause des fautes d'orthographe qui le parcours.)
 
 <p align="center">
-  <img src="assets/armoiries/virimian_old.png" alt="Logo Atald" width="300"/>
+  <img src="assets/map/map_vu_Virmian.jpeg" alt="Map Atald" width="600"/>
 </p>
 
 ---
@@ -29,15 +29,7 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
 
 ---
 
-## 📜 Règlement
-
-👉 [Consultez le règlement du serveur](regles.html)
-
----
-
 ## 🔗 Navigation rapide
 
-- [Présentation du monde](monde.md)
-- [Factions et groupes](factions.md)
-- [Système de quêtes](quetes.md)
-- [Carte et régions](carte.md)
+- [Consultez le règlement du serveur](regles.html)
+- [Le Royaume de Virmian](Virmian_base.html)
