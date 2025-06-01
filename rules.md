@@ -2,6 +2,8 @@
 title: Règlement
 layout: default
 nav_order: 2
+permalink: /regles/
+classes: page-regles
 ---
 # 📜 Règlement du serveur **Atald – Serveur de Quête**
 
