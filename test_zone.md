@@ -9,7 +9,7 @@ layout: default
 <div style="display: flex; flex-wrap: wrap; height: 100vh;">
 
   <div style="flex: 1 1 50%;">
-    <img src="assets/armoiries/Emerance.png" alt="Image" style="width: 50%; height: 50%; object-fit: cover;">
+    <img src="assets/armoiries/Emerance.png" alt="Image" style="width: 100%; height: 100%; object-fit: contain; object-position: center;">
   </div>
 
   <div style="flex: 1 1 50%; padding: 2rem;">
