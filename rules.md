@@ -1,8 +1,7 @@
 ---
 title: Règlement
-layout: default
+layout: regles
 nav_order: 2
-classes: pages-regles
 ---
 
 # 📜 Règlement du serveur **Atald – Serveur de Quête**
