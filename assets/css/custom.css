@@ -1,6 +1,5 @@
-.page-regles {
-  background-color: rgba(134, 69, 69, 0.9);
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+.page-regles .main-content {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 2rem;
+  border-radius: 10px;
 }
