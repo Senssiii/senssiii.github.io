@@ -6,7 +6,7 @@ nav_exclude: true
 # Le Dauphiné d'Émerance
 
 <div style="width: 50vw; height: 100vh; overflow: hidden;">
-  <img src="assets/armoiries/Emerance.png" alt="Emerance" style="width: 100%; height: 100%; object-fit: cover;">
+  <img src="assets/armoiries/Emerance.png" alt="Emerance" style="width: 50%; height: 50%; object-fit: cover;">
 </div>
 
 
