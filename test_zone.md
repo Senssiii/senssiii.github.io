@@ -2,11 +2,13 @@
 layout: default
 ---
 <style>
-
-body {
-    background-color: rgb(196, 53, 53);
-} 
-
+  body {
+    background-image: url("assets/armoiries/Volmarn.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+  }
 </style>
 
 
