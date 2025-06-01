@@ -5,6 +5,15 @@ url: https://senssiii.github.io
 
 # Active la recherche (optionnel)
 search_enabled: true
+
+# Pour que le layout personnalisé soit utilisé
+defaults:
+  - scope:
+      path: "regles.md"
+    values:
+      layout: regles
+
+
 just_the_docs:
   custom_css:
-    - "assets/css/custom.css"
+    - "assets/css/custom.css" # ou utilise juste _sass/custom/custom.scss
