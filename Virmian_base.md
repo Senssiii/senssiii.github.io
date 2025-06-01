@@ -1,34 +1,33 @@
 ---
 title: Virmian
 layout: default
-nav_order: 2
 ---
 # ⚜ Le Grand Royaume de Virmian ⚜
 *Bastion de la Foi Dastaïte et Fleuron de la Chevalerie*
 
 ## Un Héritage Millénaire
 
-Érigé en 565 sur les cendres fumantes du vénérable empire de [Mirst](mirst.md), le Grand Royaume de Virmian s'impose depuis près d'un millénaire comme l'une des puissances dominantes du monde connu. Fondé par la glorieuse dynastie des Harcourt, qui régna pendant cinq siècles avant de céder le trône aux Valder en 1040, ce royaume a su traverser les vicissitudes de l'histoire pour forger une identité unique, mêlant foi ardente, excellence chevaleresque et prospérité marchande.
+Érigé en 565 sur les cendres fumantes du vénérable empire de [Mirst](mirst.html), le Grand Royaume de Virmian s'impose depuis près d'un millénaire comme l'une des puissances dominantes du monde connu. Fondé par la glorieuse dynastie des Harcourt, qui régna pendant cinq siècles avant de céder le trône aux Valder en 1040, ce royaume a su traverser les vicissitudes de l'histoire pour forger une identité unique, mêlant foi ardente, excellence chevaleresque et prospérité marchande.
 
 ## Le Cœur du Royaume : Valder la Magnifique
 
-Au centre de cette construction politique se dresse Valder, capitale rayonnante de 150 000 âmes, joyau architectural érigé sur les rives de l'Avinau. Ses sept tours cathédraliques percent les cieux comme autant de prières de pierre, tandis que le célèbre pont d'Harcourt, véritable rue suspendue couronnée de son fort imprenable, symbolise la grandeur virmienne. Le palais royal, agrandi par chaque dynastie, et l'Université fondée en 1211 font de cette cité un foyer de pouvoir temporel, spirituel et intellectuel sans égal.
+Au centre de cette construction politique se dresse [Valder](domaine_royal.html), capitale rayonnante de 150 000 âmes, joyau architectural érigé sur les rives de l'Avinau. Ses sept tours cathédraliques percent les cieux comme autant de prières de pierre, tandis que le célèbre pont d'Harcourt, véritable rue suspendue couronnée de son fort imprenable, symbolise la grandeur virmienne. Le palais royal, agrandi par chaque dynastie, et l'Université fondée en 1211 font de cette cité un foyer de pouvoir temporel, spirituel et intellectuel sans égal.
 
 ## Les Provinces : Une Mosaïque de Richesses
 
 Le royaume s'étend en une mosaïque de duchés aux caractères distinctifs :
 
-**Emerance**, l'ancien royaume conquis et pacifié, traditionnellement gouverné par l'héritier du trône, déploie ses montagnes riches en minerais et ses côtes battues par les vents, où prospèrent salines et troupeaux à la laine réputée.
+**[Emerance](Emerance_base.html)**, l'ancien royaume conquis et pacifié, traditionnellement gouverné par l'héritier du trône, déploie ses montagnes riches en minerais et ses côtes battues par les vents, où prospèrent salines et troupeaux à la laine réputée.
 
-**Valencourt**, carrefour commercial vers la cité-État de Vostrag, brille par ses riches communes drapières aux libertés chèrement acquises lors de sanglantes révoltes urbaines. Ses milices bourgeoises rivalisent en discipline avec les meilleures troupes du royaume.
+**[Valencourt](Valencourt_base.md)**, carrefour commercial vers la cité-État de Vostrag, brille par ses riches communes drapières aux libertés chèrement acquises lors de sanglantes révoltes urbaines. Ses milices bourgeoises rivalisent en discipline avec les meilleures troupes du royaume.
 
 **Valdorin**, terre d'opulence et de raffinement, produit les vins les plus prisés du monde connu. Ses seigneurs dorés cultivent un art de vivre somptuaire qui influence les cours jusqu'aux confins du continent.
 
 **Gaucourt**, cœur spirituel de la chevalerie virmienne, résonne des exploits de ses preux et de la renommée de ses tournois. Ses forêts anciennes et ses terres fertiles nourrissent les plus pures traditions aristocratiques.
 
-**Almar**, province méridionale aux influences mistraliennes, ouvre le royaume sur la grande mer. Ses cités cosmopolites et sa flotte aguerrie maintiennent les liens commerciaux avec l'Empire Aurien et les terres lointaines.
+**Almar**, province méridionale aux influences mistraliennes, ouvre le royaume sur la mer Mistral. Ses cités cosmopolites et sa flotte aguerrie maintiennent les liens commerciaux avec l'Empire Aurien et les terres lointaines.
 
-**Volmarn**, marche frontalière encore marquée par les cicatrices du "Roi des Bandits", demeure un territoire de vigilance face aux ambitions d'Autchburg.
+**Volmarn** Terre encore marquée par les cicatrices du "Roi des Bandits", demeure un territoire de vigilance face aux ambitions d'Autchburg et de ses pairs vassalique.
 
 ## Foi et Épée : Le Culte Dastaïte
 
@@ -42,7 +41,7 @@ L'épisode tragique du "Roi des Bandits" Albert d'Arsenbel (1459-1464), qui rava
 
 ## Puissance et Rayonnement
 
-La force du royaume repose sur une armée permanente de 5 000 soldats professionnels, complétée par les contingents féodaux et les redoutables milices urbaines. Sa flotte, particulièrement celle d'Almar aux galères rapides et de Valdorin aux navires somptuaires, sillonne les mers du sud au nord.
+La force du royaume repose sur une armée permanente, complétée par les contingents féodaux et les redoutables milices urbaines. Sa flotte, particulièrement celle d'Almar aux galères rapides et de Valdorin aux navires somptuaires, sillonne les mers du sud au nord.
 
 L'économie florissante s'appuie sur l'excellence artisanale - draps valenciens, vins valdorins, aciers émerançois -, le commerce international via les foires renommées, et les richesses agricoles de terres fécondes. La diplomatie virmienne a su étendre l'influence royale par la vassalisation du royaume d'Arrsriv et de multiples alliances matrimoniales.
 
