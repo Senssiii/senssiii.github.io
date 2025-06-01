@@ -22,6 +22,10 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
 - `🔴 : Forte`
 - `🟡 : Moyenne`
 - `🟢 : Faible`
+## Type : 
+- `🔺 : Personnage`
+- `🔴 : Lieu`
+- `🟥 : Autre`
 
 ---
 
