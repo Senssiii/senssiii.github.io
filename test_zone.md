@@ -4,6 +4,23 @@ layout: medieval
 nav_exclude: true
 ---
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap');
+
+  :root {
+    --body-background-color: #fdf6e3;
+    --body-text-color: #333;
+    --link-color: #5b2c6f;
+    --nav-background-color: #f1e4c8;
+    --nav-border-color: #c8b36b;
+    --sidebar-width: 260px;
+    --font-family-base: 'IM Fell English', serif;
+  }
+  .regles {
+    background-color: #fffaf0;
+    padding: 2rem;
+    border: 1px solid #ccc;
+    font-family: 'IM Fell English', serif;
+  }
   body {
     position: relative;
     margin: 0;
