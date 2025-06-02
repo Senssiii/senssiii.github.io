@@ -1,6 +1,6 @@
 ---
 title: Virmian
-layout: default
+layout: medieval
 ---
 # ⚜ Le Grand Royaume de Virmian ⚜
 *Bastion de la Foi [Dastaïte](Dastaisme.html) et Fleuron de la Chevalerie*
