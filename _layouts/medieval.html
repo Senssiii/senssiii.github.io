@@ -2,18 +2,16 @@
 layout: default
 ---
 <style>
-
 @import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
 
 :root {
-  --body-background-color: #fdf6e3;        /* Beige clair parcheminé */
-  --body-text-color: #4b3b2a;             /* Brun foncé doux, bonne lisibilité */
-  --link-color: #7b4f2c;                  /* Brun chaud pour les liens */
-  --nav-background-color: #f3e5ab;        /* Jaune parchemin pâle */
-  --nav-border-color: #d2b48c;            /* Brun sable doux */
-  --sidebar-width: 260px;
+  --body-background-color: #fdf6e3;
+  --body-text-color: #4b3b2a;
+  --link-color: #7b4f2c;
+  --nav-background-color: #f3e5ab;
+  --nav-border-color: #d2b48c;
   --font-family-base: "UnifrakturMaguntia", cursive;
-  --sidebar-width: 300px; /* ou la largeur que tu veux, ex : 200px, 320px */
+  --sidebar-width: 240px; /* Valeur fixe recommandée */
 }
 
 body {
@@ -22,11 +20,13 @@ body {
   font-family: var(--font-family-base);
   color: var(--body-text-color);
   background-color: var(--body-background-color);
-  position: relative;
   background-image: url("/assets/textures/parchemin_1.png");
-  z-index: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   line-height: 1.6;
-  padding: 1rem;
+  display: flex;
+  flex-direction: row;
 }
 
 body::before {
@@ -43,7 +43,26 @@ body::before {
   opacity: 0.85;
 }
 
-/* Pour améliorer le rendu des liens */
+/* Barre latérale */
+.side-bar {
+  width: var(--sidebar-width);
+  min-width: 200px;
+  background-color: var(--nav-background-color);
+  border-right: 1px solid var(--nav-border-color);
+  box-shadow: 2px 0 8px rgba(0,0,0,0.1);
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+/* Contenu principal */
+.main {
+  flex: 1;
+  padding: 2rem;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+/* Liens */
 a {
   color: var(--link-color);
   text-decoration: none;
@@ -52,20 +71,12 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Navigation ou blocs de menu */
+/* Optionnel : styliser la nav */
 nav {
-  background-color: var(--nav-background-color);
-  border: 1px solid var(--nav-border-color);
-  padding: 1rem;
-  font-family: "UnifrakturMaguntia", cursive;
-  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
-}
-
-.side-bar {
-  width: var(--sidebar-width);
-}
-.main {
-  margin-left: var(--sidebar-width);
+  font-family: var(--font-family-base);
+  background-color: transparent;
+  border: none;
+  padding: 0;
 }
 </style>
 
