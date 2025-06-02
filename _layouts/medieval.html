@@ -20,7 +20,7 @@ body {
   min-height: 100vh;
   font-family: var(--font-family-base);
   color: var(--body-text-color);
-  background-color: transparent;
+  background-color: --body-background-color;
   position: relative;
   z-index: 0;
 }
@@ -37,16 +37,6 @@ body::before {
   background-repeat: no-repeat;
   background-position: center;
   z-index: -1;
-}
-
-.regles {
-  background-color: rgba(255, 250, 240, 0.95); /* léger fond parchemin pâle lisible */
-  padding: 2rem;
-  border: 1px solid #ccc;
-  max-width: 800px;
-  margin: 2rem auto;
-  font-family: var(--font-family-base);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 </style>
 
