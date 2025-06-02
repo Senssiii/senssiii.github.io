@@ -1,8 +1,5 @@
----
----
-
-//@import "{{ site.theme }}";
-
+@import "{{ site.theme }}";
+@import "styles";
 
 .page.royal-theme {
   --body-background-color: #fdf6e3;
