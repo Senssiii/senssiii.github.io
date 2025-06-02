@@ -1,6 +1,7 @@
 ---
 title: Emerance
 layout: home
+page_class: royal-theme
 nav_exclude: true 
 ---
 # Le Dauphiné d'Émerance
