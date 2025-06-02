@@ -13,6 +13,7 @@ layout: default
   --nav-border-color: #d2b48c;            /* Brun sable doux */
   --sidebar-width: 260px;
   --font-family-base: "UnifrakturMaguntia", cursive;
+  --sidebar-width: 300px; /* ou la largeur que tu veux, ex : 200px, 320px */
 }
 
 body {
@@ -58,6 +59,13 @@ nav {
   padding: 1rem;
   font-family: "UnifrakturMaguntia", cursive;
   box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+}
+
+.side-bar {
+  width: var(--sidebar-width);
+}
+.main {
+  margin-left: var(--sidebar-width);
 }
 </style>
 
