@@ -16,7 +16,7 @@ layout: default
     height: 100%;
     background-image: 
       linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
-      url("assets/armoiries/Volmarn.png");
+      url("assets/textures/parchemin_1.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
