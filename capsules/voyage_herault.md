@@ -1,10 +1,7 @@
 ---
 title: Capsule 1
 layout: default
-nav_order: 1
 ---
-
-●▬▬▬▬▬▬✠⚜️ ❈ [CAPSULE LORE N°1] ❈⚜️ ✠▬▬▬▬▬▬▬▬▬●
 # Le voyage d'un Héraut
 
 ## La Grande Baronnie de Rivbris

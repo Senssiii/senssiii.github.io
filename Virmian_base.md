@@ -5,6 +5,9 @@ layout: default
 # ⚜ Le Grand Royaume de Virmian ⚜
 *Bastion de la Foi [Dastaïte](Dastaisme.html) et Fleuron de la Chevalerie*
 
+
+![Map Virmian](assets/map/zoom_Virmian.png)
+
 ## Un Héritage Millénaire
 
 Érigé en 565 sur les cendres fumantes du vénérable empire de [Mirst](mirst.html), le Grand Royaume de Virmian s'impose depuis près d'un millénaire comme l'une des puissances dominantes du monde connu. Fondé par la glorieuse dynastie des Harcourt, qui régna pendant cinq siècles avant de céder le trône aux Valder en 1040, ce royaume a su traverser les vicissitudes de l'histoire pour forger une identité unique, mêlant foi ardente, excellence chevaleresque et prospérité marchande.
@@ -12,6 +15,8 @@ layout: default
 ## Le Cœur du Royaume : Valder la Magnifique
 
 Au centre de cette construction politique se dresse [Valder](domaine_royal.html), capitale rayonnante de 150 000 âmes, joyau architectural érigé sur les rives de l'Avinau. Ses sept tours cathédraliques percent les cieux comme autant de prières de pierre, tandis que le célèbre pont d'Harcourt, véritable rue suspendue couronnée de son fort imprenable, symbolise la grandeur virmienne. Le palais royal, agrandi par chaque dynastie, et l'Université fondée en 1211 font de cette cité un foyer de pouvoir temporel, spirituel et intellectuel sans égal.
+
+![Virmian Polituque](assets/map/politique_Virmian.png)
 
 ## Les Provinces : Une Mosaïque de Richesses
 

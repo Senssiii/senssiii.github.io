@@ -1,5 +1,5 @@
 ---
-title: Les Royaumes de Mardenbourg et Lortburg
+title: Mardenbourg et Lortburg
 layout: default
 ---
 

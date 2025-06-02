@@ -33,3 +33,4 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
 
 - [Consultez le règlement du serveur](regles.html)
 - [Le Royaume de Virmian](Virmian_base.html)
+- [Capsule de lore](capsules/index_capsule.html)
