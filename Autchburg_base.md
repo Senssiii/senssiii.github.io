@@ -1,6 +1,6 @@
 ---
 title: Autchburg
-layout: home
+layout: medieval
 nav_exclude: true
 ---
 

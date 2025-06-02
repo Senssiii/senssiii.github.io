@@ -1,6 +1,6 @@
 ---
 title: Index
-layout: home
+layout: medieval
 nav_order: 1
 ---
 # 🏰 Bienvenue sur Atald

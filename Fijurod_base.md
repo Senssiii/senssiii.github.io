@@ -1,6 +1,6 @@
 ---
 title: Fijurod
-layout: home
+layout: medieval
 nav_exclude: true 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Volmarn
-layout: home
+layout: medieval
 nav_exclude: true 
 ---
 # Le Duché de Volmarn
