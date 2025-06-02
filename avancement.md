@@ -1,9 +1,9 @@
 ---
-title: Almar
+title: Avancement
 layout: home
-nav_order: 1
+nav_order: 3
 ---
-●▬▬▬▬▬▬▬▬▬✠⚜️ ❈[Build Duché de Volmarn (Grand royaume de Valder)] ❈⚜️ ✠▬▬▬▬▬▬▬▬▬●
+# Duché de [Volmarn](Volmarn_base.html) (Grand royaume de Valder)
 
 - Duché de Volmarn 🔃
   - Fort Saint-Hamelin ✅ 
