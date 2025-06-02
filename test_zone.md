@@ -4,42 +4,51 @@ layout: medieval
 nav_exclude: true
 ---
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap');
 
-  :root {
-    --body-background-color: #fdf6e3;
-    --body-text-color: #333;
-    --link-color: #5b2c6f;
-    --nav-background-color: #f1e4c8;
-    --nav-border-color: #c8b36b;
-    --sidebar-width: 260px;
-    --font-family-base: 'IM Fell English', serif;
-  }
-  .regles {
-    background-color: #fffaf0;
-    padding: 2rem;
-    border: 1px solid #ccc;
-    font-family: 'IM Fell English', serif;
-  }
-  body {
-    position: relative;
-    margin: 0;
-  }
+:root {
+  --body-background-color: #fdf6e3;
+  --body-text-color: #333;
+  --link-color: #5b2c6f;
+  --nav-background-color: #f1e4c8;
+  --nav-border-color: #c8b36b;
+  --sidebar-width: 260px;
+  --font-family-base: 'IM Fell English', serif;
+}
 
-  body::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: 
-      url("assets/textures/parchemin_1.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    z-index: -1;
-  }
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font-family-base);
+  color: var(--body-text-color);
+  background-color: transparent;
+  position: relative;
+  z-index: 0;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("assets/textures/parchemin_1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: -1;
+}
+
+.regles {
+  background-color: rgba(255, 250, 240, 0.95); /* léger fond parchemin pâle lisible */
+  padding: 2rem;
+  border: 1px solid #ccc;
+  max-width: 800px;
+  margin: 2rem auto;
+  font-family: var(--font-family-base);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 </style>
 
 
