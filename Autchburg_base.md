@@ -1,11 +1,15 @@
 ---
 title: Autchburg
 layout: home
+nav_exclude: true
 ---
 
 ## Rival traditionnel de Virmian
 
 De tous les royaumes qui émergèrent des cendres de Mirst, nul n'entretient avec Virmian une relation aussi complexe et tendue qu'Autchburg. Ce royaume septentrional constitue depuis sa fondation le rival traditionnel de notre royaume, une puissance dont l'influence et les ambitions se heurtent continuellement aux nôtres.
+
+<img src="assets/armoiries/Autchburg.png" alt="Emerance" style="width: 50%; height: 50%; object-fit: cover;">
+
 
 ## Origines et fondation (565)
 

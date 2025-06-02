@@ -1,6 +1,7 @@
 ---
 title: Vostrag
 layout: home
+nav_exclude: true 
 ---
 
 ## Position unique dans le monde

@@ -1,6 +1,7 @@
 ---
 title: Gaucourt
 layout: home
+nav_exclude: true
 ---
 # Le Duché de Gaucourt
 

@@ -1,6 +1,7 @@
 ---
 title: Fijurod
 layout: home
+nav_exclude: true 
 ---
 
 ## Avant-poste face aux territoires Blarst

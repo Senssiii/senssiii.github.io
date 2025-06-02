@@ -1,6 +1,7 @@
 ---
 title: Domaine Royal
 layout: home
+nav_exclude: true
 ---
 # Le Domaine Royal
 

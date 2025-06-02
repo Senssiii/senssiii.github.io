@@ -1,6 +1,7 @@
 ---
 title: Capsule 1
 layout: default
+nav_exclude: true 
 ---
 # Le voyage d'un Héraut
 
@@ -12,4 +13,4 @@ layout: default
 
 > *Passage des récits du Héraut royal Jean de Brisval*
 
-![image](assets/screens/voyage_herault.png)
+![image](../assets/screens/voyage_herault.png)

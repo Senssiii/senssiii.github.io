@@ -1,6 +1,7 @@
 ---
 title: Poldras-Litarn
 layout: default
+nav_exclude: true
 ---
 
 ## Position géographique et caractère

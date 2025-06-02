@@ -1,6 +1,8 @@
 ---
 title: Andrion
 layout: home
+nav_exclude: true 
+
 ---
 
 ## Allié privilégié de Virmian

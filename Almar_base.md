@@ -1,6 +1,7 @@
 ---
 title: Almar
 layout: home
+nav_exclude: true
 ---
 # Le Duché d'Almar
 

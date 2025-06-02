@@ -1,5 +1,7 @@
 ---
+title: ZONE DE TEST
 layout: default
+nav_exclude: true
 ---
 <style>
   body {

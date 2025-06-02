@@ -1,6 +1,7 @@
 ---
 title: Mirst
 layout: default
+nav_exclude: true
 ---
 # Le Grand Royaume de Mirst
 
