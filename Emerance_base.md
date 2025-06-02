@@ -5,7 +5,7 @@ nav_exclude: true
 ---
 # Le Dauphiné d'Émerance
 
-<img src="assets/armoiries/Emerance.png" alt="Emerance" style="width: 50%; height: 50%; object-fit: cover;">
+<img src="assets/armoiries/Emerance.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
 
 ## Statut particulier dans le royaume
 
