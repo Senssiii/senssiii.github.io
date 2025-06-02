@@ -1,6 +1,6 @@
 ---
 title: Poldras-Litarn
-layout: default
+layout: medieval
 nav_exclude: true
 ---
 

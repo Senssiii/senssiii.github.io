@@ -1,6 +1,6 @@
 ---
 title: Mardenbourg et Lortburg
-layout: default
+layout: medieval
 nav_exclude: true
 ---
 

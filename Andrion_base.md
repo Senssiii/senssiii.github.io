@@ -1,6 +1,6 @@
 ---
 title: Andrion
-layout: home
+layout: medieval
 nav_exclude: true 
 
 ---

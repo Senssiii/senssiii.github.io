@@ -1,6 +1,6 @@
 ---
 title: Domaine Royal
-layout: home
+layout: medieval
 nav_exclude: true
 ---
 # Le Domaine Royal
