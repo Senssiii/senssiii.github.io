@@ -1,6 +1,6 @@
 title: Wiki Atald
 description: Le serveur minecraft Atald !
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 url: https://senssiii.github.io
 
 search_enabled: true
