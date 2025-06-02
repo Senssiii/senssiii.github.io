@@ -3,10 +3,8 @@ description: Le serveur minecraft Atald !
 theme: just-the-docs
 url: https://senssiii.github.io
 
-# Active la recherche (optionnel)
 search_enabled: true
 
-# Navigation personnalisée
 nav:
   - title: Virmian
     url: /Virmian_base.html
@@ -16,4 +14,4 @@ nav:
 
 just_the_docs:
   custom_css:
-    - "assets/css/custom.css" # ou utilise juste _sass/custom/custom.scss
+    - "assets/css/custom.css"
