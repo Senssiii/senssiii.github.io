@@ -5,6 +5,8 @@ nav_exclude: true
 ---
 # Le Duché de Valdorin
 
+<img src="assets/armoiries/Valdorin.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+
 ## Une prospérité remarquable
 
 Valdorin se distingue comme la plus riche des entités vassales directes de la couronne, une prospérité qui doit autant à sa situation géographique avantageuse qu'au talent commercial et à l'ostentation de ses habitants. Situé sur la partie occidentale du royaume, bordé par la mer et traversé par plusieurs routes commerciales majeures.

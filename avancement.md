@@ -1,6 +1,6 @@
 ---
 title: Avancement
-layout: home
+layout: default
 nav_order: 3
 ---
 # Duché de [Volmarn](Volmarn_base.html) (Grand royaume de Valder)
