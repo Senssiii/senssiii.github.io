@@ -35,6 +35,4 @@ nav_order: 3
 - Grande baronnie de Rivbris ✅ 
  - Bourg de Corsoi ✅ 
  - Bourg de Frolais ✅ 
- - Château de Liov ✅ 
-
-●▬▬▬▬▬▬▬▬▬✠⚜️ ❈[Build Duché de Volmarn (Grand royaume de Valder)] ❈⚜️ ✠▬▬▬▬▬▬▬▬▬●
+ - Château de Liov ✅

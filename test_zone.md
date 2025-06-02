@@ -1,6 +1,6 @@
 ---
 title: ZONE DE TEST
-layout: default
+layout: medieval
 nav_exclude: true
 ---
 <style>

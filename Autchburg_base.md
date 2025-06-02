@@ -8,9 +8,6 @@ nav_exclude: true
 
 De tous les royaumes qui émergèrent des cendres de Mirst, nul n'entretient avec Virmian une relation aussi complexe et tendue qu'Autchburg. Ce royaume septentrional constitue depuis sa fondation le rival traditionnel de notre royaume, une puissance dont l'influence et les ambitions se heurtent continuellement aux nôtres.
 
-<img src="assets/armoiries/Autchburg.png" alt="Emerance" style="width: 50%; height: 50%; object-fit: cover;">
-
-
 ## Origines et fondation (565)
 
 L'origine d'Autchburg remonte précisément à la même période que celle de Virmian : l'année 565, lorsque l'effondrement définitif de Mirst créa un vide politique que diverses forces s'empressèrent de combler. La maison des Farzenberg, branche cadette de la famille royale mirsienne, établit son autorité sur les provinces nord-orientales, proclamant sa légitimité à hériter de l'ensemble du royaume défunt.
