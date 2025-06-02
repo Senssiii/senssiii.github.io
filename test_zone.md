@@ -17,7 +17,6 @@ nav_exclude: true
     width: 100%;
     height: 100%;
     background-image: 
-      linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
       url("assets/textures/parchemin_1.png");
     background-size: cover;
     background-repeat: no-repeat;
