@@ -1,3 +1,8 @@
+---
+title: Capsule 1
+layout: default
+---
+
 ●▬▬▬▬▬▬✠⚜️ ❈ [CAPSULE LORE N°1] ❈⚜️ ✠▬▬▬▬▬▬▬▬▬●
 # Le voyage d'un Héraut
 

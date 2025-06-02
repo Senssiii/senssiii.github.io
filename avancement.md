@@ -1,3 +1,8 @@
+---
+title: Almar
+layout: home
+nav_order: 1
+---
 ●▬▬▬▬▬▬▬▬▬✠⚜️ ❈[Build Duché de Volmarn (Grand royaume de Valder)] ❈⚜️ ✠▬▬▬▬▬▬▬▬▬●
 
 - Duché de Volmarn 🔃
