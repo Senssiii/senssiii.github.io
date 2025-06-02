@@ -5,13 +5,6 @@ url: https://senssiii.github.io
 
 search_enabled: true
 
-nav:
-  - title: Virmian
-    url: /Virmian_base.html
-    children:
-      - title: Domaine Royal
-        url: /domaine_royal.html
-
 just_the_docs:
   custom_css:
     - "assets/css/custom.css"

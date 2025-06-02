@@ -1,7 +1,6 @@
 ---
 title: Emerance
-layout: home
-page_class: royal-theme
+layout: medieval
 nav_exclude: true 
 ---
 # Le Dauphiné d'Émerance
