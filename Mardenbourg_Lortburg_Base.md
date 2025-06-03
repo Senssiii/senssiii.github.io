@@ -8,6 +8,9 @@ nav_exclude: true
 
 Au centre-est du monde connu, les royaumes de Mardenbourg et Lortburg occupent des territoires adjacents séparés par une chaîne montagneuse. Ces "royaumes jumeaux", comme les désignent parfois les chroniqueurs, partagent une origine commune mais entretiennent une rivalité acharnée qui a façonné leur développement respectif.
 
+<img src="assets/armoiries/Mardenbourg.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+
+
 ## Origine commune et fragmentation (1054)
 
 Leur histoire commune débute en 1054, année qui vit l'implosion du Grand Royaume de Mardenbourg, entité politique autrefois unifiée. Cette fragmentation, attribuée principalement à des querelles dynastiques exacerbées par l'absence d'héritier mâle direct, donna naissance à deux entités distinctes : Mardenbourg au sud, dominé par des plaines fertiles et quelques zones forestières, et Lortburg au nord, caractérisé par un terrain plus accidenté et montagneux.

@@ -10,6 +10,9 @@ Aux septentrion du monde civilisé s'étendent deux ensembles politiques et cult
 
 ## Les Principautés Nordiques
 
+
+<img src="assets/armoiries/PN.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+
 ### Structure politique confédérée
 
 Les Principautés Nordiques constituent une confédération lâche d'entités politiques semi-autonomes partageant certaines caractéristiques culturelles et linguistiques, mais jalouses de leurs prérogatives individuelles. Contrairement à ce que suggèrent certains récits fantaisistes qui les dépeignent comme des guerriers barbares, ces populations sont principalement tournées vers le commerce maritime et l'exploitation des ressources forestières. Leur culture se rapproche de celle de Valencourt et de Vostrag, que ce soit dans les noms, l'administration ou les différentes pratiques. Ceci est dû à l'origine des principautés, fondées sous le royaume de Mirst par des marchands vostragiens ayant été bannis pour de sombres affaires de la resplendissante cité.
