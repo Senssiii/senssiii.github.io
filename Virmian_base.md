@@ -61,3 +61,5 @@ Cependant, des préoccupations assombrissent l'horizon : le dauphin Arlen (21 an
 Malgré ces défis, le Grand Royaume de Virmian demeure l'une des puissances prépondérantes du monde connu. Forte de son héritage glorieux, de ses institutions éprouvées, de sa foi ardente et de sa noblesse chevaleresque, cette construction politique unique continue de rayonner bien au-delà de ses frontières, incarnant un modèle d'équilibre entre tradition et modernité, entre pouvoir central et libertés locales, entre gloire militaire et prospérité civile.
 
 *Que Dast bénisse et préserve cette noble entreprise pour les siècles à venir.*
+
+[**Pour une version plus complète**](Virmian_avancé.html)
