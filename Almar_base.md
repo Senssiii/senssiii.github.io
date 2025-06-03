@@ -5,6 +5,8 @@ nav_exclude: true
 ---
 # Le Duché d'Almar
 
+<img src="assets/armoiries/Almar.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+
 ## Identité mistralienne
 
 Le duché d'Almar, situé dans la partie méridionale du royaume où il bénéficie d'un climat plus doux et d'un accès privilégié à la Mer Mistral, présente un profil culturel et économique qui contraste nettement avec les provinces plus septentrionales. Ce territoire, dont l'atmosphère et les traditions évoquent irrésistiblement la Provence et le Languedoc de notre monde, combine influences mistraliennes et héritage virmien dans un mélange unique et parfois explosif.

@@ -1,6 +1,6 @@
 ---
 title: Les Provinces Désunies
-layout: default
+layout: medieval
 nav_exclude: true
 ---
 

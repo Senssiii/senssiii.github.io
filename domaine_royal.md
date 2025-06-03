@@ -5,6 +5,9 @@ nav_exclude: true
 ---
 # Le Domaine Royal
 
+<img src="assets/armoiries/virmian_new.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+
+
 ## Vue d'ensemble
 
 Au cœur même du royaume se trouve le domaine royal, terres directement administrées par la couronne sans intermédiaire féodal. Centré autour de la majestueuse cité de Valder, ce territoire comprend également plusieurs villes d'importance, dont Hautmont, Rivencourt et Saint-Alvère, ainsi qu'une multitude de villages, hameaux et domaines agricoles.

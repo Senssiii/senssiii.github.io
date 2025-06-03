@@ -7,7 +7,6 @@ nav_exclude: true
 
 </style>
 
-
 <img src="assets/armoiries/Emerance.png" alt="Emerance" style="width: 50%; height: 50%; object-fit: cover;">
 
 <div style="display: flex; height: 100vh; align-items: center;">

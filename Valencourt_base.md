@@ -5,6 +5,8 @@ nav_exclude: true
 ---
 # Le Duché de Valencourt
 
+<img src="assets/armoiries/Valencourt.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+
 ## Position stratégique
 
 Occupant une position stratégique au cœur des routes commerciales qui traversent le royaume, le duché de Valencourt constitue un maillon essentiel reliant la capitale [Valder](domaine_royal.html) à la cité-État indépendante de [Vostrag](Vostrag_base.html). Ce territoire se distingue par un mélange unique de prospérité économique et de farouche esprit d'indépendance urbaine.
