@@ -1,6 +1,6 @@
 ---
 title: Virmian
-layout: default
+layout: medieval
 nav_exclude: true 
 ---
 # Chroniques du Grand Royaume de Virmian
