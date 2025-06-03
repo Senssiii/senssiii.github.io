@@ -4,17 +4,21 @@ layout: medieval
 nav_exclude: true 
 ---
 
+# Vostrag
+
+<img src="assets/armoiries/Vostrag.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+
 ## Position unique dans le monde
 
-Au confluent des principales routes commerciales, s'élève l'impressionnante cité de Vostrag, entité politique unique dont l'influence dépasse largement la taille modeste de son territoire. Ancienne capitale de Mirst devenue ville-État indépendante, Vostrag constitue aujourd'hui la plus grande place marchande du monde connu et un acteur diplomatique dont l'importance ne saurait être négligée par aucune puissance majeure.
+Au confluent des principales routes commerciales, s'élève l'impressionnante cité de Vostrag, entité politique unique dont l'influence dépasse largement la taille modeste de son territoire. Ancienne capitale de [Mirst](/mirst.html) devenue ville-État indépendante, Vostrag constitue aujourd'hui la plus grande place marchande du monde connu et un acteur diplomatique dont l'importance ne saurait être négligée par aucune puissance majeure.
 
 ## Origines historiques
 
 ### Fondation antique
 
-Les origines de cette métropole remontent à une époque antérieure même au royaume de Mirst. Les premières mentions écrites datent approximativement de l'an 384, lorsque le prince Jarlan de Mirst évoqua dans une correspondance "une cité de taille considérable, dotée d'un port à eau profonde et idéalement située" au confluent de routes commerciales majeures. Cette position géographique avantageuse explique son développement précoce et continu : bâtie sur une île fluviale naturellement défensive, à un point où plusieurs voies navigables se rejoignent avant de se déverser dans la mer, Vostrag bénéficie d'un accès privilégié tant aux marchés intérieurs qu'aux routes maritimes.
+Les origines de cette métropole remontent à une époque antérieure même au royaume de [Mirst](/mirst.html). Les premières mentions écrites datent approximativement de l'an 384, lorsque le prince Jarlan de [Mirst](/mirst.html) évoqua dans une correspondance "une cité de taille considérable, dotée d'un port à eau profonde et idéalement située" au confluent de routes commerciales majeures. Cette position géographique avantageuse explique son développement précoce et continu : bâtie sur une île fluviale naturellement défensive, à un point où plusieurs voies navigables se rejoignent avant de se déverser dans la mer, Vostrag bénéficie d'un accès privilégié tant aux marchés intérieurs qu'aux routes maritimes.
 
-### Capitale de Mirst
+### Capitale de [Mirst](/mirst.html)
 
 La décision du roi Jarlan Ier d'y établir sa capitale en 435 accéléra considérablement son expansion. Les chroniques de l'époque révèlent qu'elle était déjà alors la ville la plus peuplée du royaume, et que son commerce générait à lui seul un quart des revenus de la couronne mirsienne. Sous patronage royal, la cité s'embellit de monuments impressionnants dont certains subsistent encore : la cathédrale Saint-Lurien, dont les tours jumelles dominent la ville haute ; la Tour des Vents, servant aux marchands pour observer l'arrivée des navires et le mouvement des flottes ; et le Palais des Mille Colonnes, ancienne résidence royale devenue aujourd'hui le siège du Conseil des Ducs.
 
@@ -22,7 +26,7 @@ La décision du roi Jarlan Ier d'y établir sa capitale en 435 accéléra consid
 
 ### Convoitises rivales
 
-La chute de Mirst en 565 inaugura pour Vostrag une période particulièrement tumultueuse. La ville représentait un prix convoité par tous les prétendants à l'héritage mirsien, et plus particulièrement par les jeunes royaumes de Virmian et d'Autchburg qui se la disputèrent âprement. En l'espace de trente ans, la cité changea de mains plus de cinq fois, chaque conquête s'accompagnant de destructions et d'exactions contre la population civile. Les cicatrices de cette époque troublée restent visibles dans certains quartiers, notamment dans le secteur sud-est où des édifices de styles architecturaux disparates témoignent des reconstructions successives.
+La chute de [Mirst](/mirst.html) en 565 inaugura pour Vostrag une période particulièrement tumultueuse. La ville représentait un prix convoité par tous les prétendants à l'héritage mirsien, et plus particulièrement par les jeunes royaumes de Virmian et d'[Autchburg](/Autchburg_base.html) qui se la disputèrent âprement. En l'espace de trente ans, la cité changea de mains plus de cinq fois, chaque conquête s'accompagnant de destructions et d'exactions contre la population civile. Les cicatrices de cette époque troublée restent visibles dans certains quartiers, notamment dans le secteur sud-est où des édifices de styles architecturaux disparates témoignent des reconstructions successives.
 
 ### L'accord de Vostrag (596)
 
@@ -60,27 +64,27 @@ On y croise des marchands virmiens et autchbourgeois, des commerçants des princ
 
 ## Fortifications et défenses
 
-Les remparts de Vostrag ceinturent presque entièrement l'île sur laquelle la cité est bâtie. Ces fortifications, constamment entretenues et modernisées au fil des siècles, présentent une épaisseur considérable et sont ponctuées de nombreuses portes, chacune nommée d'après sa direction ou sa fonction : Porte de Virmian, Porte d'Autchburg, Porte des Marchands, Porte des Pêcheurs, et bien d'autres encore. Chacune de ces entrées constitue un petit monde en soi, avec ses corps de garde, ses préposés aux taxes, ses changeurs de monnaie et ses auberges spécifiques accueillant les voyageurs selon leur provenance.
+Les remparts de Vostrag ceinturent presque entièrement l'île sur laquelle la cité est bâtie. Ces fortifications, constamment entretenues et modernisées au fil des siècles, présentent une épaisseur considérable et sont ponctuées de nombreuses portes, chacune nommée d'après sa direction ou sa fonction : Porte de Virmian, Porte d'[Autchburg](Autchburg_base.html), Porte des Marchands, Porte des Pêcheurs, et bien d'autres encore. Chacune de ces entrées constitue un petit monde en soi, avec ses corps de garde, ses préposés aux taxes, ses changeurs de monnaie et ses auberges spécifiques accueillant les voyageurs selon leur provenance.
 
 ### Menaces militaires
 
-Cette préoccupation défensive n'est pas simplement traditionnelle ou symbolique. Malgré sa richesse – ou plutôt à cause d'elle – Vostrag a régulièrement fait l'objet de convoitises militaires. L'épisode le plus récent remonte à 1397, lorsqu'une coalition de principautés nordiques tenta de s'emparer de la cité. Ce raid, motivé par un différend commercial qui avait dégénéré, fut finalement repoussé grâce à l'intervention conjointe des forces virmiennes et autchbourgeoises, rare moment de coopération entre nos royaumes rivaux.
+Cette préoccupation défensive n'est pas simplement traditionnelle ou symbolique. Malgré sa richesse – ou plutôt à cause d'elle – Vostrag a régulièrement fait l'objet de convoitises militaires. L'épisode le plus récent remonte à 1397, lorsqu'une coalition de principautés nordiques tenta de s'emparer de la cité. Ce raid, motivé par un différend commercial qui avait dégénéré, fut finalement repoussé grâce à l'intervention conjointe des forces [virmiennes](/Virmian_base.html) et [autchbourgeoises](/Autchburg_base.html), rare moment de coopération entre nos royaumes rivaux.
 
 ## Puissance économique et financière
 
 ### Hub commercial
 
-Sur le plan économique, l'importance de Vostrag peut difficilement être surestimée. La cité constitue le principal nœud commercial où convergent les produits de tous les royaumes environnants avant d'être redistribués. Les laines et métaux virmiens, les bois précieux et fourrures autchbourgeois, les vins de Valdorin, les épices d'Andrion, les armes d'Ojivart – tous transitent par ses entrepôts et sont négociés sur ses marchés.
+Sur le plan économique, l'importance de Vostrag peut difficilement être surestimée. La cité constitue le principal nœud commercial où convergent les produits de tous les royaumes environnants avant d'être redistribués. Les laines et métaux virmiens, les bois précieux et fourrures [autchbourgeois](/Autchburg_base.html), les vins de Valdorin, les épices d'Andrion, les armes d'Ojivart – tous transitent par ses entrepôts et sont négociés sur ses marchés.
 
 ### Centre financier
 
 Au-delà de ce rôle d'intermédiaire commercial, Vostrag s'est également imposée comme le centre financier prédominant. Les banques vostragiennes, notamment la célèbre Banque des Quatre Saisons fondée par la famille Farlk, accordent des prêts aux souverains étrangers, financent expéditions commerciales et projets d'infrastructure, et ont développé des instruments financiers sophistiqués tels que lettres de change et contrats d'assurance maritime. Cette puissance financière est cependant contestée par les institutions similaires des villes valencianes, créant une rivalité acharnée pour l'obtention des contrats les plus lucratifs. Les banquiers lombards, en particulier, constituent une menace constante pour la position dominante des établissements financiers vostragiens.
 
-## Relations avec Virmian
+## Relations avec [Virmian](/Virmian_base.html)
 
 ### Interdépendance complexe
 
-Les relations de Vostrag avec Virmian oscillent entre coopération pragmatique et tensions ponctuelles. Notre royaume dépend largement des réseaux commerciaux vostragiens pour l'exportation de ses produits et l'importation de denrées exotiques, tandis que la cité-État bénéficie de la protection implicite que lui offre la puissance militaire virmienne. Néanmoins, les intérêts des grandes familles marchandes de la cité ne coïncident pas toujours avec ceux de notre couronne, notamment en matière de politiques douanières et de contrôle des routes commerciales.
+Les relations de Vostrag avec [Virmian](/Virmian_base.html) oscillent entre coopération pragmatique et tensions ponctuelles. Notre royaume dépend largement des réseaux commerciaux vostragiens pour l'exportation de ses produits et l'importation de denrées exotiques, tandis que la cité-État bénéficie de la protection implicite que lui offre la puissance militaire virmienne. Néanmoins, les intérêts des grandes familles marchandes de la cité ne coïncident pas toujours avec ceux de notre couronne, notamment en matière de politiques douanières et de contrôle des routes commerciales.
 
 ### Exemple de tensions (1492)
 

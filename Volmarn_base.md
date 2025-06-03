@@ -5,9 +5,11 @@ nav_exclude: true
 ---
 # Le Duché de Volmarn
 
+<img src="assets/armoiries/Volmarn.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+
 ## Vue d'ensemble et géographie
 
-Situé dans la partie septentrionale du royaume, à la frontière avec Autchburg, le duché de Volmarn présente une physionomie typique des marches frontalières. Cette région, dont la culture et la géographie évoquent la Champagne de notre monde, combine des plaines fertiles propices à la culture céréalière avec des zones plus accidentées où s'épanouissent vignobles et forêts denses.
+Situé dans la partie septentrionale du royaume, à la frontière avec [Autchburg](Autchburg_base.html), le duché de Volmarn présente une physionomie typique des marches frontalières. Cette région, dont la culture et la géographie évoquent la Champagne de notre monde, combine des plaines fertiles propices à la culture céréalière avec des zones plus accidentées où s'épanouissent vignobles et forêts denses.
 
 ## L'héritage du "Roi des Bandits"
 

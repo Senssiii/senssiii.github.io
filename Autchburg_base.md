@@ -4,23 +4,23 @@ layout: medieval
 nav_exclude: true
 ---
 
-## Rival traditionnel de Virmian
+## Rival traditionnel de [Virmian](/Virmian_base.html)
 
-De tous les royaumes qui émergèrent des cendres de Mirst, nul n'entretient avec Virmian une relation aussi complexe et tendue qu'Autchburg. Ce royaume septentrional constitue depuis sa fondation le rival traditionnel de notre royaume, une puissance dont l'influence et les ambitions se heurtent continuellement aux nôtres.
+De tous les royaumes qui émergèrent des cendres de Mirst, nul n'entretient avec [Virmian](/Virmian_base.html) une relation aussi complexe et tendue qu'Autchburg. Ce royaume septentrional constitue depuis sa fondation le rival traditionnel de notre royaume, une puissance dont l'influence et les ambitions se heurtent continuellement aux nôtres.
 
 ## Origines et fondation (565)
 
-L'origine d'Autchburg remonte précisément à la même période que celle de Virmian : l'année 565, lorsque l'effondrement définitif de Mirst créa un vide politique que diverses forces s'empressèrent de combler. La maison des Farzenberg, branche cadette de la famille royale mirsienne, établit son autorité sur les provinces nord-orientales, proclamant sa légitimité à hériter de l'ensemble du royaume défunt.
+L'origine d'Autchburg remonte précisément à la même période que celle de [Virmian](/Virmian_base.html) : l'année 565, lorsque l'effondrement définitif de Mirst créa un vide politique que diverses forces s'empressèrent de combler. La maison des Farzenberg, branche cadette de la famille royale mirsienne, établit son autorité sur les provinces nord-orientales, proclamant sa légitimité à hériter de l'ensemble du royaume défunt.
 
 ## Prétentions rivales et premiers conflits
 
 ### Germes du conflit
 
-Cette prétention, parallèle à celle des Harcourt qui fondèrent Virmian, contenait déjà les germes d'un conflit inévitable. Les décennies qui suivirent furent marquées par une série d'escarmouches et d'affrontements limités, chaque maison cherchant à étendre son influence aux dépens de l'autre. La pomme de discorde principale devint rapidement la ville stratégique de Vostrag, dont le contrôle promettait des revenus commerciaux considérables et un prestige symbolique indéniable comme ancienne capitale mirsienne.
+Cette prétention, parallèle à celle des Harcourt qui fondèrent [Virmian](/Virmian_base.html), contenait déjà les germes d'un conflit inévitable. Les décennies qui suivirent furent marquées par une série d'escarmouches et d'affrontements limités, chaque maison cherchant à étendre son influence aux dépens de l'autre. La pomme de discorde principale devint rapidement la ville stratégique de Vostrag, dont le contrôle promettait des revenus commerciaux considérables et un prestige symbolique indéniable comme ancienne capitale mirsienne.
 
 ### Conflit pour Vostrag (565-596)
 
-Ce conflit larvé culmina entre 565 et 596, période durant laquelle la cité changea de mains à cinq reprises, chaque conquête s'accompagnant de destructions et d'exactions. L'accord de Vostrag en 596, précédemment évoqué dans notre récit de l'histoire virmienne, mit temporairement fin à cette situation intenable en établissant l'indépendance de la cité, solution que ni Virmian ni Autchburg n'acceptèrent de gaieté de cœur mais que l'épuisement mutuel rendait nécessaire.
+Ce conflit larvé culmina entre 565 et 596, période durant laquelle la cité changea de mains à cinq reprises, chaque conquête s'accompagnant de destructions et d'exactions. L'accord de Vostrag en 596, précédemment évoqué dans notre récit de l'histoire virmienne, mit temporairement fin à cette situation intenable en établissant l'indépendance de la cité, solution que ni [Virmian](/Virmian_base.html) ni Autchburg n'acceptèrent de gaieté de cœur mais que l'épuisement mutuel rendait nécessaire.
 
 ## Expansion vers le nord-est (600-945)
 
@@ -30,13 +30,13 @@ Les premiers souverains autchbourgeois, particulièrement les énergiques Liarse
 
 ### Apogée territorial
 
-La prise de Harenberg en 945, dernière cité indépendante de l'ancien Sardlburg, marque l'apogée de cette première phase d'expansion. Autchburg avait désormais atteint une taille et une puissance comparables à celles de Virmian, situation qui ne pouvait qu'exacerber la rivalité entre les deux royaumes.
+La prise de Harenberg en 945, dernière cité indépendante de l'ancien Sardlburg, marque l'apogée de cette première phase d'expansion. Autchburg avait désormais atteint une taille et une puissance comparables à celles de [Virmian](/Virmian_base.html), situation qui ne pouvait qu'exacerber la rivalité entre les deux royaumes.
 
 ## Géographie et économie
 
 ### Paysage et ressources
 
-Le paysage autchbourgeois, dominé par de vastes forêts entrecoupées de plaines fertiles, a façonné un peuple réputé pour sa ténacité et son pragmatisme. L'extraction minière, particulièrement dans les montagnes orientales riches en fer et en argent, constitue depuis longtemps un pilier de l'économie locale, complétée par une agriculture efficace bien qu'entravée par un climat plus rigoureux que celui de Virmian.
+Le paysage autchbourgeois, dominé par de vastes forêts entrecoupées de plaines fertiles, a façonné un peuple réputé pour sa ténacité et son pragmatisme. L'extraction minière, particulièrement dans les montagnes orientales riches en fer et en argent, constitue depuis longtemps un pilier de l'économie locale, complétée par une agriculture efficace bien qu'entravée par un climat plus rigoureux que celui de [Virmian](/Virmian_base.html).
 
 ### Structure sociale
 
@@ -46,7 +46,7 @@ La structure sociale d'Autchburg présente de nombreuses similitudes avec la nô
 
 ### Langue et architecture
 
-Sur le plan culturel, Autchburg se distingue nettement de Virmian. La langue autchbourgeoise, issue comme la nôtre de l'ancien mirsien, s'en est fortement différenciée au fil des siècles, développant des sonorités plus gutturales et un vocabulaire distinct. Cette différence linguistique reflète et renforce la séparation identitaire entre nos peuples, rendant la communication directe difficile sans l'intervention de traducteurs ou l'apprentissage délibéré de la langue étrangère.
+Sur le plan culturel, Autchburg se distingue nettement de [Virmian](/Virmian_base.html). La langue autchbourgeoise, issue comme la nôtre de l'ancien mirsien, s'en est fortement différenciée au fil des siècles, développant des sonorités plus gutturales et un vocabulaire distinct. Cette différence linguistique reflète et renforce la séparation identitaire entre nos peuples, rendant la communication directe difficile sans l'intervention de traducteurs ou l'apprentissage délibéré de la langue étrangère.
 
 L'architecture locale privilégie les constructions à colombages ornés de motifs géométriques colorés, créant des paysages urbains distinctifs immédiatement reconnaissables. Les cathédrales autchbourgeoises, généralement construites en grès rouge local, se caractérisent par des flèches particulièrement élancées qui dominent le paysage des cités principales du royaume.
 
@@ -54,7 +54,7 @@ L'architecture locale privilégie les constructions à colombages ornés de moti
 
 Le culte [dastaïte](Dastaisme.html) y est pratiqué avec une dévotion comparable à la nôtre, bien que certaines interprétations théologiques diffèrent sensiblement. Les Autchbourgeois accordent une importance particulière aux aspects guerriers de la doctrine, vénérant avec ferveur Saint Gontran le Valeureux et d'autres figures martiales. Leurs cathédrales, généralement moins élancées que les nôtres mais plus massives, reflètent cette spiritualité robuste et pragmatique.
 
-## Conflits majeurs avec Virmian
+## Conflits majeurs avec [Virmian](/Virmian_base.html)
 
 ### La Guerre du Carlsin (1265-1278)
 
@@ -84,8 +84,8 @@ La relation entre nos royaumes reste fondamentalement antagoniste, ponctuée d'o
 
 ### Stratégies diplomatiques actuelles
 
-Aujourd'hui, sous le règne du roi Arland Ier, fils de Venceslas III qui accéda au trône après la libération de son père, Autchburg panse ses plaies tout en nourrissant sans doute des rêves de revanche. Nos diplomates rapportent une intensification des contacts autchbourgeois avec d'autres puissances, notamment les principautés nordiques et le royaume de Lortburg, possibles préludes à de nouvelles alliances dirigées contre Virmian.
+Aujourd'hui, sous le règne du roi Arland Ier, fils de Venceslas III qui accéda au trône après la libération de son père, Autchburg panse ses plaies tout en nourrissant sans doute des rêves de revanche. Nos diplomates rapportent une intensification des contacts autchbourgeois avec d'autres puissances, notamment les principautés nordiques et le royaume de Lortburg, possibles préludes à de nouvelles alliances dirigées contre [Virmian](/Virmian_base.html).
 
 ## Conclusion
 
-Dans ce grand jeu d'influences et de pouvoirs, les destins de Virmian et d'Autchburg restent inextricablement liés, chacun définissant en partie son identité par opposition à l'autre. Cette rivalité ancestrale, pour destructrice qu'elle puisse être en temps de guerre, a également stimulé nos accomplissements respectifs, chaque royaume cherchant à surpasser l'autre en gloire, prospérité et puissance.
+Dans ce grand jeu d'influences et de pouvoirs, les destins de [Virmian](/Virmian_base.html) et d'Autchburg restent inextricablement liés, chacun définissant en partie son identité par opposition à l'autre. Cette rivalité ancestrale, pour destructrice qu'elle puisse être en temps de guerre, a également stimulé nos accomplissements respectifs, chaque royaume cherchant à surpasser l'autre en gloire, prospérité et puissance.
