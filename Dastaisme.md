@@ -8,6 +8,8 @@ layout: medieval
 
 Le culte de Dast le Tout-Puissant, introduit dans nos contrées par Saint Arvélan le Purificateur au Ie siècle, a progressivement supplanté les anciennes croyances païennes pour devenir la religion officielle du royaume dès sa fondation.
 
+![eglise](/assets/screens/eglise_1.png)
+
 ## Caractéristiques distinctives
 
 ### Vertus guerrières et chevaleresques
@@ -19,6 +21,8 @@ Cette foi se distingue par l'importance qu'elle accorde aux vertus guerrières e
 ### Le Sanctriarque
 
 La hiérarchie ecclésiastique dastaïte est dirigée par le Sanctriarque, qui siège dans la cité sainte d'Ostia au cœur des États Pontifs. Cette figure, équivalente au Pape dans notre monde, exerce une autorité spirituelle qui transcende les frontières des royaumes terrestres. Assisté d'un collège de douze Cardinaux représentant les principales régions du monde connu, le Sanctriarque est le gardien suprême de la doctrine et l'arbitre ultime des questions théologiques.
+
+![eglise](/assets/screens/eglise_2.png)
 
 ### Le Primat des Lanvain
 
