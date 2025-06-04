@@ -89,3 +89,5 @@ Il est conseillé de faire bien attention à la répartition de ces points, et d
 - 8 : Personnage ayant un grand charisme.
 - 9 : Personnage doté d'une aura charismatique, talentueux orateur.
 - 10 : Personnage doté d'une aura charismatique, maitre orateur et disposant d'une éloquence naturel et une rhétorique extraordinaire. [Peut se voir donner des surnom sur son charisme.]
+
+[Competences armes](competences_armes.html)
