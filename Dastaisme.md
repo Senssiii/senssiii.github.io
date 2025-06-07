@@ -246,6 +246,6 @@ Ces voyages saints purifient l'âme par la fatigue du corps, détachent le cœur
 
 
 
-# [Prières](Dastaisme_fêtes.html)
+# [Prières](Dastaisme_prières.html)
 
-# [Fêtes](Dastaisme_prières.html)
+# [Fêtes](Dastaisme_fêtes.html)
