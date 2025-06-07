@@ -240,3 +240,12 @@ Les dastaïtes doivent accomplir des pèlerinages vers les lieux sanctifiés par
 Le plus saint de tous reste **Ostia la Pontificale**, où repose l'autorité suprême et où brillent les reliques les plus précieuses. Puis vient **Harndom la Sacrée**, témoin de la Passion et de la Résurrection, où chaque pierre a été arrosée du sang divin. **Ilsdansverg l'Isolée** garde dans ses grottes la tombe certifiée d'un Compagnon, et les miracles s'y multiplient comme les étoiles du ciel.
 
 Ces voyages saints purifient l'âme par la fatigue du corps, détachent le cœur des biens terrestres par la séparation volontaire, et unissent tous les fidèles dans une même démarche d'humilité et de foi.
+
+
+
+
+
+
+# [Prières](Dastaisme_fêtes.html)
+
+# [Fêtes](Dastaisme_prières.html)
