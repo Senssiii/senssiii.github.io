@@ -10,6 +10,8 @@ nav_exclude: true
 
 ## L'Empire Aurien
 
+<img src="assets/armoiries/Aurien.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+
 ### Ancienneté et continuité
 
 L'Empire Aurien représente la plus ancienne structure étatique continue du monde connu. Fondé il y a plus de 20 siècles, il a connu des périodes d'expansion spectaculaire alternant avec des phases de contraction territoriale, tout en maintenant une continuité remarquable de ses institutions fondamentales. Sa capitale, Chrysopolis, demeure la deuxième plus grandes métropoles du monde malgré les vicissitudes historiques qui ont érodé sa puissance.

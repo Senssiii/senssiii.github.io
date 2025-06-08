@@ -11,6 +11,8 @@ nav_exclude: true
 
 ## La République de Trimesk
 
+<img src="assets/armoiries/Trimesk.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+
 ### Structure politique unique
 
 La République de Trimesk présente une structure politique unique, combinant éléments aristocratiques et participatifs. Établie sur un vaste territoire dominé par d'immenses forêts de conifères entrecoupées de plaines fertiles, cette entité est gouvernée par une assemblée où siègent les représentants des principales familles marchandes et aristocratiques.

@@ -10,6 +10,8 @@ Aux confins méridionaux du monde dastaïte se dressent deux entités politiques
 
 ## La Ligue d'Arbert
 
+<img src="assets/armoiries/Arbert.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+
 ### Structure politique singulière
 
 La Ligue d'Arbert, située au sud du monde connu et partageant des frontières avec Ojivart, Andrion et les Provinces Désunies, présente une structure politique singulière. Fondée officiellement en 1165 par la confédération de plusieurs petits royaumes et principautés, cette union fut initialement imposée par la force plutôt que librement consentie, les princes locaux étant contraints d'accepter une autorité centrale par un système élaboré d'otages et de menaces voilées.
@@ -23,6 +25,8 @@ Au fil des décennies, ce qui avait commencé comme une contrainte évolua progr
 La structure politique actuelle de la Ligue reflète cette histoire mouvementée : formellement, il s'agit d'une fédération d'États souverains unis sous l'autorité d'un "Protecteur" élu pour cinq ans par le Conseil des Princes. En pratique, chaque entité constitutive conserve une large autonomie dans ses affaires intérieures, la coordination se limitant principalement aux questions militaires et diplomatiques. Cette décentralisation prononcée, caractéristique des arrangements féodaux, permet aux particularismes locaux de s'exprimer tout en maintenant une capacité de réaction commune face aux menaces extérieures.
 
 ## Le Royaume d'Ojivart
+
+<img src="assets/armoiries/Ojivart.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
 
 ### Formation et structure
 

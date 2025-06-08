@@ -10,6 +10,7 @@ Au centre-est du monde connu, les royaumes de Mardenbourg et Lortburg occupent d
 
 <img src="assets/armoiries/Mardenbourg.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
 
+<img src="assets/armoiries/Lortburg.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
 
 ## Origine commune et fragmentation (1054)
 

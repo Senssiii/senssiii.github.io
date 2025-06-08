@@ -4,6 +4,8 @@ layout: medieval
 nav_exclude: true
 ---
 
+<img src="assets/armoiries/Poldrast.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+
 ## Position géographique et caractère
 
 Au nord-est du monde connu s'étend le vaste royaume de Poldrast-Litarn, formé par l'union de deux anciens royaumes. Ce territoire, caractérisé par de vastes plaines parsemées de collines douces et de forêts étendues, évoque par bien des aspects les terres polonaises de notre monde réel.

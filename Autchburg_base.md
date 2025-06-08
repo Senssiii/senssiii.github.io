@@ -4,6 +4,8 @@ layout: medieval
 nav_exclude: true
 ---
 
+<img src="assets/armoiries/Autchburg.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+
 ## Rival traditionnel de [Virmian](/Virmian_base.html)
 
 De tous les royaumes qui émergèrent des cendres de Mirst, nul n'entretient avec [Virmian](/Virmian_base.html) une relation aussi complexe et tendue qu'Autchburg. Ce royaume septentrional constitue depuis sa fondation le rival traditionnel de notre royaume, une puissance dont l'influence et les ambitions se heurtent continuellement aux nôtres.
