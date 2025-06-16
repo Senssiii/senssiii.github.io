@@ -1,6 +1,7 @@
 ---
 title: Rename
 layout: default
+nav_exclude: true
 ---
 
 # Comment changer le nom d'un item

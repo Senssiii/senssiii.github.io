@@ -1,4 +1,5 @@
 ---
 title : saint Arvelan
-layout: medieval
+layout: default
+nav_exclude: true
 ---
