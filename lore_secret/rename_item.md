@@ -1,3 +1,8 @@
+---
+title: Rename
+layout: default
+---
+
 # Comment changer le nom d'un item
 ### Utilise la commande `/ri name` avec un dégradé
 
