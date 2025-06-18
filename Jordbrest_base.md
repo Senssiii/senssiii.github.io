@@ -1,6 +1,7 @@
 ---
 title: Jordbrest
-layout: home
+layout: medieval
+nav_exclude: true
 ---
 
 <img src="assets/armoiries/Jordbrest.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
