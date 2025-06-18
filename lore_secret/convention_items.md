@@ -5,6 +5,12 @@ nav_exclude: true
 ---
 
 # A quoi doivent ressembler les items 
+## Le texte 
+Le nom de l'item doit toujours comporter une majuscule et ne peut être accordé au pluriel, exemple : 
+- `"Toile d'araignée"`
+- `"Lingot d'or"`
+- `"Perle rare"`
+
 ### 🧱 1. Objets classiques (commun, craftable)
 
 * **Couleur** : blanc (`<white>` ou pas de balise)
@@ -20,8 +26,6 @@ nav_exclude: true
 
 ### 🟩 2. Objets améliorés (peu communs, outils enchantés basiques)
 
-* **Couleur** : vert clair `#55FF55`
-* **Style** : gras
 * **Exemples** :
 
   ```mc
@@ -33,8 +37,6 @@ nav_exclude: true
 
 ### 🔵 3. Objets rares (loot de boss, objets spéciaux)
 
-* **Couleur** : bleu `#5555FF` ou dégradé bleu clair → foncé
-* **Style** : gras et italique
 * **Utilisation autorisée du lore**
 * **Exemples** :
 
@@ -47,8 +49,6 @@ nav_exclude: true
 
 ### 🟡 5. Objets légendaires (uniques, liés à des quêtes ou au lore)
 
-* **Couleur** : doré `#FFD700` ou dégradé doré → rouge
-* **Style** : gras, sans italique (style noble)
 * **Lore enrichi (jusqu’à 3 lignes max), format roleplay**
 * **Exemples** :
 
