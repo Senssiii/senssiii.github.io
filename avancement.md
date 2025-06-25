@@ -16,9 +16,9 @@ nav_order: 3
 - [ ] Clarifier les pnjs notables (skin, lore etc...)
 - [ ] Développement de mod 
   - [ ] Remplacer les textures d'effets de potions.
-  - [ ] Rajouter les pièces
+  - [x] Rajouter les pièces
   - [ ] Terminer le système de compétences en jeu
-- [ ] Refaire le modèle des fiches
+- [x] Refaire le modèle des fiches
 - [ ] Clarifier le serveur discord
 - [ ] Refaire le logo du serveur
 - [ ] Refaire le système de compétences
