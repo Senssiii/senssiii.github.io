@@ -17,7 +17,8 @@ nav_order: 3
 - [ ] Développement de mod 
   - [ ] Remplacer les textures d'effets de potions.
   - [x] Rajouter les pièces
-  - [ ] Terminer le système de compétences en jeu
+  - [x] Terminer le système de compétences en jeu
+  - [ ] Ajouter système d'identité.
 - [x] Refaire le modèle des fiches
 - [ ] Clarifier le serveur discord
 - [ ] Refaire le logo du serveur
