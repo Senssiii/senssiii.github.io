@@ -4,7 +4,7 @@ layout: medieval
 nav_order: 3
 ---
 # Road map : 
-- [ ] Terminer les détails du lore
+- [x] Terminer les détails du lore
 - [ ] Terminer les builds 
   - [ ] Terminer le développement des terres entièrement
   - [ ] Refaire certains build
@@ -12,14 +12,14 @@ nav_order: 3
 - [ ] Terminer la trame principale pour les quêtes
 - [ ] Refaire tout les pnjs Custom NPC
 - [ ] Terminer le wiki
+  - [ ] Ajouter le texte dans les pages vides.
 - [ ] Terminer le slide de présentation du serveur
 - [ ] Clarifier les pnjs notables (skin, lore etc...)
 - [ ] Développement de mod 
-  - [ ] Remplacer les textures d'effets de potions.
+  - [x] Remplacer les textures d'effets de potions.
   - [x] Rajouter les pièces
   - [x] Terminer le système de compétences en jeu
   - [ ] Ajouter système d'identité.
 - [x] Refaire le modèle des fiches
-- [ ] Clarifier le serveur discord
-- [ ] Refaire le logo du serveur
-- [ ] Refaire le système de compétences
+- [x] Clarifier le serveur discord
+- [x] Refaire le système de compétences
