@@ -6,8 +6,11 @@ nav_order: 3
 # Road map : 
 - [x] Terminer les détails du lore
 - [ ] Terminer les builds 
-  - [ ] Terminer le développement des terres entièrement
-  - [ ] Refaire certains build
+  - [x] Terminer le développement des terres entièrement
+  - [x] Refaire certains build
+  - [ ] Terminer de développer les deux comtés
+    - [ ] Poitla
+    - [ ] on sait pas encore 
 - [ ] Refaire les items proprement
 - [ ] Terminer la trame principale pour les quêtes
 - [ ] Refaire tout les pnjs Custom NPC
