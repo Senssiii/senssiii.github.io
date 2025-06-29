@@ -60,7 +60,7 @@ Voici la suite du motif avec les couleurs et catégories indiquées, corrigée e
 ## Descriptions d'objets
 
 Comment est l'objet :
-````mc
+```mc
 /ri lore add <gray>
 ```
 
@@ -74,6 +74,7 @@ Al: Alchimie
 ```
 /ri lore add <white>[1A; 2F; 1I]
 ```
+
 ```
 /ri lore add <white>[]
 ```
