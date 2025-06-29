@@ -64,6 +64,24 @@ Comment est l'objet :
 /ri lore add <gray>
 ```
 
+Pour les compétences :
+A : Agilitée
+F : Force 
+C : Constitution
+I : Intelligence
+Ar: Artisanat
+Al: Alchimie
+```
+/ri lore add <white>[1A; 2F; 1I]
+```
+```
+/ri lore add <white>[]
+```
+
+Modificateur de compétences : 
+```
+/ri lore add <#00BCD4>[+ 1A]
+```
 
 ### ⚠️ Règles générales
 
