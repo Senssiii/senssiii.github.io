@@ -12,54 +12,58 @@ Le nom de l'item doit toujours comporter une majuscule et ne peut être accordé
 - `"Lingot d'or"`
 - `"Perle rare"`
 
-### 🧱 1. Objets classiques (commun, craftable)
+Voici la suite du motif avec les couleurs et catégories indiquées, corrigée et alignée sur le format initial :
 
-* **Couleur** : blanc (`<white>` ou pas de balise)
-* **Style** : sans italique ni effet
-* **Exemples** :
+🟦 **Objet de base** (#757575) :
 
-  ```mc
-  /ri name Pioche en pierre
-  /ri name Couteau de cuisine
-  ```
+```
+/ri name <#757575>  
+/ri lore add <gray>[Objet de base]  
+```
 
+🟩 **Peu commun** (#2E7D32) :
+
+```
+/ri name <#2E7D32>  
+/ri lore add <gray>[Objet peu commun]  
+```
+
+🔵 **Rare** (#1565C0) :
+
+```
+/ri name <#1565C0>  
+/ri lore add <gray>[Objet rare]  
+```
+
+🟣 **Épique** (#6A1B9A) :
+
+```
+/ri name <#6A1B9A>  
+/ri lore add <gray>[Objet épique]  
+```
+
+🟧 **Légendaire** (#FF6F00) :
+
+```
+/ri name <#FF6F00>  
+/ri lore add <gray>[Objet légendaire]  
+```
+
+🟨 **Mythique** (#FFC107) :
+
+```
+/ri name <#FFC107>  
+/ri lore add <gray>[Objet mythique]  
+```
 ---
 
-### 🟩 2. Objets améliorés (peu communs, outils enchantés basiques)
+## Descriptions d'objets
 
-* **Exemples** :
+Comment est l'objet :
+````mc
+/ri lore add <gray>
+```
 
-  ```mc
-  /ri name <#55FF55><bold>Pioche robuste
-  /ri name <#55FF55><bold>Épée équilibrée
-  ```
-
----
-
-### 🔵 3. Objets rares (loot de boss, objets spéciaux)
-
-* **Utilisation autorisée du lore**
-* **Exemples** :
-
-  ```mc
-  /ri name <gradient:#88ccff:#3333ff><bold><italic>Lame des Profondeurs
-  /ri lore add <gray>Forgée par les Anciens
-  ```
-
----
-
-### 🟡 5. Objets légendaires (uniques, liés à des quêtes ou au lore)
-
-* **Lore enrichi (jusqu’à 3 lignes max), format roleplay**
-* **Exemples** :
-
-  ```mc
-  /ri name <gradient:#FFD700:#AA0000><bold>Flamme de Karak
-  /ri lore set 0 <gray>« Et la montagne saigna... »
-  /ri lore set 1 <dark_gray>Une arme née de la guerre divine
-  ```
-
----
 
 ### ⚠️ Règles générales
 
