@@ -2,7 +2,7 @@
 title: Rename
 layout: default
 nav_exclude: true
-search: false
+search_exclude: false
 ---
 
 # Comment changer le nom d'un item

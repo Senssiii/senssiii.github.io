@@ -2,7 +2,7 @@
 title: index secret
 layout: default
 nav_exclude: true
-search: false
+search_exclude: false
 ---
 
 # A quoi doivent ressembler les items 
