@@ -2,7 +2,7 @@
 title: index secret
 layout: medieval
 nav_exclude: true
-search_exclude: false
+search_exclude: true
 ---
 
 # Index pour tout
