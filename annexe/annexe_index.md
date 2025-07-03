@@ -1,7 +1,8 @@
 ---
 title: Index Annexe
 layout: medieval
-nav_exclude: true
+nav_order: 8
+nav_exclude: false
 ---
 
 **Voici la liste de toute les pages de lore annexe** : 

@@ -2,6 +2,8 @@
 title: Avancement
 layout: medieval
 nav_order: 3
+search_exclude: true
+nav_exclude: true
 ---
 # Road map : 
 - [x] Terminer les détails du lore
