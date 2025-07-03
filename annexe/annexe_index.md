@@ -5,6 +5,6 @@ nav_order: 8
 nav_exclude: false
 ---
 
-**Voici la liste de toute les pages de lore annexe** : 
+# Lore annexe : 
 
-- [Les royaumes voisins](/annexe/royaumes.html)
+- [🟡 Les royaumes voisins](/annexe/royaumes.html)
