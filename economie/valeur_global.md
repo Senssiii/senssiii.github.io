@@ -4,7 +4,8 @@ layout: medieval
 nav_exclude: true
 ---
 
-### Outils agricoles (en Vald de bronze)
+Tout les prix présentés sont en Vald de bronze.
+### Outils agricoles
 
 | Outil            | Prix      |
 |------------------|-----------|
@@ -13,7 +14,7 @@ nav_exclude: true
 | Charrue simple   | 150       |
 | Charrue ferrée   | 400       |
 
-### Outils d'artiasn (en Vald de bronze)
+### Outils d'artiasn
 
 | Outil              | Prix      |
 |--------------------|-----------|
