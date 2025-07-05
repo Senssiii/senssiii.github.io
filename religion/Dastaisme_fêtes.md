@@ -6,15 +6,15 @@ nav_exclude: true
 # Calendrier Liturgique Dastaïte
 *Les Grandes Fêtes de la Foi*
 
-[Fêtes Majeures de l'Année Liturgique](/religion/fetes/fetes_majeurs.html)
+## [Fêtes Majeures de l'Année Liturgique](/religion/fetes/fetes_majeurs.html)
 
-[Fêtes des Saints Compagnons](/religion/fetes/fetes_compagnons.html)
+## [Fêtes des Saints Compagnons](/religion/fetes/fetes_compagnons.html)
 
-[Les fêtes saisonnières](/religion/fetes/fetes_saisonniere.html)
+## [Les fêtes saisonnières](/religion/fetes/fetes_saisonniere.html)
 
-[Les fêtes des reliques et mystères](/religion/fetes/fetes_reliques_mysteres.html)
+## [Les fêtes des reliques et mystères](/religion/fetes/fetes_reliques_mysteres.html)
 
-[Les fêtes locales et régionales](/religion/fetes/fetes_locales_regionales.html)
+## [Les fêtes locales et régionales](/religion/fetes/fetes_locales_regionales.html)
 
 ---
 
