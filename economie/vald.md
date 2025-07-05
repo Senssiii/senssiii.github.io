@@ -4,7 +4,7 @@ layout: medieval
 nav_exclude: true
 ---
 
-Le vald est la monnaie couramment utilisé dans tout le royaume de [Virmian](/Virmian_base.md)
+Le vald est la monnaie couramment utilisé dans tout le royaume de [Virmian](/Virmian_base.md).
 
 ### Conversion des valds
 
