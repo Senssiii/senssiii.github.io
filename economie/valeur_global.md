@@ -4,8 +4,7 @@ layout: medieval
 nav_exclude: true
 ---
 
-
-### OUTILS AGRICOLES (en Vald de bronze)
+### Outils agricoles (en Vald de bronze)
 
 | Outil            | Prix      |
 |------------------|-----------|
@@ -14,7 +13,7 @@ nav_exclude: true
 | Charrue simple   | 150       |
 | Charrue ferrée   | 400       |
 
-### OUTILS D'ARTISAN (en Vald de bronze)
+### Outils d'artiasn (en Vald de bronze)
 
 | Outil              | Prix      |
 |--------------------|-----------|
@@ -36,9 +35,9 @@ nav_exclude: true
 | Arbalète          | 300  |
 | Arc long          | 80   |
 
-### **ANIMAUX**
+### **Animaux**
 
-#### _Animaux de ferme_
+#### Animaux de ferme
 
 | Animal           | Prix |
 |------------------|------|
@@ -48,7 +47,7 @@ nav_exclude: true
 | Bœuf de labour   | 6000 |
 | Vache laitière   | 4000 |
 
-#### _Équidés_
+#### Équidés
 
 | Animal            | Prix  |
 |-------------------|-------|

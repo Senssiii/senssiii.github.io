@@ -8,3 +8,4 @@ nav_exclude: false
 # Lore annexe : 
 
 - [🟡 Les royaumes voisins](/annexe/royaumes.html)
+- [Valeur global](/economie/valeur_global.md)
