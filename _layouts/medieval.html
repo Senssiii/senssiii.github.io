@@ -27,21 +27,34 @@ body {
   padding: 1rem;
 }
 
-p,li,a {
-  font-size: 120%;
+p, li {
+  font-size: 1.1rem;
 }
 
+a {
+  font-size: 1.1rem;
+  color: var(--link-color);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Taille raisonnable pour les liens de navigation */
+.nav-list-link {
+  font-size: 1.2rem;
+}
+
+/* Titres avec tailles bien différenciées */
 h1 {
-  font-size: 150%; 
+  font-size: 1.6rem;
 }
 h2 {
-  font-size: 140%; 
+  font-size: 1.4rem;
 }
 h3 {
-  font-size: 135%;
+  font-size: 1.25rem;
 }
-
-
 
 body::before {
   content: "";
@@ -59,15 +72,6 @@ body::before {
 
 .nav-list-link {
   font-size: 145%; /* ou 18px, ou une autre valeur selon ton besoin */
-}
-
-/* Pour améliorer le rendu des liens */
-a {
-  color: var(--link-color);
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
 }
 
 /* Navigation ou blocs de menu */
