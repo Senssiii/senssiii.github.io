@@ -1,3 +1,9 @@
+---
+title: Fêtes religieuse
+layout: medieval
+nav_exclude: true 
+---
+
 ## Livre Cinquième : L'Édification de l'Église Sainte
 
 ### Des Deux Voies de la Perfection

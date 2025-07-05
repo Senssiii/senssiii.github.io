@@ -1,3 +1,9 @@
+---
+title: Fêtes religieuse
+layout: medieval
+nav_exclude: true 
+---
+
 ## Livre Premier : La Grande Descente et l'Assemblée des Élus
 
 ### De la Manifestation Divine

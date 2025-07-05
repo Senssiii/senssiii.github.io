@@ -1,3 +1,9 @@
+---
+title: Quatrième livre
+layout: medieval
+nav_exclude: true 
+---
+
 ## Livre Quatrième : Les Mystères de la Doctrine
 
 ### Des Sept Vertus qui Élèvent l'Âme

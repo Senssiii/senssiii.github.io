@@ -1,3 +1,9 @@
+---
+title: Fêtes religieuse
+layout: medieval
+nav_exclude: true 
+---
+
 ## Livre Second : La Passion de Harndom
 
 ### De la Corruption du Parjure

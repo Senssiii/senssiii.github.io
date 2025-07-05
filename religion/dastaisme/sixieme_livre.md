@@ -1,3 +1,9 @@
+---
+title: Sixième livre
+layout: medieval
+nav_exclude: true 
+---
+
 ## Livre Sixième : L'Inquisition Sainte et la Préservation de la Foi
 
 ### De la Nécessité de Garder le Dépôt Sacré

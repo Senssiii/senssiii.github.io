@@ -1,3 +1,9 @@
+---
+title: Septième livre
+layout: medieval
+nav_exclude: true 
+---
+
 ## Livre Septième : Les Sacrements et les Mystères
 
 ### Des Six Voies de la Grâce

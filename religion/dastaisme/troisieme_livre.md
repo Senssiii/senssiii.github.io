@@ -1,3 +1,9 @@
+---
+title: Troisième livre
+layout: medieval
+nav_exclude: true 
+---
+
 ## Livre Troisième : Les Vingt Quêtes Éternelles
 
 ### De l'Institution des Quêtes Sacrées
