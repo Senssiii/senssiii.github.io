@@ -1,3 +1,9 @@
+---
+title: Fêtes Locales et Régionales
+layout: medieval
+nav_exclude: true 
+---
+
 ## Fêtes Locales et Régionales
 
 ### Benedictio Navium (Bénédiction des Navires) - 16 Juillet

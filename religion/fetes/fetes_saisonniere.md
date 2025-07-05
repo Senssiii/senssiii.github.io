@@ -1,3 +1,9 @@
+---
+title: Fêtes Saisonnières
+layout: medieval
+nav_exclude: true 
+---
+
 ## Fêtes Saisonnières
 
 ### Magnus Dies Renovationis (Grand Jour du Renouveau) - Équinoxe de Printemps

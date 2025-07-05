@@ -1,3 +1,9 @@
+---
+title: Fêtes des Saints Compagnons
+layout: medieval
+nav_exclude: true 
+---
+
 ## Fêtes des Saints Compagnons
 
 ### Sancti Damiani Caritatis (Saint Damien de la Charité) - 4 Octobre

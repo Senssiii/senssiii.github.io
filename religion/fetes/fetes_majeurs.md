@@ -1,3 +1,9 @@
+---
+title: Fêtes Majeures de l'Année Liturgique
+layout: medieval
+nav_exclude: true 
+---
+
 ## Fêtes Majeures de l'Année Liturgique
 
 ### Dies Descensus (Jour de la Descente) - 1er Janvier

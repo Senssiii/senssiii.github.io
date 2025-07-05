@@ -1,3 +1,9 @@
+---
+title: Fêtes des Reliques et Mystères
+layout: medieval
+nav_exclude: true 
+---
+
 ## Fêtes des Reliques et Mystères
 
 ### Inventio Gladiorum (Découverte des Épées) - Dates Variables
