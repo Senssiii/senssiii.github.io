@@ -24,7 +24,7 @@ Au centre de cette construction politique se dresse [Valder](domaine_royal.html)
 
 Le royaume s'étend en une mosaïque de duchés aux caractères distinctifs :
 
-##### **[Volmarn](/virmian/provinces/Volmarn_base.html)** *Terre encore marquée par les cicatrices du "Roi des Bandits", demeure un territoire de vigilance face aux ambitions d'Autchburg et de ses pairs vassalique.*
+### **[Volmarn](/virmian/provinces/Volmarn_base.html)** *Terre encore marquée par les cicatrices du "Roi des Bandits", demeure un territoire de vigilance face aux ambitions d'Autchburg et de ses pairs vassalique.*
 
 **[Emerance](/virmian/provinces/Emerance_base.html)**, l'ancien royaume conquis et pacifié, traditionnellement gouverné par l'héritier du trône, déploie ses montagnes riches en minerais et ses côtes battues par les vents, où prospèrent salines et troupeaux à la laine réputée.
 
