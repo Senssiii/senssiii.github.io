@@ -6,9 +6,9 @@ nav_order: 4
 # ⚜ Le Grand Royaume de Virmian ⚜
 *Bastion de la Foi [Dastaïte](/religion/Dastaisme.html) et Fleuron de la Chevalerie*
 
-<img src="assets/armoiries/virmian_new.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+<img src="/assets/armoiries/virmian_new.png" alt="Virmian" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
 
-![Map Virmian](assets/map/zoom_Virmian.png)
+![Map Virmian](/assets/map/zoom_Virmian.png)
 
 ## Un Héritage Millénaire
 
@@ -18,7 +18,7 @@ nav_order: 4
 
 Au centre de cette construction politique se dresse [Valder](domaine_royal.html), capitale rayonnante de 150 000 âmes, joyau architectural érigé sur les rives de l'Avinau. Ses sept tours cathédraliques percent les cieux comme autant de prières de pierre, tandis que le célèbre pont d'Harcourt, véritable rue suspendue couronnée de son fort imprenable, symbolise la grandeur virmienne. Le palais royal, agrandi par chaque dynastie, et l'Université fondée en 1211 font de cette cité un foyer de pouvoir temporel, spirituel et intellectuel sans égal.
 
-![Virmian Politique](assets/map/politique_Virmian.png)
+![Virmian Politique](/assets/map/politique_Virmian.png)
 
 ## Les Provinces : Une Mosaïque de Richesses
 
@@ -64,4 +64,4 @@ Malgré ces défis, le Grand Royaume de Virmian demeure l'une des puissances pr�
 
 *Que Dast bénisse et préserve cette noble entreprise pour les siècles à venir.*
 
-[**Pour une version plus complète**](Virmian_avancé.html)
+[**Pour une version plus complète**](/virmian/Virmian_avancé.html)
