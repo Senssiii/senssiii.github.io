@@ -3,6 +3,8 @@ title: La féoderie Virmienne (1238-1240)
 layout: medieval
 nav_exclude: true 
 ---
+# La féoderie Virmienne (1238-1240)
+
 Sous le règne de Vilven II, dit "le Réformateur", une coalition de grands vassaux mena une révolte qui faillit emporter la dynastie. Cette "féoderie", menée par le dauphin Gontran lui-même, s'opposa aux réformes centralisatrices que le roi tentait d'imposer au royaume.
 
 Le dauphin, influencé par une faction de grands seigneurs traditionalistes menés par les ducs d'Almar et de Volmarn, dénonça publiquement les "nouveautés tyranniques" de son père : création d'une administration de "roturiers lettrés", établissement d'impôts permanents, et formation d'une armée professionnelle échappant au contrôle féodal. Dans son manifeste de rébellion, il proclama : "Mon père veut faire de nous des valets là où nous sommes ses pairs par la grâce de Dast."

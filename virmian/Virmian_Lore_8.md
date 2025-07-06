@@ -3,6 +3,8 @@ title: La guerre contre Autchburg : l'affrontement des titans (1265-1278)
 layout: medieval
 nav_exclude: true 
 ---
+# La guerre contre Autchburg : l'affrontement des titans (1265-1278)
+
 En 1265, la longue paix relative avec Autchburg prit fin brutalement. Le conflit s'enracina non pas dans une querelle d'ordre national, mais dans l'enchevêtrement complexe des ambitions dynastiques et des revendications territoriales. Le roi Firsend III d'Autchburg, que les chroniques virmiennes décrivent comme "ambitieux jusqu'à la déraison et envieux de la gloire de ses ancêtres", décida de raviver une ancienne prétention sur le duché de Valencourt.
 
 La raison invoquée était une alliance matrimoniale remontant à deux générations : la grand-mère de Firsend III, une princesse virmienne, avait épousé son grand-père avec une dot comprenant théoriquement des droits sur certaines terres valenciennes. Ces droits, jamais clairement définis ni exercés, servirent de prétexte légal à une entreprise militaire dont les véritables motivations étaient bien plus pragmatiques : le besoin pressant de Firsend de renflouer ses coffres personnels, de récompenser ses vassaux les plus fidèles avec de nouvelles terres, et de raviver le prestige militaire de sa dynastie par une conquête éclatante.

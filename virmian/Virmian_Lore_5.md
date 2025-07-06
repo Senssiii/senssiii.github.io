@@ -3,6 +3,8 @@ title: La Révolte du Prévôt Marchand (1173-1175)
 layout: medieval
 nav_exclude: true 
 ---
+# La Révolte du Prévôt Marchand (1173-1175)
+
 Entre la montée des Valder sur le trône et l'année 1265, le royaume ne connut pas d'autres conflits majeurs qui auraient menacé son intégrité ou sa stabilité. Cette période, que certains historiens ont surnommée avec quelque ironie "Le Long Calme", fut néanmoins marquée par une activité diplomatique et militaire soutenue aux frontières du royaume, mais aussi par des crises intérieures d'une gravité considérable, chaque roi cherchant à étendre son influence personnelle et à accroître les ressources de la couronne.
 Si les chroniques royales tendent à présenter cette époque comme une ère de paix continue, la réalité fut bien plus mouvementée. Des conflits localisés mais parfois intenses éclatèrent périodiquement, notamment lors des "guerres valdorines" (1092-1098), série d'affrontements entre le duc de Valdorin et ses vassaux rebelles dans laquelle la couronne intervint pour affaiblir ce puissant feudataire; ou encore durant la "querelle de Malno" (1170-1177), dispute territoriale avec ce duché voisin qui se résolut finalement par un mariage dynastique avantageux.
 

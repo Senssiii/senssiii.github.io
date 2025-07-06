@@ -3,6 +3,8 @@ title: La guerre contre Emerance et sa soumission (627-640)
 layout: medieval
 nav_exclude: true 
 ---
+# La guerre contre Emerance et sa soumission (627-640)
+
 Les premières décennies du VIIe siècle virent Virmian consolider progressivement sa position, alternant périodes de paix relative et conflits localisés avec ses voisins. Le commerce se développa, les villes s'agrandirent, et l'administration royale commença à prendre forme avec l'établissement des premiers baillis et sénéchaux royaux dans les provinces les plus éloignées de la capitale.
 
 C'est dans ce contexte de renforcement institutionnel que survint un événement qui allait marquer durablement l'histoire du royaume. Sous le règne du roi Harzen III, surnommé "le Juste" par ses sujets et "le Terrible" par ses ennemis, un nouveau conflit émergea, cette fois avec le royaume d'Emerance. Cette petite entité semi-insulaire, elle aussi issue des décombres de Mirst, s'était peu à peu laissée gagner par une arrogance funeste, encouragée par sa position géographique avantageuse et la richesse de ses mines d'argent et de fer.
