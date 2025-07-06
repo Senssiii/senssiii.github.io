@@ -1,9 +1,10 @@
 ---
 title: Virmian
 layout: medieval
+nav_order: 4
 ---
 # ⚜ Le Grand Royaume de Virmian ⚜
-*Bastion de la Foi [Dastaïte](Dastaisme.html) et Fleuron de la Chevalerie*
+*Bastion de la Foi [Dastaïte](/religion/Dastaisme.html) et Fleuron de la Chevalerie*
 
 <img src="assets/armoiries/virmian_new.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
 
@@ -23,21 +24,21 @@ Au centre de cette construction politique se dresse [Valder](domaine_royal.html)
 
 Le royaume s'étend en une mosaïque de duchés aux caractères distinctifs :
 
-**[Emerance](Emerance_base.html)**, l'ancien royaume conquis et pacifié, traditionnellement gouverné par l'héritier du trône, déploie ses montagnes riches en minerais et ses côtes battues par les vents, où prospèrent salines et troupeaux à la laine réputée.
+##### **[Volmarn](/virmian/provinces/Volmarn_base.html)** *Terre encore marquée par les cicatrices du "Roi des Bandits", demeure un territoire de vigilance face aux ambitions d'Autchburg et de ses pairs vassalique.*
 
-**[Valencourt](Valencourt_base.html)**, carrefour commercial vers la cité-État de Vostrag, brille par ses riches communes drapières aux libertés chèrement acquises lors de sanglantes révoltes urbaines. Ses milices bourgeoises rivalisent en discipline avec les meilleures troupes du royaume.
+**[Emerance](/virmian/provinces/Emerance_base.html)**, l'ancien royaume conquis et pacifié, traditionnellement gouverné par l'héritier du trône, déploie ses montagnes riches en minerais et ses côtes battues par les vents, où prospèrent salines et troupeaux à la laine réputée.
 
-**[Valdorin](Valdorin_base.html)**, terre d'opulence et de raffinement, produit les vins les plus prisés du monde connu. Ses seigneurs dorés cultivent un art de vivre somptuaire qui influence les cours jusqu'aux confins du continent.
+**[Valencourt](/virmian/provinces/Valencourt_base.html)**, carrefour commercial vers la cité-État de Vostrag, brille par ses riches communes drapières aux libertés chèrement acquises lors de sanglantes révoltes urbaines. Ses milices bourgeoises rivalisent en discipline avec les meilleures troupes du royaume.
 
-**[Gaucourt](Gaucourt_base.html)**, cœur spirituel de la chevalerie virmienne, résonne des exploits de ses preux et de la renommée de ses tournois. Ses forêts anciennes et ses terres fertiles nourrissent les plus pures traditions aristocratiques.
+**[Valdorin](/virmian/provinces/Valdorin_base.html)**, terre d'opulence et de raffinement, produit les vins les plus prisés du monde connu. Ses seigneurs dorés cultivent un art de vivre somptuaire qui influence les cours jusqu'aux confins du continent.
 
-**[Almar](Almar_base.html)**, province méridionale aux influences mistraliennes, ouvre le royaume sur la mer Mistral. Ses cités cosmopolites et sa flotte aguerrie maintiennent les liens commerciaux avec l'Empire Aurien et les terres lointaines.
+**[Gaucourt](/virmian/provinces/Gaucourt_base.html)**, cœur spirituel de la chevalerie virmienne, résonne des exploits de ses preux et de la renommée de ses tournois. Ses forêts anciennes et ses terres fertiles nourrissent les plus pures traditions aristocratiques.
 
-**[Volmarn](Volmarn_base.html)** Terre encore marquée par les cicatrices du "Roi des Bandits", demeure un territoire de vigilance face aux ambitions d'Autchburg et de ses pairs vassalique.
+**[Almar](/virmian/provinces/Almar_base.html)**, province méridionale aux influences mistraliennes, ouvre le royaume sur la mer Mistral. Ses cités cosmopolites et sa flotte aguerrie maintiennent les liens commerciaux avec l'Empire Aurien et les terres lointaines.
 
-## Foi et Épée : Le Culte [Dastaïte](Dastaisme.html)
+## Foi et Épée : Le Culte [Dastaïte](/religion/Dastaisme.html)
 
-La foi [Dastaïte](Dastaisme.html) imprègne chaque aspect de la vie virmienne. Introduit par Saint Arvélan le Purificateur, ce culte prône l'équilibre entre contemplation et action guerrière selon le précepte : "Par la foi et par l'épée, l'homme juste servira Dast." Les ordres monastiques se divisent entre Contemplateurs voués à l'étude et Défenseurs-soldats comme les célèbres Chevaliers de la Rose Blanche. Le Primat des Lanvain, depuis la Grande Cathédrale de Valder, représente l'autorité du Sanctriarque d'Ostia dans le royaume.
+La foi [Dastaïte](/religion/Dastaisme.html) imprègne chaque aspect de la vie virmienne. Introduit par Saint Arvélan le Purificateur, ce culte prône l'équilibre entre contemplation et action guerrière selon le précepte : "Par la foi et par l'épée, l'homme juste servira Dast." Les ordres monastiques se divisent entre Contemplateurs voués à l'étude et Défenseurs-soldats comme les célèbres Chevaliers de la Rose Blanche. Le Primat des Lanvain, depuis la Grande Cathédrale de Valder, représente l'autorité du Sanctriarque d'Ostia dans le royaume.
 
 ## Épreuves et Triomphes
 

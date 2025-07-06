@@ -1,7 +1,8 @@
 ---
 title: Dastaisme
 layout: medieval
-nav_exclude: true 
+nav_order: 6
+nav_exclude: false 
 ---
 # Les Saintes Chroniques de Dast le Tout-Puissant
 
