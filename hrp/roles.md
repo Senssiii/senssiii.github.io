@@ -6,8 +6,6 @@ nav_exclude: true
 
 # Grille de Difficulté des Rôles - Royaume de Virmian (1515)
 
-## **Liste des Rôles Disponibles en Jeu**
-
 **Important :** *Chaque rôle ci-dessous, dépendant de leur complexité sociale, de leur demande aux joueurs en termes de connaissances historiques et de leur influence sur la société virmienne, peuvent différer en terme de difficulté. Voici donc notre barème de difficulté pour les nouveaux et anciens joueurs :*
 
 ⭐ : Très facile à jouer dès le début, peu de connaissances spécialisées requises, rôle bien défini
