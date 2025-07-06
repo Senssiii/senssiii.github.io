@@ -4,6 +4,8 @@ layout: medieval
 nav_exclude: true 
 ---
 
+[Compétences](competences.html)
+
 ![Epee](/assets/illustration/epee.png)
 # Prérequis d'Équipement - Serveur Roleplay Médiéval
 
@@ -202,4 +204,3 @@ Les prérequis d'équipement reflètent les exigences physiques et techniques r�
 **Armet/Grand Bascinet**  
 *Prérequis : 5 Force*
 
-[Compétences](competences.html)
