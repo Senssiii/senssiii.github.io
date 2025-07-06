@@ -14,14 +14,6 @@ nav_order: 5
 **Échelle de compétences :** 0 à 10 pour chaque compétence  
 **Limitation initiale :** Maximum de 6 points par compétence à la création  
 **Progression :** Les niveaux 7 à 10 sont accessibles uniquement par progression en jeu
-
-## **Bonus selon l'Origine Sociale**
-
-**Roturier :** Aucun bonus (22 points de base)  
-**Bourgeois :** +1 Charisme, +1 Intelligence  
-**Noble :** +2 Charisme, +2 Intelligence  
-**Sang Royal :** +3 Charisme, +3 Intelligence
-
 ---
 
 ## **Force**
