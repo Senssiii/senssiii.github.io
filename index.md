@@ -34,3 +34,4 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
 ### [Consultez le règlement du serveur](/hrp/regles.html)
 ### [Le Royaume de Virmian](/virmian/Virmian_base.html)
 #### [Volmarn](/virmian/provinces/Volmarn_base.html)
+### [Les rôles](/hrp/roles.html)
