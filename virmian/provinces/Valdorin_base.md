@@ -5,7 +5,7 @@ nav_exclude: true
 ---
 # Le Duché de Valdorin
 
-<img src="assets/armoiries/Valdorin.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+<img src="/assets/armoiries/Valdorin.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
 
 ## Une prospérité remarquable
 
