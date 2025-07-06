@@ -1,5 +1,5 @@
 ---
-title: La guerre contre Autchburg : l'affrontement des titans (1265-1278)
+title: La guerre contre Autchburg - l'affrontement des titans (1265-1278)
 layout: medieval
 nav_exclude: true 
 ---

@@ -1,5 +1,5 @@
 ---
-title: La solidarité de Vostrag : une alliance inattendue (1397)
+title: La solidarité de Vostrag - une alliance inattendue (1397)
 layout: medieval
 nav_exclude: true 
 ---
