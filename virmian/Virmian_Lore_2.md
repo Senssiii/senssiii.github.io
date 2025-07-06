@@ -3,6 +3,7 @@ title: La guerre contre Emerance et sa soumission (627-640)
 layout: medieval
 nav_exclude: true 
 ---
+
 # La guerre contre Emerance et sa soumission (627-640)
 
 Les premières décennies du VIIe siècle virent Virmian consolider progressivement sa position, alternant périodes de paix relative et conflits localisés avec ses voisins. Le commerce se développa, les villes s'agrandirent, et l'administration royale commença à prendre forme avec l'établissement des premiers baillis et sénéchaux royaux dans les provinces les plus éloignées de la capitale.

@@ -3,6 +3,7 @@ title: La solidarité de Vostrag : une alliance inattendue (1397)
 layout: medieval
 nav_exclude: true 
 ---
+
 # La solidarité de Vostrag : une alliance inattendue (1397)
 
 En 1397, un événement inattendu vint brièvement rapprocher les ennemis héréditaires, non par idéalisme mais par convergence d'intérêts économiques. Les principautés nordiques, une confédération de petits États généralement trop occupés par leurs querelles internes pour représenter une menace sérieuse, s'unirent soudainement sous la bannière du prince Braet Van Videlfrat, chef charismatique qui avait su temporairement subordonner les rivalités locales à un objectif commun : s'emparer des richesses de Vostrag.

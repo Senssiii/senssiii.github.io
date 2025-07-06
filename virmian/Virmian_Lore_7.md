@@ -3,6 +3,7 @@ title: La féoderie Virmienne (1238-1240)
 layout: medieval
 nav_exclude: true 
 ---
+
 # La féoderie Virmienne (1238-1240)
 
 Sous le règne de Vilven II, dit "le Réformateur", une coalition de grands vassaux mena une révolte qui faillit emporter la dynastie. Cette "féoderie", menée par le dauphin Gontran lui-même, s'opposa aux réformes centralisatrices que le roi tentait d'imposer au royaume.

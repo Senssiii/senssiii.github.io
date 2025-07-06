@@ -3,7 +3,9 @@ title: De la conquête à la consolidation (640-780)
 layout: medieval
 nav_exclude: true 
 ---
+
 # De la conquête à la consolidation (640-780)
+
 Après l'assujettissement d'Emerance, le Grand Royaume de Virmian entra dans une phase complexe de son histoire que les chroniqueurs contemporains ont souvent simplifié à l'extrême, la qualifiant de "période de paix". En réalité, ces cent quarante années furent marquées par une succession de tensions frontalières, d'alliances fluctuantes et de conflits localisés qui, sans menacer l'existence même du royaume, façonnèrent néanmoins son évolution politique et militaire.
 
 Les rois Harcourt qui se succédèrent sur le trône durant cette période - Harzen IV (640-658), Lorian II (658-679), Harzen V (679-694) et Lorian III (694-723) - durent chacun faire face à des défis distincts, tant intérieurs qu'extérieurs. Leur habileté variable à y répondre détermina la trajectoire du royaume, entre centralisation progressive et tendances centrifuges.

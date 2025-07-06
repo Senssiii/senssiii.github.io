@@ -3,6 +3,7 @@ title: La révolte des seigneurs et la fin des Harcourt (1035-1040)
 layout: medieval
 nav_exclude: true 
 ---
+
 # La révolte des seigneurs et la fin des Harcourt (1035-1040)
 
 C'est en l'an 1035, alors que le royaume semblait avoir atteint une période de prospérité sans précédent, que de nouvelles dissensions surgirent, telles des vipères cachées sous les fleurs. Sous le règne controversé de Hugo III, surnommé "le Fastueux" en raison de son goût immodéré pour le luxe et les festivités, les seigneurs de Cislon, Tiralan et La Hyre se rebellèrent ouvertement contre l'autorité royale.

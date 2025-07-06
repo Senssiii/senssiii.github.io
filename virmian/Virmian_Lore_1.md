@@ -3,6 +3,7 @@ title: La fondation du royaume et ses premières épreuves (565-600)
 layout: medieval
 nav_exclude: true 
 ---
+
 # La fondation du royaume et ses premières épreuves (565-600)
 
 Le Grand Royaume de Virmian, bastion inébranlable de la foi Dastaïte et sanctuaire des idéaux chevaleresques, émergea des ruines fumantes du vénérable royaume de Mirst, cet empire fondateur du monde tel que nous le connaissons aujourd'hui. En l'an de grâce 565, après seize années d'une guerre civile dont la cruauté reste gravée dans la mémoire des hommes, Mirst succomba à ses propres divisions, ses provinces autrefois unies se déchirant pour le contrôle des ressources et des routes commerciales.

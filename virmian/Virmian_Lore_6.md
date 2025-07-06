@@ -3,6 +3,7 @@ title: La Guerre des Communes de Valencourt (1195-1201)
 layout: medieval
 nav_exclude: true 
 ---
+
 # La Guerre des Communes de Valencourt (1195-1201)
 
 À cette époque, les villes de Valencourt ne jouissaient que de privilèges commerciaux limités, bien éloignés de l'autonomie qu'elles possèdent aujourd'hui. Le duc Renaud Ier, désireux de financer ses ambitions territoriales, tenta d'imposer un nouvel impôt sur les métiers à tisser, mesure que les bourgeois considéraient comme ruineuse pour leur industrie naissante.
