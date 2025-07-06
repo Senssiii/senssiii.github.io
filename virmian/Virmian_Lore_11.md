@@ -1,6 +1,6 @@
 ---
 title: Le Roi des Bandits; l'ombre qui faillit engloutir le royaume (1459-1464)
-layout: default
+layout: medieval
 nav_exclude: true 
 ---
 Après la révolte des pêcheurs et les mesures d'apaisement qui s'ensuivirent, le royaume sembla retrouver une relative tranquillité. Mais dans l'ombre, telle une maladie insidieuse qui se développe sans symptômes apparents avant de frapper avec une violence inouïe, une menace plus terrible encore grandissait au cœur même de Virmian.

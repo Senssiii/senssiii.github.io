@@ -1,6 +1,6 @@
 ---
 title: La révolte des pêcheurs : une blessure sociale profonde (1426-1430)
-layout: default
+layout: medieval
 nav_exclude: true 
 ---
 En 1426, alors que le royaume semblait avoir retrouvé une certaine prospérité après les épreuves du siècle précédent, une grave crise économique frappa Virmian. Une succession de mauvaises récoltes, aggravée par un hiver particulièrement rigoureux, plongea de nombreuses régions dans la disette. La situation fut encore compliquée par une épidémie de "fièvre rouge" qui décima le bétail dans les provinces orientales, privant les paysans tant de leur force de travail que de leur principale source de protéines.

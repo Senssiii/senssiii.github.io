@@ -1,6 +1,6 @@
 ---
 title: La Révolte du Prévôt Marchand (1173-1175)
-layout: default
+layout: medieval
 nav_exclude: true 
 ---
 Entre la montée des Valder sur le trône et l'année 1265, le royaume ne connut pas d'autres conflits majeurs qui auraient menacé son intégrité ou sa stabilité. Cette période, que certains historiens ont surnommée avec quelque ironie "Le Long Calme", fut néanmoins marquée par une activité diplomatique et militaire soutenue aux frontières du royaume, mais aussi par des crises intérieures d'une gravité considérable, chaque roi cherchant à étendre son influence personnelle et à accroître les ressources de la couronne.

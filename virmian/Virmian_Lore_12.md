@@ -1,6 +1,6 @@
 ---
 title: L'aventure de Farzan; une légende qui forgea un domaine (1471-1477)
-layout: default
+layout: medieval
 nav_exclude: true 
 ---
 En 1475, alors que le royaume pansait encore les plaies laissées par l'épisode du Roi des Bandits, une histoire singulière vint captiver l'imagination populaire et prouver que, même en ces temps troublés, l'esprit chevaleresque et l'ambition noble pouvaient encore s'épanouir.

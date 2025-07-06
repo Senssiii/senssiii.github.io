@@ -1,6 +1,6 @@
 ---
 title: Virmian en l'an 1515; un tableau des forces et faiblesses
-layout: default
+layout: medieval
 nav_exclude: true 
 ---
 En l'an 1515, alors que le monde s'agite et se transforme, le Grand Royaume de Virmian demeure un acteur majeur de l'échiquier politique des royaumes connus. Cette puissance, cependant, ne doit pas masquer les complexités et les tensions qui traversent cette mosaïque de territoires unis par des liens féodaux plutôt que par un sentiment d'appartenance commune.

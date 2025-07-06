@@ -1,6 +1,6 @@
 ---
 title: La bataille de Sodanburg; fortunes et infortunes (1502-1503)
-layout: default
+layout: medieval
 nav_exclude: true 
 ---
 En l'an de grâce 1502, la querelle entre le seigneur de La Hyre et le comte de Sodanburg, vassaux respectifs de Virmian et d'Autchburg, fournit l'étincelle d'un nouveau conflit entre les deux royaumes rivaux. Cette dispute, en apparence mineure, concernait les droits de passage et de péage sur un tronçon de route commerciale que les deux seigneurs revendiquaient avec une égale véhémence.
