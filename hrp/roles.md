@@ -45,7 +45,7 @@ nav_exclude: true
 **⭐⭐⭐⭐ - Baron/Baronne**
 *Seigneur d'importance régionale. Demande une maîtrise des codes chevaleresques et de la gestion seigneuriale.*
 
-**⭐⭐⭐⭐⭐ - Comte/Comtesse** *(INDISPONIBLE - Rôles Réservés)*
+**⭐⭐⭐⭐⭐ - Comte/Comtesse** *(Indisponible - Rôles Réservés)*
 *Grand seigneur territorial, conseiller ducal. Rôle limité aux joueurs les plus expérimentés.*
 
 ### **Noblesse de Cour**
@@ -94,7 +94,7 @@ nav_exclude: true
 ---
 
 ## **Grande Bourgeoisie**
-**⚠️ FORTEMENT DÉCONSEILLÉE - Demande en Ticket Obligatoire ⚠️**
+**⚠️ Fortement Déconseillée - Demande en Ticket Obligatoire ⚠️**
 
 *La bourgeoisie nécessite une compréhension approfondie des enjeux économiques et sociaux. Les joueurs intéressés doivent faire une demande spéciale en expliquant leur projet RP.*
 
