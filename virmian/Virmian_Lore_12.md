@@ -3,6 +3,9 @@ title: L'aventure de Farzan; une légende qui forgea un domaine (1471-1477)
 layout: medieval
 nav_exclude: true 
 ---
+
+# L'aventure de Farzan; une légende qui forgea un domaine (1471-1477)
+
 En 1475, alors que le royaume pansait encore les plaies laissées par l'épisode du Roi des Bandits, une histoire singulière vint captiver l'imagination populaire et prouver que, même en ces temps troublés, l'esprit chevaleresque et l'ambition noble pouvaient encore s'épanouir.
 
 Farzan, fils bâtard du roi Valn I, avait grandi à la cour dans une position paradoxale, à la fois privilégiée par son sang royal mais limitée par sa naissance illégitime. Éduqué avec les princes légitimes, il reçut la même formation militaire et intellectuelle qu'eux, se révélant d'ailleurs particulièrement doué pour la stratégie et les langues étrangères. Cependant, malgré l'affection évidente que lui portait le roi, jamais il ne pourrait prétendre à un titre ou à un domaine significatif au sein du royaume.

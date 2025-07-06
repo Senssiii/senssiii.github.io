@@ -3,6 +3,9 @@ title: La révolte des pêcheurs : une blessure sociale profonde (1426-1430)
 layout: medieval
 nav_exclude: true 
 ---
+
+# La révolte des pêcheurs : une blessure sociale profonde (1426-1430)
+
 En 1426, alors que le royaume semblait avoir retrouvé une certaine prospérité après les épreuves du siècle précédent, une grave crise économique frappa Virmian. Une succession de mauvaises récoltes, aggravée par un hiver particulièrement rigoureux, plongea de nombreuses régions dans la disette. La situation fut encore compliquée par une épidémie de "fièvre rouge" qui décima le bétail dans les provinces orientales, privant les paysans tant de leur force de travail que de leur principale source de protéines.
 
 Face à cette crise, la couronne, elle-même acculée financièrement par les dépenses militaires liées aux tensions persistantes avec Autchburg, prit une décision qui allait s'avérer désastreuse : augmenter significativement les taxes, y compris sur les denrées de première nécessité, pour renflouer les coffres royaux. Cette mesure, bien que compréhensible du point de vue de la raison d'État, provoqua une vague de mécontentement sans précédent parmi le peuple, lui-même déjà affaibli par la crise.

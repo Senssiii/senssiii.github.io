@@ -3,6 +3,9 @@ title: Le Roi des Bandits; l'ombre qui faillit engloutir le royaume (1459-1464)
 layout: medieval
 nav_exclude: true 
 ---
+
+# Le Roi des Bandits; l'ombre qui faillit engloutir le royaume (1459-1464)
+
 Après la révolte des pêcheurs et les mesures d'apaisement qui s'ensuivirent, le royaume sembla retrouver une relative tranquillité. Mais dans l'ombre, telle une maladie insidieuse qui se développe sans symptômes apparents avant de frapper avec une violence inouïe, une menace plus terrible encore grandissait au cœur même de Virmian.
 Albert d'Arsenbel, issu d'une branche cadette et appauvrie d'une noble famille autchbourgeoise, avait servi avec distinction comme capitaine dans l'armée royale virmienne. Stratège brillant et meneur d'hommes charismatique, il s'était illustré lors de plusieurs campagnes frontalières. Pourtant, cet homme que tout semblait destiner à une carrière militaire honorable nourrissait en secret une ambition dévorante et une rancœur tenace contre l'ordre établi.
 

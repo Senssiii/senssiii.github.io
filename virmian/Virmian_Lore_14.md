@@ -3,6 +3,9 @@ title: Virmian en l'an 1515; un tableau des forces et faiblesses
 layout: medieval
 nav_exclude: true 
 ---
+
+# Virmian en l'an 1515; un tableau des forces et faiblesses
+
 En l'an 1515, alors que le monde s'agite et se transforme, le Grand Royaume de Virmian demeure un acteur majeur de l'échiquier politique des royaumes connus. Cette puissance, cependant, ne doit pas masquer les complexités et les tensions qui traversent cette mosaïque de territoires unis par des liens féodaux plutôt que par un sentiment d'appartenance commune.
 
 À la tête de cette construction politique se trouve le roi Halsden II, 48 ans, qui occupe le trône depuis maintenant vingt-trois ans. Homme de stature moyenne mais d'une présence imposante, il est réputé pour son intelligence politique et sa mémoire exceptionnelle des généalogies nobles – atout considérable dans un système où les alliances familiales déterminent souvent les fidélités.
