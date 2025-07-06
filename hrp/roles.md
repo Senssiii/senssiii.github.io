@@ -11,10 +11,15 @@ nav_exclude: true
 **IMPORTANT :** *Chaque rôle ci-dessous, dépendant de leur complexité sociale, de leur demande aux joueurs en termes de connaissances historiques et de leur influence sur la société virmienne, peuvent différer en terme de difficulté. Voici donc notre barème de difficulté pour les nouveaux et anciens joueurs :*
 
 ⭐ : Très facile à jouer dès le début, peu de connaissances spécialisées requises, rôle bien défini
+
 ⭐⭐ : Facile à jouer en début, puis demande une compréhension des enjeux sociaux, bon point d'entrée
+
 ⭐⭐⭐ : Difficulté modérée, exige une compréhension des codes sociaux et des objectifs à long terme
+
 ⭐⭐⭐⭐ : Difficile à exercer, demande une réflexion politique profonde et des connaissances approfondies du lore
+
 ⭐⭐⭐⭐⭐ : Défi ultime, demande des recherches poussées, forte implication requise, influence majeure sur le serveur
+
 
 **IMPORTANT À NOTER !** *Les rôles ⭐⭐⭐⭐⭐ sont limités en nombre et distribués aux joueurs les plus expérimentés. La bourgeoisie est fortement déconseillée - les joueurs souhaitant l'incarner doivent faire une demande spéciale en ticket.*
 
