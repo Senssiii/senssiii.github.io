@@ -2,6 +2,7 @@
 title: Index Capsules
 layout: medieval
 nav_order: 3
+nav_exclude: true 
 ---
 
 # Liste des capsules : 

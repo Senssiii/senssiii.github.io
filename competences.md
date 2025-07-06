@@ -4,90 +4,188 @@ layout: medieval
 nav_order: 5
 ---
 
-# Compétences
-Les compétences sont ce qui détermine grandement votre gameplay et expérience sur le serveur, vous avez 22 point à repartir + ceux bonus selon le personnage (ceci seront rajoutés par le MJ sur votre fiche).
+[Compétences d'armes](competences_armes.html)
 
-Il est conseillé de faire bien attention à la répartition de ces points, et de tenter de trouver le bon équilibre !
+# Système de Compétences - Serveur Roleplay Médiéval
 
-# Force :
+## **Règles Générales**
 
-- 0 : Personne très faible, peut a peine réalisé des effort physique, faiblesse ig.
-- 1 : Personnage faible, peut porter des charge légère avec un peux de difficulté
-- 2 : Personnage assez faible, peut porter sans trop de difficulté des charge légère et avec plus de difficulté des charge moyenne.
-- 3 : Personnage dans la moyenne, peut porter des charge moyenne aisément.
-- 4 : Personnage au dessus de la moyenne, peut porter des charges lourdes avec un peux de difficulté.
-- 5 : Personnage assez fort, peut porter des charges lourdes assez aisément.
-- 6 : Personnage fort, qui exerce une activité physique régulière en général martial.
-- 7 : Personnage très fort.
-- 8 : Personnage très très fort.
-- 9 : Personnage extrêmement fort, peux choisir un effet persistant en jeu au choix, Force I ou Résistance I. 
-- 10 : Personnage dont la force exceptionnel fait la renommé. [peut se voir accorder un surnom par rapport a sa force]
+**Points disponibles :** 22 points à répartir librement sur 7 compétences  
+**Échelle de compétences :** 0 à 10 pour chaque compétence  
+**Limitation initiale :** Maximum de 6 points par compétence à la création  
+**Progression :** Les niveaux 7 à 10 sont accessibles uniquement par progression en jeu
 
-# Constitution :
-- 0 : personnage ne possédant pas de défense immunitaire. (fortement déconseiller)
-- 1 : Personnage aussi résistant qu'une brindille, ne peut marcher durant un temps long sans s'écrouler de fatigue, tous type de maladie peut avoir raison de lui, même le moindre rhume.
-- 2 : Personnage vulnérable, se fatigue très très vite, ne résisterais pas a une simple fièvre.
-- 3 : Personnage faible, résistant au maladie les plus simple.
-- 4 : Personnage faible très petite résistance à certaines toxines, fatigué après une tâche demandant beaucoup d’effort. Doit tous de même dormir la nuit.
-- 5 : Personnage normal, petite résistance à certaines toxines, fatigué après une tâche demandant beaucoup d'effort. Peut passer une journée sans dormir la nuit.
-- 6 : Personnage plus résistant que la normale, résistance a certaines toxines de base, peut ne pas se reposer durant un temps long.
-- 7 : Personnage assez résistant, les poisons de faible toxicité n'ont plus beaucoup d'effet sur lui, possède 1 cœur en plus en jeu.
-- 8 : Personnage résistant, les poisons de faible toxicité n'ont plus d'effet sur lui, possède 2 cœur en plus en jeu.
-- 9 : Personnage très résistant, possède l'effet résistance 1 en jeu.
-- 10 : personnage très très résistant, possède l'effet résistance 1 et 4 cœur en plus en jeu. [peut se voir attribuer un surnom en raison de constitution.]
+## **Bonus selon l'Origine Sociale**
 
-# Agilité :
-- 0 : Personnage très engourdi, ne peut pas faire d'effort physique intense et marche très lentement. Effet persistant en jeu de Lenteur.
-- 1 : Personnage peu engourdi, peut marcher normalement et faire des efforts physiques intenses.
-- 2 : Personnage engourdi, peut commencer à monter des ânes.
-- 3 : Personnage peu agile.
-- 4 : Personnage assez agile, peut commencer à monter a cheval chevaux.
-- 5 : Personnage agile.
-- 6 : Personnage assez agile, peut être un archer monté et monter sur des destrier peu docile.
-- 7 : Personnage très agile.
-- 8 : Personnage très très agile.
-- 9 : Personnage extrêmement agile, possède effet persistant en jeu au choix : Rapidité I ou Saut Amélioré I.
-- 10 : Personnage dont l'agilité hors-norme fait la renommée. [peut obtenir un surnom dut a son agilité.]
+**Roturier :** Aucun bonus (22 points de base)  
+**Bourgeois :** +1 Charisme, +1 Intelligence  
+**Noble :** +2 Charisme, +2 Intelligence  
+**Sang Royal :** +3 Charisme, +3 Intelligence
 
-# Intelligence :
-- 0 : Personnage totalement idiot, est obligatoirement analphabète, possédant un retard mentale.
-- 1 : Personnage  assez idiot, peut être capable dans la généralité cependant sa réflexion reste limiter.
-- 2 : Personnage idiot, peut compter jusqu'à 50.
-- 3 : Personnage peu intelligent, peut lire très rapidement des noms de lieux.
-- 4 : Personnage intelligent, peut savoir lire, être cultivé, connaître le monde qu'il l'entoure et peut compter à 500.
-- 5 : Personnage assez intelligent, peut élaborer des stratégies militaires, des plans de constructions, écrire des livres.
-- 6 : Personnage très intelligent, peut commencer des études en théologie ou de droit dans une université.
-- 7 : Personnage érudit, peut comprendre la concoction de potions et sait parler plusieurs langue avec un bon vocabulaire.
-- 8 : Personnage d'une grande intelligence, peut se lancer dans des domaine et y faire des découverte marquante.
-- 9 : Personnage extrêmement intelligent.
-- 10 : Personnage d'une intelligence rare, peut comprendre les choses les plus complexes qui concerne le monde qui l'entoure.
+---
 
-# Artisanat :
-- 0: La personne n'a pas de compétence il peut a peine monter une tente et faire un feu.
-- 1: Un niveau amateur, peut manipuler les armures en cuir. Et faire avec beaucoup de chance, des petits objets en fer.
-- 2: Peut devenir un forgeron, un tanneur ou encore un armurier débutant
-- 3: Peut devenir un forgeron, un tanneur ou encore un armurier classique.
-- 4: Peut devenir un forgeron, un tanneur ou encore un armurier expérimenter.
-- 5: Maître dans son domaine .
+## **Force**
+*Puissance physique brute et endurance musculaire*
 
-# Alchimie :
-- 0: La personne n'a pas de compétence.
-- 1:  Le personnage peut essayer de faire des mixtures, mais avec très peu de chance de réussite sauf pour les produits placebos.
-- 2: Le personnage peut commencer a faire quelque produit, et les potions les plus basique.
-- 3: Peut créer des potions avec plus de facilité, et maîtrise de mieux en mieux l'alchimie
-- 4: Obtiens le titre d'alchimiste, peut maîtriser des ingrédients dangereux sans trop de risque.
-- 5: Maître alchimiste, peut créer des potions.
+**0** - Personne grabataire ou gravement malade, incapable du moindre effort physique. Marche avec difficulté et ne peut porter que des vêtements légers.
 
-# Charisme :
-- 1 : Personnage ayant le charisme d'une poire, il est considéré comme étant vilain au yeux de ses pairs.
-- 2 : Personnage ayant un charisme plus que faible, il est considéré comme étant vilain, mais peut tous de même réussir a convaincre les personnes les plus naïve.
-- 3 : Personnage ayant un charisme faible.
-- 4 : Personnage ayant un charisme faiblard, sans trop de prestance.
-- 5 : Personnage ayant un charisme classique, une prestance banale.
-- 6 : Personnage ayant un charisme classique, une prestance banale, bien qu'un peut meilleur.
-- 7 : Personnage ayant un charisme assez important.
-- 8 : Personnage ayant un grand charisme.
-- 9 : Personnage doté d'une aura charismatique, talentueux orateur.
-- 10 : Personnage doté d'une aura charismatique, maitre orateur et disposant d'une éloquence naturel et une rhétorique extraordinaire. [Peut se voir donner des surnom sur son charisme.]
+**1** - Constitution physique très faible. Peut porter des objets légers mais fatigue rapidement lors de tâches manuelles de base. Correspond à un enfant ou une personne âgée.
 
-[Competences armes](competences_armes.html)
+**2** - Personne de constitution fragile. Peut porter une épée courte et des vêtements renforcés, mais peine avec les charges moyennes. Correspond à un érudit sédentaire.
+
+**3** - Force dans la moyenne populaire. Peut porter une épée standard et une armure légère. Capable d'efforts soutenus mais modérés. Correspond à un marchand ou citadin ordinaire.
+
+**4** - Personne robuste au-dessus de la moyenne. Peut porter des armes plus lourdes et une armure de mailles. Correspond à un guerrier entraîné ou un artisan physique.
+
+**5** - Force notable avec musculature développée. Peut porter une armure lourde et manier des armes à deux mains. Correspond à un forgeron ou un guerrier expérimenté.
+
+**6** - Force impressionnante avec physique athlétique. Peut porter l'équipement le plus lourd sans difficultés majeures. Sa force physique est remarquée par son entourage.
+
+**7** - Force exceptionnelle pour un humain ordinaire. Capable de soulever des charges que la plupart jugent impossibles. Physique imposant qui force le respect.
+
+**8** - Puissance physique remarquable, rarissime parmi les mortels. Peut accomplir des exploits de force qui impressionnent même les guerriers aguerris.
+
+**9** - Force extraordinaire, digne des plus grands champions. Capable de prouesses physiques qui marquent les esprits. **Bonus permanent : Résistance I ou Force I**
+
+**10** - Puissance légendaire, comparable aux héros mythiques. Ses exploits de force défient l'entendement et alimenteront les chroniques futures. **Surnom lié à sa force légendaire**
+
+---
+
+## **Constitution**
+*Résistance, endurance et vitalité*
+
+**0** - Système immunitaire inexistant, santé catastrophique. Vulnérable à toutes les maladies. Espérance de vie très réduite.
+
+**1** - Santé très fragile. Tombe malade facilement et fatigue extrêmement rapidement. Ne peut voyager ou faire d'efforts soutenus sans repos fréquent.
+
+**2** - Constitution faible. Résiste mal aux maladies courantes et se fatigue vite lors d'efforts modérés. Correspond à une personne souvent malade.
+
+**3** - Résistance dans la moyenne. Peut tomber malade occasionnellement mais récupère normalement. Fatigue après des efforts importants.
+
+**4** - Bonne constitution générale. Résiste bien aux maladies communes et peut faire des efforts soutenus. Récupère relativement vite de la fatigue.
+
+**5** - Excellente santé. Tombe rarement malade avec grande endurance pour les voyages. Peut rester éveillé une nuit entière sans conséquences majeures.
+
+**6** - Constitution remarquable. Résiste à la plupart des maladies avec endurance exceptionnelle. Supporte bien les conditions difficiles.
+
+**7** - Résistance impressionnante avec santé de fer. Tombe très rarement malade et récupère rapidement des blessures légères. **Bonus : +1 cœur**
+
+**8** - Constitution remarquable avec endurance exceptionnelle. Peut supporter des privations extrêmes et résiste aux poisons courants. **Bonus : +2 cœurs**
+
+**9** - Vitalité extraordinaire, parmi les humains les plus résistants. Survit à des épreuves qui terrasseraient la plupart des gens. **Bonus : +1 cœur et résistance naturelle**
+
+**10** - Constitution légendaire, vitalité digne des héros mythiques. Résiste aux poisons mortels et aux maladies rares. **Bonus : Résistance I + 3 cœurs. Surnom lié à sa résistance**
+
+---
+
+## **Agilité**
+*Vitesse, dextérité et coordination*
+
+**0** - Mobilité très réduite avec mouvements lents et laborieux. Difficultés pour les gestes précis. **Malus permanent : Lenteur**
+
+**1** - Personne peu agile avec mouvements lents mais fonctionnels. Peut marcher normalement mais évite les activités physiques complexes.
+
+**2** - Agilité limitée. Peut monter un âne avec assistance et réalise des gestes de base sans fluidité. Correspond à une personne âgée.
+
+**3** - Coordination dans la moyenne. Mouvements fonctionnels permettant la plupart des tâches courantes. Peut apprendre des gestes techniques simples.
+
+**4** - Bonne agilité. Peut monter à cheval correctement et manipule les outils avec adresse. Correspond à un artisan expérimenté.
+
+**5** - Très agile et coordonné. Excellente maîtrise équestre avec gestes précis. Peut apprendre des techniques complexes d'escrime ou d'acrobatie.
+
+**6** - Agilité remarquable. Peut monter des chevaux difficiles et excelle dans l'archerie montée. Mouvements gracieux même dans l'action.
+
+**7** - Agilité remarquable avec mouvements fluides et précis. Coordination excellente sous pression avec réflexes rapides qui impressionnent.
+
+**8** - Grâce exceptionnelle avec dextérité rare. Capable de prouesses acrobatiques et de techniques martiales avancées.
+
+**9** - Coordination extraordinaire, parmi les humains les plus agiles. Réflexes foudroyants et précision parfaite. **Bonus permanent : Rapidité I ou Saut Amélioré I**
+
+**10** - Perfection du mouvement, grâce légendaire digne des maîtres mythiques. Ses techniques défient les lois physiques. **Surnom lié à son agilité**
+
+---
+
+## **Intelligence**
+*Savoir, logique et mémoire*
+
+**0** - Déficience mentale sévère, incapable d'apprentissage complexe. Communication très limitée, ne peut lire ni compter.
+
+**1** - Intelligence très limitée. Peut apprendre des tâches simples par répétition mais peine avec les concepts abstraits.
+
+**2** - Capacités intellectuelles réduites. Peut compter jusqu'à 20 et comprend les instructions simples. Apprentissage lent pour les tâches concrètes.
+
+**3** - Intelligence de base. Peut apprendre à lire des mots simples et compter jusqu'à 100. Comprend les situations courantes.
+
+**4** - Intelligence normale. Sait lire et écrire correctement, peut faire des calculs simples. Comprend les enjeux de son environnement immédiat.
+
+**5** - Esprit vif et cultivé. Peut étudier des sujets complexes et élaborer des stratégies. Correspond à un lettré ou marchand éduqué.
+
+**6** - Intelligence supérieure. Capable d'études avancées en théologie ou droit. Maîtrise plusieurs langues et peut enseigner ou conseiller.
+
+**7** - Érudit accompli avec esprit remarquablement cultivé. Maîtrise plusieurs domaines de connaissance et fait progresser sa discipline.
+
+**8** - Intelligence supérieure de penseur influent. Capable de découvertes significatives et d'innovations respectées dans les cercles savants.
+
+**9** - Esprit brillant, parmi les plus grands intellectuels. Ses découvertes révolutionnent sa discipline et influencent la pensée contemporaine.
+
+**10** - Génie transcendant, intelligence comparable aux plus grands sages. Ses découvertes marquent l'humanité pour les siècles futurs.
+
+---
+
+## **Artisanat**
+*Création, fabrication et réparation*
+
+**0** - Aucune compétence manuelle. Incapable de réparations de base, peine à monter une tente ou allumer un feu correctement.
+
+**1** - Apprenti débutant. Peut manipuler le cuir simple et tenter de petits objets en fer avec beaucoup d'aide. Résultats très aléatoires.
+
+**2** - Artisan apprenti. Peut devenir forgeron, tanneur ou armurier débutant. Produit des objets fonctionnels de qualité basique.
+
+**3** - Artisan qualifié. Maîtrise correctement son métier et produit des objets de qualité standard fiables. Peut enseigner les bases.
+
+**4** - Maître artisan expérimenté. Reconnu pour la qualité supérieure de son travail. Peut créer des pièces complexes.
+
+**5** - Grand maître de son art. Ses créations sont recherchées par la noblesse. Peut innover dans ses techniques.
+
+---
+
+## **Alchimie**
+*Transformation, potions et savoirs hermétiques*
+
+**0** - Aucune connaissance alchimique. Incapable de distinguer les ingrédients de base ou de suivre une recette simple.
+
+**1** - Apprenti alchimiste. Peut tenter des mixtures simples avec de faibles chances de succès. Maîtrise les préparations basiques.
+
+**2** - Alchimiste débutant. Peut créer des potions de base avec un taux de réussite correct. Comprend les propriétés des ingrédients courants.
+
+**3** - Alchimiste compétent. Maîtrise une gamme étendue de préparations et comprend les interactions entre ingrédients.
+
+**4** - Alchimiste expert. Obtient le titre reconnu d'alchimiste. Peut manipuler des ingrédients dangereux avec sécurité.
+
+**5** - Maître alchimiste. Capable de créer des potions extraordinaires et de découvrir de nouvelles formules.
+
+---
+
+## **Charisme**
+*Présence, éloquence et influence sociale*
+
+**1** - Présence très négative, socialement repoussante. Considéré comme grossier ou déplaisant. Difficultés majeures dans toutes les interactions.
+
+**2** - Charisme faible mais pas répulsif. Peut convaincre les personnes très naïves. Reste discret en société par nécessité.
+
+**3** - Présence discrète, passe inaperçu. Interactions sociales basiques sans éclat particulier.
+
+**4** - Charisme léger, personnalité acceptable. Peut tenir des conversations normales. Présence neutre mais pas mémorable.
+
+**5** - Charisme dans la moyenne avec prestance correcte. Interlocuteur agréable pouvant influencer positivement les discussions.
+
+**6** - Bonne présence sociale avec personnalité attachante. Influence naturelle dans les groupes et facilite les négociations.
+
+**7** - Présence marquante avec charisme naturel évident. Orateur convaincant qui influence positivement les groupes.
+
+**8** - Prestance remarquable avec leadership naturel reconnu. Capable de rallier les gens et d'influencer les décisions importantes.
+
+**9** - Charisme exceptionnel avec aura magnétique rare. Maître orateur capable de retourner l'opinion publique.
+
+**10** - Présence légendaire, charisme mythique qui marque l'histoire. Capable de fédérer des peuples entiers. **Surnom lié à son charisme**
+
