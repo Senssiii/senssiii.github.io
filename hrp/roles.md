@@ -8,7 +8,7 @@ nav_exclude: true
 
 ## **Liste des Rôles Disponibles en Jeu**
 
-**IMPORTANT :** *Chaque rôle ci-dessous, dépendant de leur complexité sociale, de leur demande aux joueurs en termes de connaissances historiques et de leur influence sur la société virmienne, peuvent différer en terme de difficulté. Voici donc notre barème de difficulté pour les nouveaux et anciens joueurs :*
+**Important :** *Chaque rôle ci-dessous, dépendant de leur complexité sociale, de leur demande aux joueurs en termes de connaissances historiques et de leur influence sur la société virmienne, peuvent différer en terme de difficulté. Voici donc notre barème de difficulté pour les nouveaux et anciens joueurs :*
 
 ⭐ : Très facile à jouer dès le début, peu de connaissances spécialisées requises, rôle bien défini
 
@@ -21,11 +21,11 @@ nav_exclude: true
 ⭐⭐⭐⭐⭐ : Défi ultime, demande des recherches poussées, forte implication requise, influence majeure sur le serveur
 
 
-**IMPORTANT À NOTER !** *Les rôles ⭐⭐⭐⭐⭐ sont limités en nombre et distribués aux joueurs les plus expérimentés. La bourgeoisie est fortement déconseillée - les joueurs souhaitant l'incarner doivent faire une demande spéciale en ticket.*
+**Important !** *Les rôles ⭐⭐⭐⭐⭐ sont limités en nombre et distribués aux joueurs les plus expérimentés. La bourgeoisie est fortement déconseillée - les joueurs souhaitant l'incarner doivent faire une demande spéciale en ticket.*
 
 ---
 
-## **NOBLESSE DU ROYAUME**
+## **Noblesse Du Royaume**
 
 ### **Noblesse Sans Terre** *(Rôle Principal du Serveur)*
 
@@ -58,7 +58,7 @@ nav_exclude: true
 
 ---
 
-## **CLERGÉ DASTAÏTE**
+## **Cergé Dastaïste**
 *Privilégiant les rôles mobiles et interactifs avec la noblesse*
 
 ### **Clergé Mobile et d'Influence**
@@ -93,14 +93,14 @@ nav_exclude: true
 
 ---
 
-## **GRANDE BOURGEOISIE**
+## **Grande Bourgeoisie**
 **⚠️ FORTEMENT DÉCONSEILLÉE - Demande en Ticket Obligatoire ⚠️**
 
 *La bourgeoisie nécessite une compréhension approfondie des enjeux économiques et sociaux. Les joueurs intéressés doivent faire une demande spéciale en expliquant leur projet RP.*
 
 ---
 
-## **NOTES IMPORTANTES**
+## **Notes**
 
 **Rôles Principaux Recommandés :**
 - Écuyer de Grande Maison (⭐) - Parfait pour débuter
