@@ -16,4 +16,4 @@ search_exclude: true
 ## Les personnages importants
 
 - [Saint Arvélan](saint_Arvelan.html)
-- [Les fiches des personnages](/lore_secret/fiches/fiches.md)
+- [Les fiches des personnages](/lore_secret/fiches/fiches.html)
