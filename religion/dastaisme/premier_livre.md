@@ -8,7 +8,7 @@ nav_exclude: true
 
 ### De la Manifestation Divine
 
-En ces temps où l'Empire Aurien étendait sa puissance jusqu'aux confins du monde connu, quand les hommes adoraient de vaines idoles et que l'injustice régnait sur la terre comme un fléau, il advint que Dast le Tout-Puissant, Créateur des Cieux et de la Terre, Maître des Destinées et Juge Suprême, prit en Sa divine miséricorde la résolution de descendre parmi Ses créatures.
+En ces temps où l'[Empire Aurien](/Aurien_Valenciannais_base.html) étendait sa puissance jusqu'aux confins du monde connu, quand les hommes adoraient de vaines idoles et que l'injustice régnait sur la terre comme un fléau, il advint que Dast le Tout-Puissant, Créateur des Cieux et de la Terre, Maître des Destinées et Juge Suprême, prit en Sa divine miséricorde la résolution de descendre parmi Ses créatures.
 
 Non point comme un fantôme ou une vision fugace, mais revêtu de chair véritable, Il se manifesta sous l'apparence d'un homme de vingt années, paré d'une armure dont l'éclat surpassait l'or le plus pur et dont chaque maille semblait tissée de lumière stellaire. Son visage rayonnait d'une beauté terrible et douce, ses yeux portaient la profondeur des océans et la sagesse des éternités, et quand Il parlait, Sa voix résonnait comme le tonnerre des montagnes et le murmure des sources.
 

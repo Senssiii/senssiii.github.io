@@ -10,7 +10,7 @@ nav_exclude: true
 
 En la cité de Harndom, qui se dresse aujourd'hui comme le plus saint des lieux de pèlerinage, s'accomplit le mystère terrible de la Trahison. Car celui que nous nommons seulement le Parjure, ne pouvant souiller nos lèvres de son vrai nom, était devenu la proie des Sept Démons Capitaux qui depuis la chute du Premier Homme guettent l'âme humaine pour la dévorer.
 
-La Colère l'embrasait contre le Maître qui avait tranché de Son épée sainte la tête de son frère, homme cruel qui opprimait les faibles sans pitié ni remords. L'Avarice lui murmurait à l'oreille les promesses d'or que lui faisaient miroiter les autorités auriennes. L'Orgueil lui gonflait le cœur, lui faisant croire qu'il valait mieux que ses frères dans la grâce. L'Envie le dévorait face à la gloire qui auréolait le front du Seigneur. La Gourmandise de pouvoir lui desséchait l'âme comme le désert dessèche la source. La Paresse spirituelle engourdissait sa conscience, l'empêchant de lutter contre ses propres ténèbres. Et la Luxure l'obsédait pour une femme qui rejetait ses avances impures.
+La Colère l'embrasait contre le Maître qui avait tranché de Son épée sainte la tête de son frère, homme cruel qui opprimait les faibles sans pitié ni remords. L'Avarice lui murmurait à l'oreille les promesses d'or que lui faisaient miroiter les autorités [auriennes](/Aurien_Valenciannais_base.html). L'Orgueil lui gonflait le cœur, lui faisant croire qu'il valait mieux que ses frères dans la grâce. L'Envie le dévorait face à la gloire qui auréolait le front du Seigneur. La Gourmandise de pouvoir lui desséchait l'âme comme le désert dessèche la source. La Paresse spirituelle engourdissait sa conscience, l'empêchant de lutter contre ses propres ténèbres. Et la Luxure l'obsédait pour une femme qui rejetait ses avances impures.
 
 Ainsi les Sept Péchés firent-ils de son cœur leur demeure, et le Malin y établit son trône. Alors le Parjure, tel Judas en son temps, alla trouver secrètement les puissants de l'Empire qui voyaient en Dast une menace à leur domination corrompue, et il leur dit : "Que me donnerez-vous si je vous le livre ?"
 
@@ -30,7 +30,7 @@ Puis, levant Ses yeux vers le ciel étoilé, Il prononça ces paroles qui firent
 
 Et se jetant sur Dast-Incarné, il Lui plongea sa lame maudite dans le dos, entre les omoplates, jusqu'à la garde. Le sang divin jaillit comme une source écarlate, et le Seigneur tomba à genoux, mais point de plainte ne sortit de Ses lèvres, seulement ces mots de pardon : "Je leur pardonne, car ils ne savent ce qu'ils font."
 
-Alors les compagnons, voyant leur Maître frappé, se jetèrent sur les soldats auriens qui se tenaient cachés dans l'ombre, et il y eut un combat terrible dans cette salle haute. Leurs épées chantèrent la chanson de la vengeance, et pas un ennemi ne survécut à leur colère sainte. Mais le Parjure avait fui comme un chacal dans la nuit, emportant sa honte et son crime.
+Alors les compagnons, voyant leur Maître frappé, se jetèrent sur les soldats [auriens](/Aurien_Valenciannais_base.html) qui se tenaient cachés dans l'ombre, et il y eut un combat terrible dans cette salle haute. Leurs épées chantèrent la chanson de la vengeance, et pas un ennemi ne survécut à leur colère sainte. Mais le Parjure avait fui comme un chacal dans la nuit, emportant sa honte et son crime.
 
 Les compagnons se penchèrent sur leur Maître mourant, et leurs larmes tombaient sur Ses plaies comme la rosée sur les fleurs. Et Dast-Incarné rendit Son dernier souffle en murmurant : "Tout est accompli."
 

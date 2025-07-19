@@ -29,7 +29,7 @@ Le climat favorable dont jouit Andrion permet une agriculture diversifiée et pr
 
 ### Interface avec le monde méridional
 
-L'histoire d'Andrion fut largement façonnée par sa position géopolitique particulière, à l'interface entre le monde [dastaïte](Dastaimse.html) septentrional et les puissances méridionales aux cultures et religions distinctes. Cette situation de frontière l'exposa régulièrement aux pressions expansionnistes du Gaziat Demirboran, entité politico-religieuse dont les ambitions hégémoniques constituent encore aujourd'hui une menace existentielle pour le royaume.
+L'histoire d'Andrion fut largement façonnée par sa position géopolitique particulière, à l'interface entre le monde [dastaïte](/religion/Dastaimse.html) septentrional et les puissances méridionales aux cultures et religions distinctes. Cette situation de frontière l'exposa régulièrement aux pressions expansionnistes du Gaziat Demirboran, entité politico-religieuse dont les ambitions hégémoniques constituent encore aujourd'hui une menace existentielle pour le royaume.
 
 ### La bataille du pic de la Jorte (1245)
 
@@ -39,13 +39,13 @@ Cette bataille, célébrée chaque année en Andrion lors de festivités nationa
 
 ## Structure politique
 
-Sur le plan politique, Andrion présente la structure féodale caractéristique des royaumes [dastaïtes](Dastaimse.html). Le pouvoir royal, bien que théoriquement considérable, est en pratique limité par les prérogatives des grands seigneurs qui administrent leurs domaines avec une large autonomie. Ce morcellement de l'autorité, particulièrement prononcé dans les provinces périphériques, explique en partie les difficultés récurrentes de la couronne à mobiliser rapidement les ressources du royaume face aux menaces extérieures.
+Sur le plan politique, Andrion présente la structure féodale caractéristique des royaumes [dastaïtes](/religion/Dastaimse.html). Le pouvoir royal, bien que théoriquement considérable, est en pratique limité par les prérogatives des grands seigneurs qui administrent leurs domaines avec une large autonomie. Ce morcellement de l'autorité, particulièrement prononcé dans les provinces périphériques, explique en partie les difficultés récurrentes de la couronne à mobiliser rapidement les ressources du royaume face aux menaces extérieures.
 
 ## Religion et culture
 
-### Culte [dastaïte](Dastaimse.html) local
+### Culte [dastaïte](/religion/Dastaimse.html) local
 
-Le culte [dastaïte](Dastaimse.html) y est solidement implanté depuis des siècles, reconnaissant l'autorité spirituelle du Sanctriarque comme partout ailleurs dans le monde [dastaïte](Dastaimse.html) traditionnel. Ses manifestations locales intègrent cependant des éléments spécifiques qui reflètent le tempérament particulier des Andrionais. Les processions religieuses, par exemple, y sont notablement plus colorées et festives que dans nos contrées, accompagnées de musiques entraînantes et parfois même de danses que nos théologiens plus austères pourraient juger inappropriées en contexte sacré.
+Le culte [dastaïte](/religion/Dastaimse.html) y est solidement implanté depuis des siècles, reconnaissant l'autorité spirituelle du Sanctriarque comme partout ailleurs dans le monde [dastaïte](/religion/Dastaimse.html) traditionnel. Ses manifestations locales intègrent cependant des éléments spécifiques qui reflètent le tempérament particulier des Andrionais. Les processions religieuses, par exemple, y sont notablement plus colorées et festives que dans nos contrées, accompagnées de musiques entraînantes et parfois même de danses que nos théologiens plus austères pourraient juger inappropriées en contexte sacré.
 
 ### Architecture distinctive
 
