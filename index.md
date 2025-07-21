@@ -99,7 +99,7 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
       <li><a href="/religion/Dastaisme.html">Religions</a></li>
       <li><a href="/virmian/volmarn.html">Volmarn</a></li>
     </ul>
-    <img src="/assets/icons/skull.png" alt="Icone" class="menu-icon">
+    <img src="/assets/armoiries/virmian_new.png" alt="Icone" class="menu-icon">
   </div>
 
   <div class="menu-box">
