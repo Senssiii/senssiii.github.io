@@ -107,6 +107,6 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
     <ul>
       <li><a href="/hrp/competences.html">Compétences</a></li>
     </ul>
-    <img src="/assets/icons/weapons.png" alt="Icone" class="menu-icon">
+    <img src="/assets/illustration/epee.png" alt="Icone" class="menu-icon">
   </div>
 </div>
