@@ -19,7 +19,7 @@ nav_order: 4
 
 Au centre de cette construction politique se dresse [Valder](domaine_royal.html), capitale rayonnante de 150 000 âmes, joyau architectural érigé sur les rives de l'Avinau. Ses sept tours cathédraliques percent les cieux comme autant de prières de pierre, tandis que le célèbre pont d'Harcourt, véritable rue suspendue couronnée de son fort imprenable, symbolise la grandeur virmienne. Le palais royal, agrandi par chaque dynastie, et l'Université fondée en 1211 font de cette cité un foyer de pouvoir temporel, spirituel et intellectuel sans égal.
 
-![Virmian Politique](/assets/map/politique_Virmian.png)
+![Virmian Politique](/assets/map/politique_Virmian.jpg)
 
 ## Les Provinces : Une Mosaïque de Richesses
 
