@@ -3,6 +3,56 @@ title: Index
 layout: medieval
 nav_order: 1
 ---
+<style>
+  .menu-grid {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: 2rem 0;
+  }
+  .menu-box {
+    background: #1a1a1a;
+    border: 2px solid #c0b283;
+    padding: 1.5rem;
+    width: 250px;
+    color: #fff;
+    font-family: "Georgia", serif;
+    position: relative;
+    box-shadow: 0 0 10px #000;
+  }
+  .menu-box h2 {
+    font-size: 1.8rem;
+    color: #d4c27a;
+    text-align: center;
+    font-variant: small-caps;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #555;
+    padding-bottom: 0.5rem;
+  }
+  .menu-box ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  }
+  .menu-box ul li {
+    margin: 0.5rem 0;
+  }
+  .menu-box ul li a {
+    color: #eee;
+    text-decoration: none;
+  }
+  .menu-box ul li a:hover {
+    text-decoration: underline;
+  }
+  .menu-icon {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width: 32px;
+    height: 32px;
+  }
+</style>
+
 # 🏰 Bienvenue sur Atald
 
 Bienvenue sur le serveur **Atald**, un monde médiéval de quêtes et de mystères.  
