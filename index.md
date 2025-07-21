@@ -31,7 +31,32 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
 
 ## 🔗 Navigation rapide
 
-### [Consultez le règlement du serveur](/hrp/regles.html)
-### [Le Royaume de Virmian](/virmian/Virmian_base.html)
-### [Volmarn](/virmian/provinces/Volmarn_base.html)
-### [Les rôles](/hrp/roles.html)
+<div class="menu-grid">
+  <div class="menu-box">
+    <h2>Candidater</h2>
+    <ul>
+      <li><a href="/hrp/roles.md">Les rôles</a></li>
+      <li><a href="/hrp/candidature.html">Modèle de candidature</a></li>
+      <li><a href="/virmian/provinces/Volmarn_base.html">Volmarn</a></li>
+    </ul>
+    <img src="/assets/icons/candles.png" alt="Icone" class="menu-icon">
+  </div>
+
+  <div class="menu-box">
+    <h2>Univers</h2>
+    <ul>
+      <li><a href="/virmian/Virmian_base.html">Monde</a></li>
+      <li><a href="/religion/Dastaisme.html">Religions</a></li>
+      <li><a href="/virmian/volmarn.html">Volmarn</a></li>
+    </ul>
+    <img src="/assets/icons/skull.png" alt="Icone" class="menu-icon">
+  </div>
+
+  <div class="menu-box">
+    <h2>Systèmes</h2>
+    <ul>
+      <li><a href="/hrp/competences.html">Compétences</a></li>
+    </ul>
+    <img src="/assets/icons/weapons.png" alt="Icone" class="menu-icon">
+  </div>
+</div>

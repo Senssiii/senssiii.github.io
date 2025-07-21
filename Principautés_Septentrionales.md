@@ -1,6 +1,6 @@
 ---
 title: Les Principautés Septentrionales
-layout: default
+layout: medieval
 nav_exclude: true 
 ---
 

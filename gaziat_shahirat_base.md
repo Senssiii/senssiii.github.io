@@ -1,6 +1,6 @@
 ---
 title: Le Gaziat Demirboran et le Shahirat Narfazad
-layout: default
+layout: medieval
 nav_exclude: true 
 ---
 

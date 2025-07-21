@@ -1,6 +1,6 @@
 ---
 title: La Ligue d'Arbert et le Royaume d'Ojivart
-layout: default
+layout: medieval
 nav_exclude: true 
 ---
 

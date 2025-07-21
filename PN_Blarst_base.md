@@ -1,6 +1,6 @@
 ---
 title: Les Principautés Nordiques et les Peuples Blarst
-layout: default
+layout: medieval
 nav_exclude: true 
 ---
 

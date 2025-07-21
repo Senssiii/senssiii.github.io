@@ -1,6 +1,6 @@
 ---
 title: Trimesk, Nivsk et Varzomir
-layout: default
+layout: medieval
 nav_exclude: true 
 ---
 
