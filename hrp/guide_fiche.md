@@ -1,3 +1,9 @@
+---
+title: Guide pour rejoindre
+nav_exclude: true
+layout: medieval
+---
+
 # Guide pour Rejoindre le Serveur Atald
 
 Bienvenue sur **Atald**, un serveur roleplay exigeant et immersif. Avant de pouvoir commencer à jouer, certaines étapes sont nécessaires pour garantir la cohérence de l’univers et l’intégration fluide de chaque joueur.
