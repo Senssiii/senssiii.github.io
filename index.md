@@ -88,8 +88,8 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
     <h2>Candidater</h2>
     <ul>
       <li><a href="/hrp/roles.md">Les rôles</a></li>
-      <li><a href="/hrp/candidature.html">Modèle de candidature</a></li>
-      <li><a href="/virmian/provinces/Volmarn_base.html">Volmarn</a></li>
+      <li><a href="/hrp/fiche_perso.html">Modèle de candidature</a></li>
+      <li><a href="/hrp/guide_rejoindre.html">Comment rejoindre</a></li>
     </ul>
     <img src="/assets/icons/candles.png" alt="Icone" class="menu-icon">
   </div>
@@ -99,7 +99,7 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
     <ul>
       <li><a href="/virmian/Virmian_base.html">Monde</a></li>
       <li><a href="/religion/Dastaisme.html">Religions</a></li>
-      <li><a href="/virmian/volmarn.html">Volmarn</a></li>
+      <li><a href="/virmian/Virmian_base.html">Virmian</a></li>
     </ul>
     <img src="/assets/armoiries/virmian_new.png" alt="Icone" class="menu-icon">
   </div>
@@ -108,6 +108,7 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
     <h2>Systèmes</h2>
     <ul>
       <li><a href="/hrp/competences.html">Compétences</a></li>
+    <li><a href="/hrp/competences_armes.html">Compétences d'armes</a></li>
     </ul>
     <img src="/assets/illustration/epee.png" alt="Icone" class="menu-icon">
   </div>
