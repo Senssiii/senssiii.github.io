@@ -24,7 +24,7 @@ Vous avez deux options :
 - **Rejoindre un groupe existant** : consultez les groupes ouverts aux nouveaux membres sur le forum ou Discord.
 - **Créer votre propre groupe** : présentez-le via une fiche validée par la modération.
 
-👉 [Modèle de fiche de groupe](./modele-groupe.html)
+👉 [Modèle de fiche de groupe](./fiche-groupe.html)
 
 ## Étape 3 — Explorer le duché de Volmarn
 
