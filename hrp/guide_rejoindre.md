@@ -12,7 +12,7 @@ Bienvenue sur **Atald**, un serveur roleplay exigeant et immersif. Avant de pouv
 
 Chaque joueur doit commencer par créer une fiche de personnage cohérente avec l’univers du serveur. Celle-ci définit l’identité, le passé, les compétences et les aspirations de votre personnage.
 
-👉 [Modèle de fiche de personnage](./modele-personnage.html)  
+👉 [Modèle de fiche de personnage](./fiche_perso.html)  
 👉 [Liste des rôles disponibles](./roles.html)  
 👉 [Liste des compétences](./competences.html)
 
@@ -30,7 +30,7 @@ Vous avez deux options :
 
 C’est dans le **Duché de Volmarn** que se déroulent les premières aventures de votre personnage. C’est une région instable, marquée par les conflits, la pauvreté et l’ambition. Comprendre ses enjeux est essentiel à votre immersion.
 
-📖 [Découvrir le Duché de Volmarn](/virmian/provinces/volmarn_base.html)
+📖 [Découvrir le Duché de Volmarn](/virmian/provinces/Volmarn_base.html)
 
 ---
 

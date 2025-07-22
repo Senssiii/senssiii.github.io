@@ -1,3 +1,9 @@
+---
+title: Modèle fiche de personnage
+nav_exclude: true
+layout: medieval
+---
+
 # Fiche de Personnage
 
 ## **Identité du Personnage**
