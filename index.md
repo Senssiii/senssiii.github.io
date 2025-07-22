@@ -10,16 +10,20 @@ nav_order: 1
     gap: 2rem;
     padding: 2rem 0;
   }
-  .menu-box {
-    background: #1a1a1a;
-    border: 2px solid #c0b283;
-    padding: 1.5rem;
-    width: 250px;
-    color: #fff;
-    font-family: "Georgia", serif;
-    position: relative;
-    box-shadow: 0 0 10px #000;
-  }
+.menu-box {
+  background: #1a1a1a;
+  border: 2px solid #c0b283;
+  padding: 1.5rem;
+  width: 250px;
+  color: #fff;
+  font-family: "Georgia", serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 0 10px #000;
+  height: 100%; /* s’assure que tout se répartit bien */
+}
   .menu-box h2 {
     font-size: 1.8rem;
     color: #d4c27a;
@@ -44,13 +48,11 @@ nav_order: 1
   .menu-box ul li a:hover {
     text-decoration: underline;
   }
-  .menu-icon {
-    position: absolute;
-    bottom: 10px;
-    left: 10px;
-    width: 32px;
-    height: 32px;
-  }
+.menu-icon {
+  width: 48px;
+  height: 48px;
+  margin-top: 1.5rem;
+}
 </style>
 
 # 🏰 Bienvenue sur Atald
