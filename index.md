@@ -101,7 +101,7 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
     <h2>Systèmes</h2>
     <ul>
       <li><a href="/hrp/competences.html">Compétences</a></li>
-    <li><a href="/hrp/competences_armes.html">Compétences armes</a></li>
+    <li><a href="/hrp/competences_armes.html">Compétences d'armes</a></li>
     </ul>
   </div>
 </div>
