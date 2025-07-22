@@ -48,11 +48,6 @@ nav_order: 1
   .menu-box ul li a:hover {
     text-decoration: underline;
   }
-.menu-icon {
-  width: 48px;
-  height: 48px;
-  margin-top: 1.5rem;
-}
 </style>
 
 # 🏰 Bienvenue sur Atald
@@ -91,7 +86,6 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
       <li><a href="/hrp/fiche_perso.html">Modèle de candidature</a></li>
       <li><a href="/hrp/guide_rejoindre.html">Comment rejoindre</a></li>
     </ul>
-    <img src="/assets/icons/candles.png" alt="Icone" class="menu-icon">
   </div>
 
   <div class="menu-box">
@@ -101,7 +95,6 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
       <li><a href="/religion/Dastaisme.html">Religions</a></li>
       <li><a href="/virmian/Virmian_base.html">Virmian</a></li>
     </ul>
-    <img src="/assets/armoiries/virmian_new.png" alt="Icone" class="menu-icon">
   </div>
 
   <div class="menu-box">
@@ -110,6 +103,5 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
       <li><a href="/hrp/competences.html">Compétences</a></li>
     <li><a href="/hrp/competences_armes.html">Compétences d'armes</a></li>
     </ul>
-    <img src="/assets/illustration/epee.png" alt="Icone" class="menu-icon">
   </div>
 </div>
