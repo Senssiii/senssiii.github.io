@@ -82,7 +82,7 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
   <div class="menu-box">
     <h2>Candidater</h2>
     <ul>
-      <li><a href="/hrp/roles.md">Les rôles</a></li>
+      <li><a href="/hrp/roles.html">Les rôles</a></li>
       <li><a href="/hrp/fiche_perso.html">Modèle de candidature</a></li>
       <li><a href="/hrp/guide_rejoindre.html">Comment rejoindre</a></li>
     </ul>
