@@ -4,11 +4,20 @@ layout: medieval
 nav_order: 6
 nav_exclude: false 
 ---
+# Le Dastaïsme
+Le Dastaïsme est très répandu en Virmian, essentiellement dans les royaumes de l'ouest jusqu'à Jordbrest et bien au-delà. Même si cette foi peut varier selon les régions, elle reste centrée sur Dast, Dieu unique et tout-puissant.
+
+Voici les fondements de cette religion qui vous aideront dans vos prières et à incarner votre personnage en jeu.
+
+Dast s'est incarné en homme pour rencontrer ceux qu'il avait créés, accompagné de 21 compagnons au cœur pur. Pendant cinq années, il parcourut l'Empire accomplissant des miracles et combattant l'injustice. L'un de ses compagnons - "le Parjure" - le trahit et l'assassina à Harndom lors d'un dernier repas où Dast avait institué la communion. Malgré cette trahison, Dast pardonna et ressuscita trois jours plus tard, portant à jamais la marque de sa blessure.
+
+La doctrine dastaïte prône l'équilibre entre contemplation et action : le fidèle doit savoir prier et combattre, être miséricordieux envers les innocents et implacable face aux oppresseurs. L'Église, dirigée depuis Ostia, suit deux voies principales - Contemplateurs et Défenseurs - et vénère les reliques des compagnons fidèles. Cette tradition unit particulièrement foi et vaillance dans l'âme virmienne.
+
+*Ici vous trouvez les détails sur la religion de [Virmian](/virmian/Virmian_base.html), si vous souhaitez faire un personnage dédié à la foi.*
 # Les Saintes Chroniques de Dast le Tout-Puissant
 
 ## Selon les Témoignages des Premiers Disciples et les Révélations des Saints Pères
 
-*Ici ne sont point les chroniques complète, mais que des extraits*
 
 ---
 
