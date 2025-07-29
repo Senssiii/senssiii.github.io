@@ -39,3 +39,5 @@ Très tôt, Elric montra une **vivacité d’esprit** peu commune, doublée d’
 - **Artisanat :** 1 / 5
 - **Alchimie :** 3 / 5
 - **Total utilisé :** 22 / 22
+
+![ECU](/assets/armoiries/joueur/senssi.png)

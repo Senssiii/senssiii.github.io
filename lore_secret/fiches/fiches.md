@@ -7,3 +7,5 @@ nav_exclude: true
 ---
 # Fiches : 
 - [Senssi ;Elric de Riveciel](/lore_secret/fiches/senssi.html)
+- [Coco ;Heinrich Von Hochwald](/lore_secret/fiches/coco.html)
+- [Cirko ;Destrieux Corvalin](/lore_secret/fiches/cirko.html)
