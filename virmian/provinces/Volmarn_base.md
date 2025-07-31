@@ -8,40 +8,72 @@ nav_exclude: false
 
 <img src="/assets/armoiries/Volmarn.png" alt="Volmarn" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
 
-## Vue d'ensemble et géographie
+## Géographie et Situation
 
-Situé dans la partie septentrionale du royaume, à la frontière avec [Autchburg](Autchburg_base.html), le duché de Volmarn présente une physionomie typique des marches frontalières. Cette région, dont la culture et la géographie évoquent la Champagne de notre monde, combine des plaines fertiles propices à la culture céréalière avec des zones plus accidentées où s'épanouissent vignobles et forêts denses.
+Situé dans la partie septentrionale du royaume, à la frontière avec Autchburg, le duché de Volmarn présente une physionomie typique des marches frontalières. Cette région se caractérise par ses **collines crayeuses** parsemées de vallées fertiles, où alternent vastes plaines céréalières et champs en friche.
 
-## L'héritage du "Roi des Bandits"
+## Architecture et Patrimoine
 
-Volmarn porte encore les cicatrices visibles de l'épisode traumatique du "Roi des Bandits" qui, comme décrit précédemment dans ces chroniques, dévasta une grande partie de son territoire en 1464. Cinquante ans après ces événements, certaines zones restent dépeuplées, des villages entiers n'ayant jamais été reconstruits. Cette histoire tragique a considérablement affaibli ce qui était auparavant un duché de moyenne importance, le reléguant aujourd'hui parmi les provinces les plus pauvres du royaume.
+La pierre de craie blanche, extraite des carrières locales, était jadis utilisée pour les édifices les plus prestigieux. Quelques témoins de cette époque subsistent encore :
+- L'église de Verdl avec son clocher fin
+- Plusieurs châteaux qui ont miraculeusement échappé aux destructions
 
-## Économie du duché
+La plupart des villages se composent aujourd'hui de maisons à toit de chaume et de constructions de bois, reconstruites après les ravages dans un style plus modeste mais efficace.
 
-### Agriculture
+## Histoire : Le Traumatisme du "Roi des Bandits"
 
-Économiquement, Volmarn n'a rien de particulièrement distinctif. Sa principale richesse agricole réside dans la culture céréalière, les vastes plaines centrales produisant blé, seigle et orge en quantités appréciables, mais sans atteindre la productivité d'avant la crise. Les vignobles de la partie méridionale du duché, particulièrement ceux des coteaux de Montvaillant, ont mieux récupéré, produisant des vins blancs secs de qualité moyenne qui trouvent principalement leurs débouchés sur les marchés locaux.
+Volmarn porte encore les cicatrices visibles de l'épisode traumatique du **"Roi des Bandits"** qui dévasta une grande partie de son territoire en **1464**. Cinquante ans après, certaines zones restent dépeuplées, et les anciennes foires de Volmarn et de Cougm, jadis réputées dans tout le royaume, n'ont jamais retrouvé leur lustre d'antan. 
 
-### Exploitation forestière
+Cette tragédie a considérablement affaibli ce qui était auparavant un duché prospère, point de passage obligé des routes commerciales entre Virmian et Autchburg.
 
-L'exploitation forestière constitue un autre pilier économique, les forêts de Volmarn fournissant un bois de qualité utilisé aussi bien pour la construction que pour des usages plus spécialisés comme la tonnellerie. Ces ressources naturelles, moins impactées par les troubles passés que les structures humaines, ont permis une certaine continuité économique à travers les crises successives.
+## Économie
 
-## Structure sociale
+### Productions Viticoles
+- **Vignobles** : produisent généralement des vins de qualité modeste
+- **"Vin des anges"** : produit par l'abbaye de Sainte-Radegonde, un blanc sec légèrement pétillant d'une finesse remarquable, élaboré selon une méthode secrète. Ce nectar rare commence à retrouver sa réputation au-delà des frontières ducales.
 
-Sur le plan social, Volmarn présente une structure classique, dominée par une noblesse terrienne généralement moins fortunée que celle des provinces occidentales du royaume. Ces seigneurs, souvent installés dans des manoirs modestes plutôt que dans des châteaux imposants, mènent une existence relativement frugale comparée au faste qu'on peut observer dans des duchés comme Valdorin.
+### Agriculture et Ressources
+- **Plaines centrales** : grenier du duché (blé, seigle, orge)
+- **Forêts** : exploitation des hêtres et chênes pour un bois réputé en tonnellerie
+- **Carrières de craie** : pierre de construction et chaux de qualité
 
-## La capitale ducale
+### Traditions Culinaires
+L'hospitalité traditionnelle survit dans les auberges du duché avec :
+- **"Hosties de Volmarn"** : petits pains dorés servis avec du miel local
+- **"Oublies du pèlerin"** : fines gaufrettes parfumées
 
-La ville principale, Volmarn-Ville, avec ses 15 000 habitants, ne présente aucune particularité architecturale ou culturelle notable. Ses fortifications, reconstruites après les ravages du Roi des Bandits, sont fonctionnelles mais sans caractère distinctif. Son marché hebdomadaire attire principalement les habitants des campagnes environnantes, sans rayonnement régional significatif.
+## Noblesse et Châteaux Remarquables
 
-## Administration ducale
+- **Forteresse de Chtoriv** : avec ses tours élancées
+- **Château de Saint-Varlan** : sur son éperon rocheux  
+- **Château de Barlom** : et ses vignobles
 
-Le duc actuel, Erlan Darnessant, gouverne depuis un château de taille modeste, comparable à la résidence d'un comte ordinaire dans d'autres provinces plus prospères. Ses relations avec la couronne sont généralement neutres - ni particulièrement loyales ni ouvertement antagonistes. Il gère son duché sans initiative notable, se contentant d'administrer ses terres selon les coutumes établies et de collecter les taxes dues au trésor royal.
+## Volmarn-Ville : La Capitale Ducale
 
-## Capacités militaires
+**Population** : 15 000 habitants
 
-Militairement, Volmarn ne peut aligner que des forces limitées, tant en nombre qu'en qualité. Sa cavalerie, composée principalement de la petite noblesse locale, est correctement équipée mais sans distinction particulière. Son infanterie, recrutée parmi les paysans et artisans des villes, reçoit un entraînement sommaire qui en fait une force auxiliaire plutôt qu'un élément décisif sur un champ de bataille.
+La ville principale a été largement reconstruite après les destructions. Ses fortifications, remises en état dans un style fonctionnel, protègent un centre urbain modeste mais actif. 
 
-## Position dans le royaume
+Le **château ducal de Blanche-Pierre**, construit en calcaire local, domine la cité de sa masse claire et constitue l'un des rares édifices à avoir conservé l'usage de la pierre de craie. Son marché hebdomadaire, bien qu'ayant perdu son rayonnement d'antan, attire encore les amateurs de vins fins et de produits artisanaux.
 
-En somme, Volmarn représente l'archétype d'un duché frontalier de second rang, sans caractéristique exceptionnelle qui le distinguerait particulièrement dans la mosaïque politique et culturelle du royaume de Virmian. Sa position géographique lui confère une certaine importance stratégique, mais son poids économique et militaire reste limité, faisant de lui un acteur secondaire dans les grands équilibres qui structurent le royaume.
+## Gouvernance Actuelle
+
+**Duc actuel** : Erlan Darnessant
+
+Il gouverne depuis le château de Blanche-Pierre et privilégie la reconstruction patiente aux grandes ambitions, encourageant :
+- Le retour progressif du commerce
+- La restauration des vignobles abandonnés
+
+Ses relations avec la couronne demeurent neutres - ni particulièrement loyales ni ouvertement antagonistes.
+
+## Capacités Militaires
+
+Volmarn ne peut aligner que des forces limitées, tant en nombre qu'en qualité :
+- **Cavalerie** : composée principalement de la petite noblesse locale
+- **Infanterie** : recrutée parmi les paysans et artisans
+
+Ces forces reçoivent un entraînement convenable qui en fait une force auxiliaire respectable.
+
+## Conclusion
+
+Volmarn incarne la résilience d'un duché qui, malgré les épreuves, préserve un art de vivre et des savoir-faire traditionnels. Sa position géographique et quelques produits de qualité lui permettent d'espérer un retour progressif vers une prospérité plus modeste mais durable.
