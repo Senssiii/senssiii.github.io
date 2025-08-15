@@ -1,3 +1,11 @@
+---
+title: Fiche
+layout: medieval
+nav_order: 3
+search_exclude: true
+nav_exclude: true
+---
+
 Fiche de Personnage  
 Identité du Personnage
 
