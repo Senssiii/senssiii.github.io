@@ -1,0 +1,47 @@
+---
+title: Fiche
+layout: medieval
+nav_order: 3
+search_exclude: true
+nav_exclude: true
+---
+
+**Istvan** **Sharp**  
+—   
+Dit “*Le Revenant*” est un chevalier errant en quête d’or, de terres et d’un nouveau départ, juste de quoi vivre libre et heureux. 
+
+**Âge** : 30 ans  
+**Contrée d’origine** : Emerance  
+**Statut** : Noble   
+**Activité** : Mercenaire / chevalier errant
+
+**Caractère** : Istvan est un homme pragmatique assez froid au premier regard. En vérité c’est quelqu’un d’assez sensible. Il n’aime pas tuer pour rien, il s’attache assez vite, voir trop vite aux femmes, et a du mal à prendre son destin en main. Il est en quête de banalité, ou plutôt de confort et de repos. Il a tout perdu, ou presque, et il veut mettre ce qu’il lui reste, son épée, au service d’une cause au moins un peu juste. Au final c’est une coquille vide qui attend l’opportunité de se reconstruire et de prospérer. 
+
+**Ambitions** : Gagner de l’argent et de la renommée, obtenir l’un des places les plus importantes de la Meute. Trouver des terres isolées et où la nature est assez présente et exploitable, s’y reposer et fonder une nouvelle lignée (véritable cette fois-ci) de sa famille originelle. Il aimerait également goûter le vin régional si réputé et éventuellement y investir des écus. 
+
+   **Histoire**
+
+Istvan Sharp, né Istvan de Ravnal, vit le jour dans les terres battues par les vents d’Émerance, sur la côte septentrionale. Fils unique du baron Hilde de Ravnal, il grandit dans le petit fortin familial dressé sur une falaise abrupte, face à une mer toujours grise. La maison de Ravnal, bien que noble, ne possédait que peu de richesses : un territoire réduit, quelques terres et des communautés de pêcheurs rassemblaient autour d’un petit port marchand tenu d’une main de maître par le Baron. 
+
+Hilde, homme sévère mais de tempérament calme, voyait en son fils l’avenir d’une maison tournée vers l’économie et le profit. Mais Grimm de Ravnal, frère cadet du baron et vétéran de multiples campagnes, rêvait d’un héritier qui brandirait l’épée avec honneur. C’est donc à la fois dans les salles d’étude et sur le terrain d’entraînement qu’Istvan grandit : le jour, il apprenait les lettres et l’histoire sous l’œil froid du précepteur Albin, et l’après-midi, il s’endurcissait aux armes sous la férule implacable de l’oncle Grimm. Malgré cet équilibre, le jeune homme développa un caractère guidé par un goût prononcé pour la liberté et… pour les femmes. Séducteur impénitent, il s’attachait rarement, préférant les aventures brèves et passionnées. Les mœurs compassées des banquets et les intrigues de la noblesse l’ennuyaient profondément, au point que chaque dîner officiel lui paraissait une corvée, il préférait les choses simples comme la bonne compagnie, le fer et la chasse. 
+
+La vie d’Istvan bascula lorsque son père révéla l’existence d’un fils illégitime : Lucy, né d’une liaison ancienne à Emerance, la cité, avec la fille d’un riche armateur local. Lucy, jeune homme au visage si semblable à celui d’Istvan qu’on les aurait crus jumeaux, possédait un esprit vif et une ambition dévorante. Accueilli au fortin, il gagna rapidement la confiance du baron, offrant des conseils avisés sur la gestion des finances et la diplomatie locale. Hilde, séduit par ces talents, envisagea même de le légitimer. Istvan, lui, resta cordial mais méfiant. Les tensions montèrent le jour où son père lui ordonna de rejoindre l’Université royale de Belvaris. Refus catégorique : il voulait rester sur ses terres et protéger la maison. Lucy sauta sur l’occasion, acceptant avec empressement de partir étudier. Il y passa plusieurs années, revenant en homme accompli, faisant danser n’importe quel document ou quel chiffre par la force de son savoir et de ses combines, car le bâtard possédait une certaine perfidie. 
+
+Pendant ce temps, Istvan gagna le titre de capitaine de la garde après la mort de son oncle partir aider un vieil ami seigneur au Nord en proie à un conflit armé avec une bande locale. Pendant 2 ans il fit du très bon travail jusqu’à ce que pris en embuscade par un groupe d’hommes en armes bien équipés. Sans doute des mercenaires payés grassement, sa petite escouade ne soit décimée. Istvan reçut un carreau d’arbalète au flanc et ne survécut que par miracle. Ramené inconscient au fortin, il lutta des semaines contre la fièvre. C’est alors que Lucy revint, auréolé de ses succès d’argentier. Le baron, vieillissant et affaibli, ne cachait plus son admiration pour lui. Mais, sachant qu’un simple baron ne pouvait légitimer un bâtard, Lucy choisit une autre voie : falsifier le testament paternel. Une nuit, Istvan surprit son demi-frère en flagrant délit. La confrontation dégénéra ; affaibli, Istvan perdit le duel. Une lanterne se renversa, enflammant le plancher. Dans le chaos, Lucy le projeta par une fenêtre. Istvan tomba dans les flots noirs.
+
+Rejeté par la mer sur une plage déserte, il survécut en rampant jusqu’aux bois voisins où des chasseurs le prirent sous leurs ailes quelque temps. Plusieurs jours plus tard, encore blessé mais animé d’une rage froide, il commença à rôder autour du domaine. Les rumeurs coururent vite dans les villages : on disait qu’un véritable revenant s’attaquait aux mercenaires employés par le tout nouveau baron. Il avait découvert le domaine en ruine fumant parmi la falaise et avec stupeur qu’il était aux dires des roturiers locaux toujours en vie et avait repris les reines à la suite de la mort de son père dans l’incendie. Il ne mit pas longtemps à devenir que son frère usurpé son identité et érpouvait désormais une rage folle à son égard. Parmi les raisons secrètes de cette traque, il y avait aussi Elise, une jeune tisserande de laine aux manières délicates mais possédant un fort tempérament. Istvan l’avait aimée en secret pendant des années, cachant cette relation derrière sa réputation de coureur invétéré. Lucy par le biais de cette union secrète qu’il avait découverte en espionnant son demi-frère quelques années plus tôt en profita. Il ne voulait pas tuer Istvan. Lucy était un homme calculateur mais ce n’était pas un monstre non plus. Il n’avait jamais voulu tuer son père, n’avait jamais vraiment voulu de mal à Istvan. Mais il ne le voyait que comme un fantassin sans cervelle et estimait qu’il était préférable pour la famille qu’il en soit l’héritier. Les choses avaient pris une tournure qu’il ne désirait pas, il avait fait du domaine dont il souhaitait plus que tout hériter une ruine fumante. Il avait dilapidé le trésor familial pour s’attacher les services de mercenaires et décimer les derniers hommes d’Istvan pour se couvrir. Enfin, il avait perdu son frère, bien qu’ils ne s’aimaient pas, Istvan aurait été un fidèle atout mais il n’aurait jamais accepté qu’un bâtard ne prime sur lui à la succession. En fait il exprimait davantage de colère envers lui, fils légitime éduqué dans les meilleures conditions, qui avait préféré poursuivre une petite vie d’hobereau banal plutôt que de le rejoindre à la capitale pour tenter de faire évoluer la famille. Il voulait lui donner une bonne leçon et surtout lui faire passer un message : disparaître des terres familiales pour son bien et celui de la baronnie, partir mener la vie de chevalier errant qu’il avait toujours fantasmé. Alors, Un soir, il tendit un piège : utilisant Élise comme appât, il attira Istvan dans les caves abandonnées du vieux moulin en périphérie du domaine. Entouré par ses hommes, Lucy brandit une lame contre la gorge de la jeune femme. Istvan, furieux, dut déposer les armes pour éviter qu’elle ne soit blessée. Ce fut sa perte : roué de coups, il fut laissé pour mort au bord d’un fossé tandis que son rival disparaissait et que la femme qu’il aimait lui emboitait le pas sans être sous la menace révélant sa possible complicité. 
+
+Cet ultime vol et cette humiliation achevèrent de faire d’Istvan un homme brisé qui préféra partir loin, le plus loin possible. Après 1 semaine et quelque de route pour sortir des terres d’Emerance il entendit parler du duché de Volmarn où les fines lames étaient très convoitées. Il se rappela des pages dédiées à ces terres presque désolées et y vit un endroit parfait pour une espèce de chevalier errant comme lui. Dès lors, il abandonna son nom pour celui d’Istvan Sharp, se faisant passer chevalier méconnu d’Emerance. Il garda cependant ses véritables papiers de noblesse, qu’il ne montrerait plus qu’en de très rares occasions. 
+
+Arrivé aux portes du Duché il tomba sur un vaste camp de guerre surmonté de bannière et parcouru de cris et de voix festives. Un panneau indiqué message écrit de manière grossière, il devina là l’écriture d’un homme noble resté trop longtemps sur le champ de bataille. S’approchant plus près il en lut le message suivant “Peu importe la cause tant que la bourse est pleine, rejoins la meute d’Almar si ta lame est prête”. Il rit un instant en contemplant ce dans quoi il allait s’engager, porte sa main à son pommeau comme pour se rassurer et se garantir à lui que sa lame était plus prête que jamais. Il passa le seuil du camp, des hommes d’armes vinrent l’accueillirent… 
+
+**Compétences** 
+
+Force : 6/ 10   
+Agilité : 4 / 10  
+ Intelligence : 4 / 10   
+Charisme : 2 / 10   
+Constitution : 5 / 10  
+ Artisanat : 1 / 5   
+Alchimie : 0 / 5   
+Total utilisé : / 22

@@ -11,3 +11,4 @@ nav_exclude: true
 - [Cirko ;Destrieux Corvalin](/lore_secret/fiches/cirko.html)
 - [Lordkill; ... ...](/lore_secret/fiches/lordkill.html)
 - [Pafenfeu; ... ...](/lore_secret/fiches/pafenfeu.html)
+- [INeed ; ... ...](/lore_secret/fiches/ineed.html)
