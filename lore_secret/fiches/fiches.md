@@ -12,3 +12,4 @@ nav_exclude: true
 - [Lordkill; ... ...](/lore_secret/fiches/lordkill.html)
 - [Pafenfeu; ... ...](/lore_secret/fiches/pafenfeu.html)
 - [INeed ; ... ...](/lore_secret/fiches/ineed.html)
+- [Trip ; Asmoth](/lore_secret/fiches/trip.md)
