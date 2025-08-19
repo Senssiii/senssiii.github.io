@@ -20,8 +20,9 @@ Avant de rejoindre l’aventure, veuillez lire attentivement les règles suivant
 
 ## 🗣️ Contenu & Langage
 
-- Évitez les contenus **violents, choquants ou sexuels**.
+- Évitez les contenus **violents, choquants**.
 - Un langage **correct et respectueux** est exigé à tout moment.
+- Aucun contenu sexuel ne sera toléré.
 
 ---
 
@@ -63,6 +64,7 @@ Avant de rejoindre l’aventure, veuillez lire attentivement les règles suivant
 - **Ce qui se passe en RP reste en RP** : pas d’insulte hors-jeu, même après un meurtre RP.
 - **Aucun abus de bug** ne sera toléré.
 - Le **metagaming** est **formellement interdit**.
+- Le E-RP n'a pas sa place sur le serveur.
 
 ---
 
