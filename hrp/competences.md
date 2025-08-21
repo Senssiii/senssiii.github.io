@@ -15,7 +15,7 @@ nav_order: 5
 **Limitation initiale :** Maximum de 6 points par compétence à la création
 - Pour les nobles -> +2 en Intelligence et Charisme.
 - Pour les bourgeois -> +1 en Intelligence et Charisme.
-  - Attention ! Le total de points par compétences ne doit pas dépasser la limite.
+  - Attention ! Le total de points par compétences ne doit pas dépasser la limite initiale.
 
 **Progression :** Les niveaux 7 à 10 sont accessibles uniquement par progression en jeu
 
