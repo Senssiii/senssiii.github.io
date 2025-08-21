@@ -4,7 +4,6 @@ layout: medieval
 nav_exclude: true 
 ---
 
-
 ## Le "monde orthodoxe oriental"
 
 À l'est des territoires dastaïtes occidentaux s'étendent trois entités politiques majeures formant ce qu'on désigne souvent comme le "monde orthodoxe oriental" : la République de Trimesk, le Tsarat de Nivsk et le Tsarat de Varzomir.

@@ -3,6 +3,7 @@ title: Index
 layout: medieval
 nav_order: 1
 ---
+
 <style>
   .menu-grid {
     display: flex;

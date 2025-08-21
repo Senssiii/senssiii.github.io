@@ -3,6 +3,7 @@ title: Mirst
 layout: medieval
 nav_exclude: true
 ---
+
 # Le Grand Royaume de Mirst
 
 ## Introduction historique
