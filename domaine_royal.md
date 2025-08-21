@@ -3,6 +3,7 @@ title: Domaine Royal
 layout: medieval
 nav_exclude: true
 ---
+
 # Le Domaine Royal
 
 <img src="assets/armoiries/virmian_new.png" alt="Emerance" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
