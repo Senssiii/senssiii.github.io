@@ -5,6 +5,7 @@ nav_exclude: true
 search_exclude: true
 ---
 
+# Médecine.
 
 | Jet (d100) | Résultat                                                                                                 |
 | ---------- | -------------------------------------------------------------------------------------------------------- |
@@ -19,4 +20,9 @@ search_exclude: true
 | **86-95**  | Agonie : mourant, perd connaissance en 1d4 minutes sans aide.                                            |
 | **96-100** | Mort instantanée (coup fatal, décapitation, explosion totale).                                           |
 
+# Marchands.
 
+| Jet (1d100)| Résultat|
+|------------|---------|
+| **1-5**| Marchand qui propose des objets rares et des prix honnêtes sur ceux-la.|
+|||
