@@ -6,6 +6,8 @@ nav_exclude: true
 
 # Grille de Difficulté des Rôles - Royaume de Virmian (1515)
 
+## La liste ne comprend pas tout les rôles disponibles !
+
 **Important :** *Chaque rôle ci-dessous, dépendant de leur complexité sociale, de leur demande aux joueurs en termes de connaissances historiques et de leur influence sur la société virmienne, peuvent différer en terme de difficulté. Voici donc notre barème de difficulté pour les nouveaux et anciens joueurs :*
 
 ⭐ : Très facile à jouer dès le début, peu de connaissances spécialisées requises, rôle bien défini
@@ -42,9 +44,6 @@ nav_exclude: true
 
 **⭐⭐⭐⭐ - Baron/Baronne**
 *Seigneur d'importance régionale. Demande une maîtrise des codes chevaleresques et de la gestion seigneuriale.*
-
-**⭐⭐⭐⭐⭐ - Comte/Comtesse** *(Indisponible - Rôles Réservés)*
-*Grand seigneur territorial, conseiller ducal. Rôle limité aux joueurs les plus expérimentés.*
 
 ### **Noblesse de Cour**
 
@@ -92,7 +91,7 @@ nav_exclude: true
 ---
 
 ## **Grande Bourgeoisie**
-**⚠️ Fortement Déconseillée - Demande en Ticket Obligatoire ⚠️**
+**⚠️ Fortement Déconseillée ⚠️**
 
 *La bourgeoisie nécessite une compréhension approfondie des enjeux économiques et sociaux. Les joueurs intéressés doivent faire une demande spéciale en expliquant leur projet RP.*
 
