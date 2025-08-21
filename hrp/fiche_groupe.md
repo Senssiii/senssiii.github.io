@@ -3,6 +3,7 @@ title: Modèle fiche de groupe
 nav_exclude: true
 layout: medieval
 ---
+
 # Fiche de Groupe
 
 ## **Identité du Groupe**
