@@ -17,6 +17,7 @@ nav_order: 5
     Pour les bourgeois -> +1 en Intelligence et Charisme.
         Attention ! Le total de points par compétences ne doit pas dépasser la limite. 
 **Progression :** Les niveaux 7 à 10 sont accessibles uniquement par progression en jeu
+
 ---
 
 ## **Force**
