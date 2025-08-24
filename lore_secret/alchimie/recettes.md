@@ -5,6 +5,12 @@ nav_exclude: true
 search_exclude: true
 ---
 
+## **Bandage**
+**Ingrédients :** Prêle + Roseau
+**Méthode :**  
+**Résultat :** _Bandage_ - Bandage permettant de stopper des hémoragies.
+
+
 ## **Poudre des Trois Sages**
 
 **Ingrédients :** Sauge + Romarin + Thym
