@@ -17,3 +17,7 @@ search_exclude: true
 
 - [Saint Arvélan](saint_Arvelan.html)
 - [Les fiches des personnages](/lore_secret/fiches/fiches.html)
+
+## Lore 
+- [Plantes](/lore_secret/alchimie/plantes.html)
+- [Recettes Alchimie](/lore_secret/alchimie/recettes.html)
