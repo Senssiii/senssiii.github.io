@@ -12,4 +12,6 @@ nav_exclude: true
 - [Lordkill; ... ...](/lore_secret/fiches/lordkill.html)
 - [Pafenfeu; ... ...](/lore_secret/fiches/pafenfeu.html)
 - [INeed ; ... ...](/lore_secret/fiches/ineed.html)
-- [Trip ; Asmoth](/lore_secret/fiches/trip.md)
+- [Trip ; Asmoth](/lore_secret/fiches/trip.html)
+- [Valak; Artorias de Mortelame](/lore_secret/fiches/valak.html)
+- [Sam; Brenivin Aldémir](/lore_secret/fiches/sam.html)
