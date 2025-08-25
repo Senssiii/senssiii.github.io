@@ -13,6 +13,8 @@ search_exclude: true
 
 ## Les quêtes
 
+- [L'or des dettes](./almar/ordesdettes.html)
+
 ## Les personnages importants
 
 - [Saint Arvélan](saint_Arvelan.html)
