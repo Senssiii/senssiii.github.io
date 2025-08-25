@@ -5,11 +5,12 @@ nav_exclude: true
 search_exclude: true
 ---
 
+# Table classique.
+
 ## **Bandage**
 - **Ingrédients :** Prêle + Roseau
 - **Méthode :**  
 - **Résultat :** _Bandage_ - Bandage permettant de stopper des hémoragies.
-
 
 ## **Poudre des Trois Sages**
 
@@ -52,4 +53,20 @@ search_exclude: true
 - **Ingrédients :** Pâte de Régénération + Huile d'olive
 - **Méthode :** Mélanger à la chaleur des paumes, former onguent lisse 
 - **Résultat :** _Baume Cicatrisant Rapide_ - Pommade verte qui referme plaies en quelques jours.
+
+## **Pâte de Fer**
+
+- **Ingrédients** : Trèfle rouge + Millepertuis + Sauge
+- **Méthode** : Broyage au pilon, mélange à chaud
+- **Effet** : Appliqué sur peau, donne une sensation de renfort.
+- **Notes HRP** : Aucun effet
+
+## **Beaume de fer**
+- **Ingrédients** : Trèfle rouge + Millepertuis + Sauge
+- **Méthode** : Mélanger à la chaleur des paumes, former onguent lisse.
+- **Effet** : Appliqué sur peau, réduit l'efficacité des armes tranchantes sur vous.
+- **Notes HRP** : Resistance faible I
+
+
+# Alambic
 

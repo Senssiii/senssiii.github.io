@@ -68,14 +68,14 @@ search_exclude: true
 ---
 
 ### 🍃 **Feuille de Belladone** _(Atropa belladonna)_
-- **Description :** Baies noires brillantes, fleurs pourpres en cloche. Haute de 2 coudées.
+- **Description :** Ses feuilles, larges et sombres, portent venin secret qui endort et égare esprit.
 - **Effets connus :** Dilate pupilles (beauté), soulage spasmes. Vénéneuse - usage expert requis.
 
 ## **HERBES DE PROTECTION**
 
-### 🌿 **Feuille Verveine** _(Verbena officinalis)_
+### 🌿 **Feuille de Verveine** _(Verbena officinalis)_
 
-- **Description :** Tiges carrées, fleurs lilacées minuscules. "Herbe sacrée" des druides. 
+- **Description :** Odeur subtile, chasse les songes mauvais et fortifie l'esprit.
 - **Effets connus :** Protège maléfices, guérit morsures venimeuses. Herbe des sorciers.
 
 ### 🍃 **Millepertuis** _(Hypericum perforatum)_
