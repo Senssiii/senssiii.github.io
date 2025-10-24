@@ -15,3 +15,4 @@ nav_exclude: true
 - [Trip ; Asmoth](/lore_secret/fiches/trip.html)
 - [Valak; Artorias de Mortelame](/lore_secret/fiches/valak.html)
 - [Sam; Brenivin Aldémir](/lore_secret/fiches/sam.html)
+- [Gardefoi; Fidelium Hubert](./gardefoi.md)
