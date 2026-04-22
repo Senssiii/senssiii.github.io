@@ -1,6 +1,6 @@
 ---
 title: Avancement
-layout: medieval
+layout: default
 search_exclude: true
 nav_exclude: true
 ---

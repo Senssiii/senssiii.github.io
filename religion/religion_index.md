@@ -1,6 +1,6 @@
 ---
 title: Religion index
-layout: medieval
+layout: default
 nav_exclude: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Compétences d'armes
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 [Compétences](competences.html)

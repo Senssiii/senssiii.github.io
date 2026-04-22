@@ -1,6 +1,6 @@
 ---
 title: Emerance
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 # Le Dauphiné d'Émerance

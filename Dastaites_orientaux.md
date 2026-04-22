@@ -1,6 +1,6 @@
 ---
 title: Les Royaumes Dastaïtes Orientaux
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 

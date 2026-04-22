@@ -1,6 +1,6 @@
 ---
 title: La bataille de Sodanburg; fortunes et infortunes (1502-1503)
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Fêtes Locales et Régionales
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Gaucourt
-layout: medieval
+layout: default
 nav_exclude: true
 ---
 # Le Duché de Gaucourt

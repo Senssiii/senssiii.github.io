@@ -1,6 +1,6 @@
 ---
 title: Index Annexe
-layout: medieval
+layout: default
 nav_order: 8
 nav_exclude: false
 ---

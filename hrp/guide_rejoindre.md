@@ -1,7 +1,7 @@
 ---
 title: Guide pour rejoindre
 nav_exclude: true
-layout: medieval
+layout: default
 ---
 
 # Guide pour Rejoindre le Serveur Atald

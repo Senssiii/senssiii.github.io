@@ -1,7 +1,7 @@
 ---
 title: Modèle fiche de personnage
 nav_exclude: true
-layout: medieval
+layout: default
 ---
 
 # Fiche de Personnage

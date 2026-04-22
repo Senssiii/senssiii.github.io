@@ -1,6 +1,6 @@
 ---
 title: Fêtes Majeures de l'Année Liturgique
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 

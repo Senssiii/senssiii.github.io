@@ -1,6 +1,6 @@
 ---
 title: Sixième livre
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: L'Empire Aurien et les États Valencianais
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 

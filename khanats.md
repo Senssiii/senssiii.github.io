@@ -1,6 +1,6 @@
 ---
 title: Les Khanats et les Peuples Nomades
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 

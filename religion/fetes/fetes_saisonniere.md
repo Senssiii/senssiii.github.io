@@ -1,6 +1,6 @@
 ---
 title: Fêtes Saisonnières
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 

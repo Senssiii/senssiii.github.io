@@ -1,6 +1,6 @@
 ---
 title: Mirst
-layout: medieval
+layout: default
 nav_exclude: true
 ---
 

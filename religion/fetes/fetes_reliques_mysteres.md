@@ -1,6 +1,6 @@
 ---
 title: Fêtes des Reliques et Mystères
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 

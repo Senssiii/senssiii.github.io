@@ -1,6 +1,6 @@
 ---
 title: Coco
-layout: medieval
+layout: default
 nav_order: 3
 search_exclude: true
 nav_exclude: true

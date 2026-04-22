@@ -1,6 +1,6 @@
 ---
 title: Prières
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 # Prières Sacrées du Culte Dastaïte

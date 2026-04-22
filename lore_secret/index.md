@@ -1,6 +1,6 @@
 ---
 title: index secret
-layout: medieval
+layout: default
 nav_exclude: true
 search_exclude: true
 ---

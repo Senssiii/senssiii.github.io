@@ -1,6 +1,6 @@
 ---
 title: Compétences
-layout: medieval
+layout: default
 nav_order: 5
 ---
 

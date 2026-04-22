@@ -1,6 +1,6 @@
 ---
 title: Capsule 1
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 # Le voyage d'un Héraut

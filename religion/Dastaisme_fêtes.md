@@ -1,6 +1,6 @@
 ---
 title: Fêtes religieuse
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 # Calendrier Liturgique Dastaïte

@@ -1,6 +1,6 @@
 ---
 title: La féoderie Virmienne (1238-1240)
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 

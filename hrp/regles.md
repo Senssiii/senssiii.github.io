@@ -1,6 +1,6 @@
 ---
 title: Règlement
-layout: medieval
+layout: default
 nav_order: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Vald
-layout: medieval
+layout: default
 nav_exclude: true
 ---
 

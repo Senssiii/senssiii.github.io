@@ -1,6 +1,6 @@
 ---
 title: Domaine Royal
-layout: medieval
+layout: default
 nav_exclude: true
 ---
 

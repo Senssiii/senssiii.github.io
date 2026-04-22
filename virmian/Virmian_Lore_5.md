@@ -1,6 +1,6 @@
 ---
 title: La Révolte du Prévôt Marchand (1173-1175)
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 

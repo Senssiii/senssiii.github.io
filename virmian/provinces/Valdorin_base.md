@@ -1,6 +1,6 @@
 ---
 title: Valdorin
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 # Le Duché de Valdorin

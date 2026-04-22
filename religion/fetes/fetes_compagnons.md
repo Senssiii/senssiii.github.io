@@ -1,6 +1,6 @@
 ---
 title: Fêtes des Saints Compagnons
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 

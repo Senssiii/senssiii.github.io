@@ -1,6 +1,6 @@
 ---
 title: Index Capsules
-layout: medieval
+layout: default
 nav_order: 3
 nav_exclude: true 
 ---

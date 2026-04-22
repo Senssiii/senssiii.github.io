@@ -1,6 +1,6 @@
 ---
 title: Septième livre
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 

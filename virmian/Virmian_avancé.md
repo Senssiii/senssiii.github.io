@@ -1,6 +1,6 @@
 ---
 title: Virmian
-layout: medieval
+layout: default
 nav_exclude: true 
 ---
 

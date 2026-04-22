@@ -1,6 +1,6 @@
 ---
 title: Royaumes
-layout: medieval
+layout: default
 nav_exclude: true
 ---
 
