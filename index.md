@@ -1,6 +1,6 @@
 ---
 title: Index
-layout: medieval
+layout: default
 nav_order: 1
 ---
 
