@@ -1,100 +1,83 @@
 ---
 layout: default
 ---
-
 <style>
-
 @import url('https://fonts.cdnfonts.com/css/goudy-mediaeval');
 
 :root {
-  --body-background-color: #fdf6e3;        /* Beige clair parcheminé */
-  --body-text-color: #4b3b2a;             /* Brun foncé doux, bonne lisibilité */
-  --link-color: #7b4f2c;                  /* Brun chaud pour les liens */
-  --nav-background-color: #f3e5ab;        /* Jaune parchemin pâle */
-  --nav-border-color: #d2b48c;            /* Brun sable doux */
-  --font-family-base: "Goudy Mediaeval", sans-serif;
-  --sidebar-width: 15%; /* ou la largeur que tu veux, ex : 200px, 320px */
+  --color-bg:        #fdf6e3;
+  --color-text:      #4b3b2a;
+  --color-link:      #7b4f2c;
+  --color-nav-bg:    #f3e5ab;
+  --color-nav-border:#d2b48c;
+  --font-base:       "Goudy Mediaeval", sans-serif;
+  --sidebar-width:   15%;
+
+  --fs-sm:  1.1rem;
+  --fs-md:  1.2rem;
+  --fs-lg:  1.3rem;
+  --fs-xl:  1.4rem;
+  --fs-2xl: 1.6rem;
 }
 
+/* ── Base ── */
+body {
+  margin: 0;
+  min-height: 100vh;
+  padding: 1rem;
+  font-family: var(--font-base);
+  font-size: var(--fs-sm);
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  line-height: 1.6;
+  position: relative;
+  z-index: 0;
+}
+
+/* Fond décoratif */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;               /* remplace top/left/width/height: 100% */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.85;
+  z-index: -1;
+}
+
+/* ── Typographie ── */
+/* font-size hérité de body pour p, li, a — plus besoin de le répéter */
+h1 { font-size: var(--fs-2xl); }
+h2 { font-size: var(--fs-xl); }
+h3 { font-size: var(--fs-lg); }
+
+/* Les liens dans les titres héritent de la taille du titre parent */
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   font-size: inherit;
   font-weight: inherit;
 }
 
-body {
-  margin: 0;
-  min-height: 100vh;
-  font-family: var(--font-family-base);
-  color: var(--body-text-color);
-  background-color: var(--body-background-color);
-  position: relative;
-  z-index: 0;
-  line-height: 1.6;
-  padding: 1rem;
-}
-
-p, li {
-  font-size: 1.1rem;
-}
-
 a {
-  font-size: 1.1rem;
-  color: var(--link-color);
+  color: var(--color-link);
   text-decoration: none;
 }
-a:hover {
-  text-decoration: underline;
-}
+a:hover { text-decoration: underline; }
 
-/* Taille raisonnable pour les liens de navigation */
-.nav-list-link {
-  font-size: 1.2rem;
-}
+.nav-list-link { font-size: var(--fs-md); }
 
-/* Titres avec tailles bien différenciées */
-h1 {
-  font-size: 1.6rem;
-}
-h2 {
-  font-size: 1.4rem;
-}
-h3 {
-  font-size: 1.3rem;
-}
-
-body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  z-index: -1;
-  opacity: 0.85;
-}
-
-.nav-list-link {
-  font-size: 145%; /* ou 18px, ou une autre valeur selon ton besoin */
-}
-
-/* Navigation ou blocs de menu */
+/* ── Navigation ── */
 nav {
-  background-color: var(--nav-background-color);
-  border: 1px solid var(--nav-border-color);
+  background-color: var(--color-nav-bg);
+  border: 1px solid var(--color-nav-border);
   padding: 1rem;
-  font-family: var(--font-family-base);
-  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+  font-family: var(--font-base);
+  box-shadow: 2px 2px 8px rgb(0 0 0 / 20%);
 }
 
-.side-bar {
-  width: var(--sidebar-width);
-}
-.main {
-  margin-left: var(--sidebar-width);
-}
+/* ── Layout ── */
+.side-bar { width: var(--sidebar-width); }
+.main     { margin-left: var(--sidebar-width); }
 </style>
 
 {{ content }}

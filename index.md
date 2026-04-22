@@ -53,7 +53,8 @@ nav_order: 1
 
 # Bienvenue sur Atald
 
-Bienvenue sur le serveur **Atald**, un monde médiéval de quêtes et de mystères.  
+Bienvenue sur le serveur **Atald**, un monde médiéval de quêtes et de mystères.
+
 Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [serveur Discord](https://discord.gg/S6FZ9zWDkr).
 
 ## Date actuel : 1516 du calendrier Dastaiste
