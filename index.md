@@ -51,7 +51,7 @@ nav_order: 1
   }
 </style>
 
-# 🏰 Bienvenue sur Atald
+# Bienvenue sur Atald
 
 Bienvenue sur le serveur **Atald**, un monde médiéval de quêtes et de mystères.  
 Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [serveur Discord](https://discord.gg/S6FZ9zWDkr).
@@ -60,24 +60,7 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
 
 (Il est a prendre en compte que le Lore n'est pas encore complet, et que sa mise en forme n'est pas encore optimal, notamment a cause des fautes d'orthographe qui le parcours.)
 
-<p align="center">
-  <img src="assets/map/global_Virmian.jpeg" alt="Map Atald" width="800"/>
-</p>
-
----
-# Légende :
-## Importance : 
-- `🔴 : Forte`
-- `🟡 : Moyenne`
-- `🟢 : Faible`
-## Type : 
-- `🔺 : Personnage`
-- `🔴 : Lieu`
-- `🟥 : Autre`
-
----
-
-## 🔗 Navigation rapide
+## Navigation rapide
 
 <div class="menu-grid">
   <div class="menu-box">
@@ -102,7 +85,12 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
     <h2>Systèmes</h2>
     <ul>
       <li><a href="/hrp/competences.html">Compétences</a></li>
-    <li><a href="/hrp/competences_armes.html">Compétences d'armes</a></li>
+      <li><a href="/hrp/competences_armes.html">Compétences d'armes</a></li>
+      <li><a href="/economie/vald.md">Economie</a></li>
     </ul>
   </div>
 </div>
+
+<p align="center">
+  <img src="assets/map/global_Virmian.jpeg" alt="Map Atald" width="800"/>
+</p>
