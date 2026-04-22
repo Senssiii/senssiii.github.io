@@ -2,5 +2,6 @@ title: Wiki Atald
 description: Bienvenue sur le serveur Atald, un monde médiéval de quêtes et de mystères. Rejoignez-nous !
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 url: https://senssiii.github.io
+color_scheme: medieval
 
 search_enabled: true
