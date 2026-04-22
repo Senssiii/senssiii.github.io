@@ -6,7 +6,7 @@ nav_order: 5
 
 [Compétences d'armes](competences_armes.html)
 
-# Système de Compétences - Serveur Roleplay Médiéval
+# Système de Compétences
 
 ## **Règles Générales**
 
