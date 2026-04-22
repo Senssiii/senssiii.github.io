@@ -7,7 +7,7 @@ nav_order: 4
 # ⚜ Le Grand Royaume de Virmian ⚜
 *Bastion de la Foi [Dastaïte](/religion/Dastaisme.html) et Fleuron de la Chevalerie*
 
-<img src="/assets/armoiries/virmian_new.png" alt="Virmian" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
+<img src="/assets/armoiries/virmian_new.png" style="width: 25%; height: 50%; object-fit: cover;  display: block;margin-left: auto;margin-right: auto;">
 
 ![Map Virmian](/assets/map/zoom_Virmian.png)
 

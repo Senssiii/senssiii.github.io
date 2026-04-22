@@ -86,7 +86,7 @@ Si vous avez des questions ou des soucis, n'hésitez pas à passer sur notre [se
     <ul>
       <li><a href="/hrp/competences.html">Compétences</a></li>
       <li><a href="/hrp/competences_armes.html">Compétences d'armes</a></li>
-      <li><a href="/economie/vald.md">Economie</a></li>
+      <li><a href="/economie/vald.html">Economie</a></li>
     </ul>
   </div>
 </div>
