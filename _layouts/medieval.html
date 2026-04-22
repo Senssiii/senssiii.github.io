@@ -8,17 +8,18 @@ layout: default
   --font-base:       "Goudy Mediaeval", sans-serif;
   --sidebar-width:   15%;
 
+  --body-background-color: #f5edd8;
+  --sidebar-color:         #ede0a0;   /* fond de la sidebar */
+  --body-text-color:       #3a2e1e;
+  --body-link-color:       #6b3f22;
+  --nav-width:             15%;       /* variable native du thème */
+
+  --font-base: "Goudy Mediaeval", sans-serif;
   --fs-sm:  1.2rem;
   --fs-md:  1.3rem;
   --fs-lg:  1.4rem;
   --fs-xl:  1.5rem;
-  --fs-2xl: 1.8rem; 
-
-  --color-bg:        #f5edd8;   
-  --color-text:      #3a2e1e;   
-  --color-link:      #6b3f22;   
-  --color-nav-bg:    #ede0a0;   
-  --color-nav-border:#b89a72; 
+  --fs-2xl: 1.8rem;
 }
 
 /* ── Base ── */
@@ -29,7 +30,6 @@ body {
   font-family: var(--font-base);
   font-size: var(--fs-sm);
   color: var(--color-text);
-  background-color: var(--color-bg);
   line-height: 1.75;
   position: relative;
   z-index: 0;
@@ -84,10 +84,6 @@ h3 { margin-top: 1.5rem; }
 p, li {
   margin-bottom: 0.4rem;
 }
-
-/* ── Layout ── */
-.side-bar { width: var(--sidebar-width); }
-.main     { margin-left: var(--sidebar-width); }
 </style>
 
 {{ content }}
