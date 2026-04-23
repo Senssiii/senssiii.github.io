@@ -6,7 +6,9 @@ layout: default
 
 # Fiche de Personnage
 
-## **Identité du Personnage**
+*Cette fiche sera à envoyer par ticket.*
+
+## Identité du Personnage
 
 **Nom :**
 
@@ -22,7 +24,7 @@ layout: default
 
 ---
 
-## **Histoire et Personnalité**
+## Histoire et Personnalité
 
 **Histoire personnelle :** (Au minimum 800 caractères)
 
@@ -30,10 +32,10 @@ layout: default
 
 **Ambitions :** (Au minimum 2)
 
-
 ---
 
-## **Caractéristiques**
+## Caractéristiques
+
 *22 points à répartir - Maximum 6 par compétence à la création, bonus pour [les nobles](./roles.md)*
 
 **Force :**  / 10
