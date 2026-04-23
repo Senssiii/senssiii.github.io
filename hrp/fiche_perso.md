@@ -36,7 +36,7 @@ layout: default
 
 ## Caractéristiques
 
-*22 points à répartir - Maximum 6 par compétence à la création, bonus pour [les nobles](./roles.md)*
+*22 points à répartir - Maximum 6 par compétence à la création, bonus pour [les nobles](./competences.md)*
 
 **Force :**  / 10
 
