@@ -4,7 +4,7 @@ layout: default
 nav_exclude: true
 ---
 
-# Grille de Difficulté des Rôles - Royaume de Virmian (1515)
+# Grille de Difficulté des Rôles
 
 
 | Niveau | Difficulté      | Caractéristiques & Exigences                                                            |

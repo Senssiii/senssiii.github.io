@@ -8,17 +8,17 @@ layout: default
 
 ## **Identité du Personnage**
 
-**Nom :** 
+**Nom :**
 
 **Prénom :**
 
-**Âge :** 
+**Âge :**
 
 **Contrée d'origine :**
 
-**Statut social :** 
+**Statut social (Noblesse/ Bourgeoisie/ Clergé):**
 
-**Profession/activité :** 
+**Profession/activité :**
 
 ---
 
@@ -34,7 +34,7 @@ layout: default
 ---
 
 ## **Caractéristiques**
-*(22 points à répartir - Maximum 6 par compétence à la création)*
+*22 points à répartir - Maximum 6 par compétence à la création, bonus pour [les nobles](./roles.md)*
 
 **Force :**  / 10
 
