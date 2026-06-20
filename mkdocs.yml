@@ -1,13 +1,18 @@
 site_name: Les Archives de Karak
 theme:
   name: material
+  font:
+    text: Marcellus       # Une police élégante d'inspiration antique/médiévale
+    code: Roboto Mono
   palette:
-    - scheme: slate # Mode sombre automatique
-      primary: deep purple
-      accent: deep purple
-  features:
-    - navigation.tabs
-    - search.suggest
+    # OPTION 1 : Mode Parchemin / Érudit (Clair)
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: brown       # Couleur des menus (effet cuir / terre)
+      accent: amber        # Couleur des liens et détails (effet or / bougie)
+      toggle:
+        icon: material/candle
+        name: Passer au mode nuit
 
 plugins:
   - search
@@ -15,6 +20,7 @@ plugins:
 nav:
   - Accueil: index.md
   - Léos: royaumes/leos.md
-  - Personnages:
-    - Les Héros: personnages/heros.md
+  - Religion:
+    - Varunat: religion/varunat.md
+    - Serathisme: religion/serathisme.md
 use_directory_urls: false
