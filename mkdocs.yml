@@ -1,6 +1,7 @@
 site_name: Les Archives de Karak
 theme:
   name: material
+  favicon: assets/logo_karak.png
   font:
     text: Marcellus       # Une police élégante d'inspiration antique/médiévale
     code: Roboto Mono
