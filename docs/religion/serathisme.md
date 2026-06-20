@@ -27,6 +27,8 @@ Mais la Main d'Or Serath est moins prudente. Ses écrits circulent sur le contin
 
 ## L'ordre des purificateurs
 
+<img src="../assets/ordre_purificateur.png" alt="Blason de L'ordre des purificateurs" width="200">
+
 L'Ordre des Purificateurs constitue le bras armé du Sérathisme sur l'île. Garde personnelle du Grand Prince Kael et milice sacrée, ils font régner la volonté de la Main d’Or Serath dans chaque ruelle de Léos.
 
 Reconnaissables à leur discipline de fer, ils assurent la sécurité du Palais et la pureté de la foi. Leur autorité se manifeste par des rafles soudaines dans les quartiers suspects et l’exigence d’une taxe de piété imposée aux non-adeptes, perçue comme le prix de la protection divine.
