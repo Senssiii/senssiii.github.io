@@ -8,7 +8,7 @@ Le monde de Karak se distingue par son approche brute et immersive : pas de stat
 
 * **La Foi :** La religion principale est le [Varunat](./religion/varunat.md), bien que des divergences majeures existent, notamment le [Sérathisme](./religion/serathisme.md) pratiqué sur l'île de Léos.
 
-* **[Cité de Léos](./royaumes/leos.md) :** Surnommée la « Cité Rouge », cette cité-état insulaire est le centre mondial du savoir et du commerce de luxe. Dirigée par le **Grand Prince Kael**, elle est protégée par l'[[Ordre des Purificateurs]].
+* **[Cité de Léos](./royaumes/leos.md) :** Surnommée la « Cité Rouge », cette cité-état insulaire est le centre mondial du savoir et du commerce de luxe. Dirigée par le **Grand Prince Kael**, elle est protégée par l'[Ordre des Purificateurs](./religion/serathisme.md).
 
 ### Commencer l'aventure
 
