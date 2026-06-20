@@ -1,0 +1,19 @@
+site_name: Le Lore de mon Univers
+theme:
+  name: material
+  palette:
+    - scheme: slate # Mode sombre automatique
+      primary: deep purple
+      accent: deep purple
+  features:
+    - navigation.tabs
+    - search.suggest
+
+plugins:
+  - search
+
+nav:
+  - Accueil: index.md
+  - Le Monde: geographie.md
+  - Personnages:
+    - Les Héros: personnages/heros.md
