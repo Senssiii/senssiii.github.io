@@ -14,7 +14,7 @@ plugins:
 
 nav:
   - Accueil: index.md
-  - Le Monde: geographie.md
+  - Léos: royaumes/leos.md
   - Personnages:
     - Les Héros: personnages/heros.md
 use_directory_urls: false
