@@ -2,7 +2,7 @@
 
 *Autre noms: Léos; La cité Rouge*
 
-![[leos.png|350]]
+<img src="../assets/leos.png" alt="Blason de Léos" width="500">
 
 Léos est située sur une petite île dans la mer d'**Esteron**, elle est une cité-état indépendante depuis plusieurs centaines d'années. Son autonomie repose historiquement sur sa situation géographique privilégiée, qui lui permet de contrôler une partie des flux maritimes entre le continent et les terres du sud.
 

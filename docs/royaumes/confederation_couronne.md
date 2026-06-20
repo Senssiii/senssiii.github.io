@@ -1,5 +1,7 @@
 # Confédération des couronnes libres
 
+<img src="../assets/les_couronnes_libres.png" alt="Blason de la Confédération des couronnes libres" width="500">
+
 La Confédération n’est pas née d'une prophétie ou d'une conquête héroïque, mais d'une nécessité amère. Pendant des siècles, le territoire n'était qu'une mosaïque de petits fiefs et de baronnies se querellant pour des droits de péage ou des puits artésiens. On appelait ces seigneurs les « Petites Couronnes », car leur autorité ne dépassait souvent pas l'ombre de leurs propres remparts.
 
 L'unification fut imposée par le **Fléau Errant**. Ce n'était pas une guerre déclarée, mais une pression constante exercée par des créatures qui rôdaient par bandes sur ces terres. Ces bêtes impitoyables ne bâtissaient rien, elles traversaient le paysage en dévorant tout sur leur passage. Face à ces êtres que le fer peinait à arrêter et qui ne connaissaient ni la trêve ni la peur, un seigneur seul était une proie ; plusieurs seigneurs ensemble devenaient une forteresse. Le pacte fut signé non par amitié, mais pour que les sentinelles des uns protègent les récoltes des autres.

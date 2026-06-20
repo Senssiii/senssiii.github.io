@@ -1,6 +1,6 @@
 # Bienvenue sur les Archives de Karak
 
-**Karak Origins** est un projet de jeu de rôle (RP) médiéval semi réaliste et politique. Ce wiki recense des connaissances historiques, géographiques et techniques nécessaires pour évoluer dans cet univers.
+**Karak** est un projet de jeu de rôle (RP) médiéval semi réaliste et politique. Ce wiki recense des connaissances historiques, géographiques et techniques nécessaires pour évoluer dans cet univers.
 
 Le monde de Karak se distingue par son approche brute et immersive : pas de statistiques RPG abstraites. Les interactions reposent sur la maîtrise réelle de l'artisanat, la finesse diplomatique et l'influence au sein des différentes institutions sociales.
 
