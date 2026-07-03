@@ -22,9 +22,9 @@ Pour intégrer l'univers, nous vous recommandons de consulter en priorité les p
 
 La cité de Léos comprend trois factions qu'il est nécessaire de rejoindre pour participer à l'aventure.
 
-* **[Les coeurs d'or](/docs/politique/coeur_or.md)**
-* **[Les mains d'or](/docs/politique/main_or.md)**
-* **[Les sang d'or](/docs/politique/sang_or.md)**
+* **[Les coeurs d'or](./politique/coeur_or.md)**
+* **[Les mains d'or](./politique/main_or.md)**
+* **[Les sang d'or](./politique/sang_or.md)**
 
 ---
 
