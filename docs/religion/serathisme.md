@@ -8,7 +8,7 @@ Les partisans du Serathisme s'appellent entre eux les **Serathiste**.
 
 - **Les Veilleurs :** les novices et gardes du temple de Léos. Ils tiennent le même rôle que les veilleurs des [enfants de Varûn](varunat.md).
 - **Les Porteurs de Sang :** les officiants, ceux qui ont reçu une marque au fer chaud en forme de cercle solaire sur la paume, et qui peuvent célébrer les rites. Ils sont les confesseurs, ces intermédiaires entre le peuple et Varûn.
-- **La Main d'Or :** actuellement une femme nommée **Serath de [Léos](../royaumes/leos.md)**, cousine éloignée du prince et théologienne redoutable. C'est elle qui a rédigé le texte fondateur du culte, le livre *La Descente*, et qui gère les relations tendues avec le clergé du continent.
+- **La Main d'Or :** actuellement une homme nommé **Serath de [Léos](../royaumes/leos.md)**, cousin éloigné du prince et théologien redoutable. C'est lui qui a rédigé le texte fondateur du culte, le livre *La Descente*, et qui gère les relations tendues avec le clergé du continent.
 
 ## La Quatrième voix
 

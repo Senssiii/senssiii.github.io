@@ -1,4 +1,7 @@
-<img src="../assets/arediques.png" alt="Blason souvent associé aux tribus Arédiques" width="250/">
+# Les tribus Arédiques
+
+<img src="../assets/arediques.png" alt="Blason souvent associé aux tribus Arédiques" width="250">
+
 *Blason souvent associé aux tribus Arédiques*
 
 Les tribus arédiques occupent les massifs escarpés du Nord-Est, s'étendant le long des contreforts montagneux qui bordent le continent. Leur mode de vie est essentiellement troglodytique, s'appuyant sur l'occupation de vastes réseaux de cavités naturelles que les tribus agrandissent et relient par des galeries creusées à même la roche. Cette architecture souterraine leur permet de se protéger des variations climatiques brutales de la région tout en constituant un dispositif défensif presque imprenable.

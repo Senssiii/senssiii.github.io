@@ -1,6 +1,6 @@
 # Confédération des couronnes libres
 
-<img src="../assets/les_couronnes_libres.png" alt="Blason de la Confédération des couronnes libres" width="250/">
+<img src="../assets/les_couronnes_libres.png" alt="Blason de la Confédération des couronnes libres" width="250">
 
 La Confédération n’est pas née d'une prophétie ou d'une conquête héroïque, mais d'une nécessité amère. Pendant des siècles, le territoire n'était qu'une mosaïque de petits fiefs et de baronnies se querellant pour des droits de péage ou des puits artésiens. On appelait ces seigneurs les « Petites Couronnes », car leur autorité ne dépassait souvent pas l'ombre de leurs propres remparts.
 
