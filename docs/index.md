@@ -14,17 +14,15 @@ Le monde de Karak se distingue par son approche brute et immersive : pas de stat
 
 Pour intégrer l'univers, nous vous recommandons de consulter en priorité les pages suivantes :
 
-* **[Créer son Identité] :** Comprendre comment définir son nom, son âge et son origine.
 * **[Le Blocus de Soie](/docs/politique/blocus_de_soie.md) :** Se tenir au courant de la situation politique actuelle entre Léos et le continent.
-* **[Règles de Vie] :** Les principes de base du comportement en ville et en voyage.
 
 ### Factions
 
 La cité de Léos comprend trois factions qu'il est nécessaire de rejoindre pour participer à l'aventure.
 
-* **[Les coeurs d'or](./politique/coeur_or.md)**
-* **[Les mains d'or](./politique/main_or.md)**
-* **[Les sang d'or](./politique/sang_or.md)**
+* **[Les coeurs d'or](./politique/coeur_or.md) :** L'institution religieuse et militaire regroupant le clergé et les Purificateurs, chargés de protéger le dogme et d'assurer la discipline sacrée dans la cité.
+* **[Les mains d'or](./politique/main_or.md) :** La puissante guilde des marchands et des armateurs qui détient le monopole du commerce maritime et assure la prospérité économique de l'île.
+* **[Les sang d'or](./politique/sang_or.md) :** La haute aristocratie issue de la Maison Vareli, dévouée à la préservation du lignage princier et à la stabilité politique de l'État.
 
 ---
 
