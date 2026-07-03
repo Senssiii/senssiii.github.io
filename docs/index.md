@@ -14,7 +14,7 @@ Le monde de Karak se distingue par son approche brute et immersive : pas de stat
 
 Pour intégrer l'univers, nous vous recommandons de consulter en priorité les pages suivantes :
 
-* **[Le Blocus de Soie](/docs/politique/blocus_de_soie.md) :** Se tenir au courant de la situation politique actuelle entre Léos et le continent.
+* **[Le Blocus de Soie](./politique/blocus_de_soie.md) :** Se tenir au courant de la situation politique actuelle entre Léos et le continent.
 
 ### Factions
 
