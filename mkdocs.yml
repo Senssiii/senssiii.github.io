@@ -3,14 +3,13 @@ theme:
   name: material
   favicon: assets/logo_karak.png
   font:
-    text: Marcellus       # Une police élégante d'inspiration antique/médiévale
+    text: Marcellus
     code: Roboto Mono
   palette:
-    # OPTION 1 : Mode Parchemin / Érudit (Clair)
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: brown       # Couleur des menus (effet cuir / terre)
-      accent: amber        # Couleur des liens et détails (effet or / bougie)
+      primary: brown
+      accent: amber
       toggle:
         icon: material/candle
         name: Passer au mode nuit
