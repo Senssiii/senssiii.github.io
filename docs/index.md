@@ -1,12 +1,6 @@
 # Bienvenue sur les Archives de Karak
 
-<div style="
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    padding: 20px 0;
-    width: 100%;">
+<div style="display: flex;flex-wrap: wrap;justify-content: center;gap: 20px;padding: 20px 0;width: 100%;">
     <!-- Blason 1 -->
     <div style="text-align: center; max-width: 200px;">
         <img src="/assets/sang_or.png" style="width: 100%; height: auto; filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));" alt="Maison Vareli">
