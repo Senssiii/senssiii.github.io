@@ -2,32 +2,32 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 20px 0; width: 100%;">
 
-    <div style="text-align: center; width: 140px;">
+    <div style="text-align: center; width: 150px;">
         <img src="/assets/leos.png" style="width: 100%; height: auto; filter: drop-shadow(0 5px 8px rgba(0,0,0,0.3));" alt="Nom">
         <p style="font-family: 'Cinzel', serif; font-size: 0.75em; margin-top: 5px; color: var(--dark);">La Cité de Léos</p>
     </div>
     
-    <div style="text-align: center; width: 140px;">
+    <div style="text-align: center; width: 150px;">
         <img src="/assets/les_couronnes_libres.png" style="width: 100%; height: auto; filter: drop-shadow(0 5px 8px rgba(0,0,0,0.3));" alt="Les Purificateurs">
         <p style="font-family: 'Cinzel', serif; font-size: 0.75em; margin-top: 5px; color: var(--dark);">La Confédération des couronnes libres</p>
     </div>
 
-    <div style="text-align: center; width: 140px;">
+    <div style="text-align: center; width: 150px;">
         <img src="/assets/vindol.png" style="width: 100%; height: auto; filter: drop-shadow(0 5px 8px rgba(0,0,0,0.3));" alt="Les Purificateurs">
         <p style="font-family: 'Cinzel', serif; font-size: 0.75em; margin-top: 5px; color: var(--dark);">Le royaume de Vindol</p>
     </div>
 
-    <div style="text-align: center; width: 140px;">
+    <div style="text-align: center; width: 150px;">
         <img src="/assets/main_or.png" style="width: 100%; height: auto; filter: drop-shadow(0 5px 8px rgba(0,0,0,0.3));" alt="Mains d'Or">
         <p style="font-family: 'Cinzel', serif; font-size: 0.75em; margin-top: 5px; color: var(--dark);">Les Mains d'Or</p>
     </div>
     
-    <div style="text-align: center; width: 140px;">
+    <div style="text-align: center; width: 150px;">
         <img src="/assets/sang_or.png" style="width: 100%; height: auto; filter: drop-shadow(0 5px 8px rgba(0,0,0,0.3));" alt="Maison Vareli">
         <p style="font-family: 'Cinzel', serif; font-size: 0.75em; margin-top: 5px; color: var(--dark);">La Maison Vareli</p>
     </div>
 
-    <div style="text-align: center; width: 140px;">
+    <div style="text-align: center; width: 150px;">
         <img src="/assets/coeur_or.png" style="width: 100%; height: auto; filter: drop-shadow(0 5px 8px rgba(0,0,0,0.3));" alt="Maison Vareli">
         <p style="font-family: 'Cinzel', serif; font-size: 0.75em; margin-top: 5px; color: var(--dark);">Les coeurs d'Or</p>
     </div>
