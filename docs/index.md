@@ -27,3 +27,5 @@ La cité de Léos comprend trois factions qu'il est nécessaire de rejoindre pou
 ---
 
 *Note : Ce wiki est mis à jour régulièrement par les érudits et les MJ. Toute information lue ici est considérée comme connue par votre personnage, si vous souhaitez en apprendre plus sur le monde découvrez le en RP.*
+
+Lien vers le serveur Discord : [https://discord.gg/XzCrqh5F4s](https://discord.gg/XzCrqh5F4s)
