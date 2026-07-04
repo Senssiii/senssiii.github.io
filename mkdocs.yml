@@ -21,7 +21,13 @@ plugins:
 nav:
   - Accueil: index.md
   - Léos: royaumes/leos.md
+  - Les Couronnes libres: royaumes/confederation_couronne.md
+  - Dolph: royaumes/dolph.md
   - Religion:
     - Varunat: religion/varunat.md
     - Serathisme: religion/serathisme.md
+  - Factions:
+    - Sang d'or: politique/sang_or.md
+    - Main d'or: politique/main_or.md
+    - Coeur d'or: politique/coeur_or.md
 use_directory_urls: false
