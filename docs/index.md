@@ -1,5 +1,29 @@
 # Bienvenue sur les Archives de Karak
 
+<div style="
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px 0;
+    width: 100%;">
+    <!-- Blason 1 -->
+    <div style="text-align: center; max-width: 200px;">
+        <img src="/assets/sang_or.png" style="width: 100%; height: auto; filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));" alt="Maison Vareli">
+        <p style="font-family: 'Cinzel', serif; font-size: 0.8em; margin-top: 5px;">Maison Vareli</p>
+    </div>
+    <!-- Blason 2 -->
+    <div style="text-align: center; max-width: 200px;">
+        <img src="/assets/ordre_purificateur.png" style="width: 100%; height: auto; filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));" alt="Les Purificateurs">
+        <p style="font-family: 'Cinzel', serif; font-size: 0.8em; margin-top: 5px;">Purificateurs</p>
+    </div>
+    <!-- Blason 3 -->
+    <div style="text-align: center; max-width: 200px;">
+        <img src="/assets/main_or.png" style="width: 100%; height: auto; filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));" alt="Mains d'Or">
+        <p style="font-family: 'Cinzel', serif; font-size: 0.8em; margin-top: 5px;">Mains d'Or</p>
+    </div>
+</div>
+
 **Karak** est un projet de jeu de rôle (RP) médiéval semi réaliste et politique. Ce wiki recense des connaissances historiques, géographiques et techniques nécessaires pour évoluer dans cet univers.
 
 Le monde de Karak se distingue par son approche brute et immersive : pas de statistiques RPG abstraites. Les interactions reposent sur la maîtrise réelle de l'artisanat, la finesse diplomatique et l'influence au sein des différentes institutions sociales.
