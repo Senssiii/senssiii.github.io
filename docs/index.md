@@ -14,7 +14,7 @@
 
     <div style="text-align: center; width: 150px;">
         <img src="/assets/vindol.png" style="width: 100%; height: auto; filter: drop-shadow(0 5px 8px rgba(0,0,0,0.3));" alt="Les Purificateurs">
-        <p style="font-family: 'Cinzel', serif; font-size: 0.75em; margin-top: 5px; color: var(--dark);">Le royaume de Vindol</p>
+        <p style="font-family: 'Cinzel', serif; font-size: 0.75em; margin-top: 5px; color: var(--dark);">Le Royaume de Vindol</p>
     </div>
 
     <div style="text-align: center; width: 150px;">
@@ -29,7 +29,7 @@
 
     <div style="text-align: center; width: 150px;">
         <img src="/assets/coeur_or.png" style="width: 100%; height: auto; filter: drop-shadow(0 5px 8px rgba(0,0,0,0.3));" alt="Maison Vareli">
-        <p style="font-family: 'Cinzel', serif; font-size: 0.75em; margin-top: 5px; color: var(--dark);">Les coeurs d'Or</p>
+        <p style="font-family: 'Cinzel', serif; font-size: 0.75em; margin-top: 5px; color: var(--dark);">Les Coeurs d'Or</p>
     </div>
 
 
