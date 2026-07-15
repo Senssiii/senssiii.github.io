@@ -19,6 +19,7 @@ plugins:
 
 nav:
   - Accueil: index.md
+  - Fiche: hrp/creer_son_identitee.md
   - Léos: royaumes/leos.md
   - Les Couronnes libres: royaumes/confederation_couronne.md
   - Dolph: royaumes/dolph.md
