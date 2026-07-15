@@ -64,7 +64,7 @@ La cité de Léos comprend trois factions qu'il est nécessaire de rejoindre pou
 
 ---
 
-**Pour entrer dans le serveur** -> [Créer son identitée](./hrp/creer_son_identitee.md)
+**Pour entrer dans le serveur** > [Créer son identitée](./hrp/creer_son_identitee.md)
 
 ---
 
