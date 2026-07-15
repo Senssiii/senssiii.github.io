@@ -62,7 +62,9 @@ La cité de Léos comprend trois factions qu'il est nécessaire de rejoindre pou
 * **[Les mains d'or](./politique/main_or.md) :** La puissante guilde des marchands et des armateurs qui détient le monopole du commerce maritime et assure la prospérité économique de l'île.
 * **[Les sang d'or](./politique/sang_or.md) :** La haute aristocratie issue de la Maison Vareli, dévouée à la préservation du lignage princier et à la stabilité politique de l'État.
 
-**Pour entrer sur le serveur** -> [Créer son identitée](./hrp/creer_son_identitee.md)
+---
+
+**Pour entrer dans le serveur** -> [Créer son identitée](./hrp/creer_son_identitee.md)
 
 ---
 
