@@ -19,3 +19,7 @@ La grande majorité de ces royaumes suit le **Varunat**. Cependant, loin de l'au
 Les habitants de la Confédération incarnent la figure du "Marchand-Soldat", maniant le contrat aussi bien que la lame. Admirée pour son opulence, l’Union est pourtant perçue comme un édifice instable, maintenu par la seule inertie depuis que la menace des créatures errantes s'est estompée. On reproche à la Confédération une gestion opportuniste, où la sécurité exemplaire des routes caravanières camoufle une tyrannie domestique implacable.
 
 Si les cités sudistes sont les plus prospères, elles sont aussi les plus funestes : le pilori et l'exil définitif dans les déserts arides y sanctionnent quotidiennement les débiteurs ou les espions. Les Sudistes sont cultivés et travailleurs, mais leur protectionnisme farouche confine à une xénophobie assumée ; il n’existe pas de peuple plus fier de leur terre.
+
+### Plats typiques
+
+- **La "Brioche de Garde"** :Une miche de pain dense et salée, safranée pour lui donner une teinte dorée, cuite dans un moule en fonte qui imprime la forme d'une tour crénelée. Elle est farcie en son centre d'un effiloché de viande séchée et d'olives noires confites, permettant aux voyageurs de la transporter des jours durant sans qu'elle ne se gâte.

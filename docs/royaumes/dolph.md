@@ -26,3 +26,4 @@ Dolph suit scrupuleusement le **Varunat** traditionnel. Ici, Varûn n'est pas l'
 ### Plats typiques
 
 - **La "Tarte des Moissons"** : Une pâtisserie fine à la croûte dorée, garnie de fruits du verger confits dans un vin liquoreux et parsemée de fleurs comestibles séchées. C’est un plat d’apparat servi lors des fêtes de la floraison, symbolisant l'abondance et la générosité de la terre. Sa texture est à la fois croustillante et fondante, dégageant un parfum sucré très persistant.
+- **Le "Ragoût du Chevalier"** : Un mijoté de bœuf ou de venaison tendre, mariné et cuit de longues heures dans un vin rouge lourd et aromatisé aux herbes des vallées (thym, laurier, sauge). Il est accompagné de légumes racines glacés au miel (navets, carottes).
