@@ -10,8 +10,8 @@
 
 ## **II. APTITUDES & FAILLES**
 
-- > **Maîtrise :** (Votre force principale)
-- > **Faiblesse :** (Votre plus gros défaut ou addiction)
+- > **Maîtrises :** (Votre force principale)
+- > **Faiblesses :** (Votre plus gros défaut ou addiction)
 
 ## **III. PROJETS & OMBRES**
 
